@@ -1,0 +1,11366 @@
+[
+  {
+    "name": "Smileys & Emotion",
+    "slug": "smileys_emotion",
+    "emojis": [
+      {
+        "uid": "1f600",
+        "tags": [
+          "grinning_face"
+        ]
+      },
+      {
+        "uid": "1f603",
+        "tags": [
+          "grinning_face_with_big_eyes"
+        ]
+      },
+      {
+        "uid": "1f604",
+        "tags": [
+          "grinning_face_with_smiling_eyes"
+        ]
+      },
+      {
+        "uid": "1f601",
+        "tags": [
+          "beaming_face_with_smiling_eyes"
+        ]
+      },
+      {
+        "uid": "1f606",
+        "tags": [
+          "grinning_squinting_face"
+        ]
+      },
+      {
+        "uid": "1f605",
+        "tags": [
+          "grinning_face_with_sweat"
+        ]
+      },
+      {
+        "uid": "1f923",
+        "tags": [
+          "rolling_on_the_floor_laughing"
+        ]
+      },
+      {
+        "uid": "1f602",
+        "tags": [
+          "face_with_tears_of_joy"
+        ]
+      },
+      {
+        "uid": "1f642",
+        "tags": [
+          "slightly_smiling_face"
+        ]
+      },
+      {
+        "uid": "1f643",
+        "tags": [
+          "upside_down_face"
+        ]
+      },
+      {
+        "uid": "1fae0",
+        "tags": [
+          "melting_face"
+        ]
+      },
+      {
+        "uid": "1f609",
+        "tags": [
+          "winking_face"
+        ]
+      },
+      {
+        "uid": "1f60a",
+        "tags": [
+          "smiling_face_with_smiling_eyes"
+        ]
+      },
+      {
+        "uid": "1f607",
+        "tags": [
+          "smiling_face_with_halo"
+        ]
+      },
+      {
+        "uid": "1f970",
+        "tags": [
+          "smiling_face_with_hearts"
+        ]
+      },
+      {
+        "uid": "1f60d",
+        "tags": [
+          "smiling_face_with_heart_eyes"
+        ]
+      },
+      {
+        "uid": "1f929",
+        "tags": [
+          "star_struck"
+        ]
+      },
+      {
+        "uid": "1f618",
+        "tags": [
+          "face_blowing_a_kiss"
+        ]
+      },
+      {
+        "uid": "1f617",
+        "tags": [
+          "kissing_face"
+        ]
+      },
+      {
+        "uid": "263a",
+        "tags": [
+          "smiling_face"
+        ]
+      },
+      {
+        "uid": "1f61a",
+        "tags": [
+          "kissing_face_with_closed_eyes"
+        ]
+      },
+      {
+        "uid": "1f619",
+        "tags": [
+          "kissing_face_with_smiling_eyes"
+        ]
+      },
+      {
+        "uid": "1f972",
+        "tags": [
+          "smiling_face_with_tear"
+        ]
+      },
+      {
+        "uid": "1f60b",
+        "tags": [
+          "face_savoring_food"
+        ]
+      },
+      {
+        "uid": "1f61b",
+        "tags": [
+          "face_with_tongue"
+        ]
+      },
+      {
+        "uid": "1f61c",
+        "tags": [
+          "winking_face_with_tongue"
+        ]
+      },
+      {
+        "uid": "1f92a",
+        "tags": [
+          "zany_face"
+        ]
+      },
+      {
+        "uid": "1f61d",
+        "tags": [
+          "squinting_face_with_tongue"
+        ]
+      },
+      {
+        "uid": "1f911",
+        "tags": [
+          "money_mouth_face"
+        ]
+      },
+      {
+        "uid": "1f917",
+        "tags": [
+          "smiling_face_with_open_hands"
+        ]
+      },
+      {
+        "uid": "1f92d",
+        "tags": [
+          "face_with_hand_over_mouth"
+        ]
+      },
+      {
+        "uid": "1fae2",
+        "tags": [
+          "face_with_open_eyes_and_hand_over_mouth"
+        ]
+      },
+      {
+        "uid": "1fae3",
+        "tags": [
+          "face_with_peeking_eye"
+        ]
+      },
+      {
+        "uid": "1f92b",
+        "tags": [
+          "shushing_face"
+        ]
+      },
+      {
+        "uid": "1f914",
+        "tags": [
+          "thinking_face"
+        ]
+      },
+      {
+        "uid": "1fae1",
+        "tags": [
+          "saluting_face"
+        ]
+      },
+      {
+        "uid": "1f910",
+        "tags": [
+          "zipper_mouth_face"
+        ]
+      },
+      {
+        "uid": "1f928",
+        "tags": [
+          "face_with_raised_eyebrow"
+        ]
+      },
+      {
+        "uid": "1f610",
+        "tags": [
+          "neutral_face"
+        ]
+      },
+      {
+        "uid": "1f611",
+        "tags": [
+          "expressionless_face"
+        ]
+      },
+      {
+        "uid": "1f636",
+        "tags": [
+          "face_without_mouth"
+        ]
+      },
+      {
+        "uid": "1fae5",
+        "tags": [
+          "dotted_line_face"
+        ]
+      },
+      {
+        "uid": "1f636-200d-1f32b-fe0f",
+        "tags": [
+          "face_in_clouds"
+        ]
+      },
+      {
+        "uid": "1f60f",
+        "tags": [
+          "smirking_face"
+        ]
+      },
+      {
+        "uid": "1f612",
+        "tags": [
+          "unamused_face"
+        ]
+      },
+      {
+        "uid": "1f644",
+        "tags": [
+          "face_with_rolling_eyes"
+        ]
+      },
+      {
+        "uid": "1f62c",
+        "tags": [
+          "grimacing_face"
+        ]
+      },
+      {
+        "uid": "1f62e-200d-1f4a8",
+        "tags": [
+          "face_exhaling"
+        ]
+      },
+      {
+        "uid": "1f925",
+        "tags": [
+          "lying_face"
+        ]
+      },
+      {
+        "uid": "1fae8",
+        "tags": [
+          "shaking_face"
+        ]
+      },
+      {
+        "uid": "1f642-200d-2194-fe0f",
+        "tags": [
+          "head_shaking_horizontally"
+        ]
+      },
+      {
+        "uid": "1f642-200d-2195-fe0f",
+        "tags": [
+          "head_shaking_vertically"
+        ]
+      },
+      {
+        "uid": "1f60c",
+        "tags": [
+          "relieved_face"
+        ]
+      },
+      {
+        "uid": "1f614",
+        "tags": [
+          "pensive_face"
+        ]
+      },
+      {
+        "uid": "1f62a",
+        "tags": [
+          "sleepy_face"
+        ]
+      },
+      {
+        "uid": "1f924",
+        "tags": [
+          "drooling_face"
+        ]
+      },
+      {
+        "uid": "1f634",
+        "tags": [
+          "sleeping_face"
+        ]
+      },
+      {
+        "uid": "1f637",
+        "tags": [
+          "face_with_medical_mask"
+        ]
+      },
+      {
+        "uid": "1f912",
+        "tags": [
+          "face_with_thermometer"
+        ]
+      },
+      {
+        "uid": "1f915",
+        "tags": [
+          "face_with_head_bandage"
+        ]
+      },
+      {
+        "uid": "1f922",
+        "tags": [
+          "nauseated_face"
+        ]
+      },
+      {
+        "uid": "1f92e",
+        "tags": [
+          "face_vomiting"
+        ]
+      },
+      {
+        "uid": "1f927",
+        "tags": [
+          "sneezing_face"
+        ]
+      },
+      {
+        "uid": "1f975",
+        "tags": [
+          "hot_face"
+        ]
+      },
+      {
+        "uid": "1f976",
+        "tags": [
+          "cold_face"
+        ]
+      },
+      {
+        "uid": "1f974",
+        "tags": [
+          "woozy_face"
+        ]
+      },
+      {
+        "uid": "1f635",
+        "tags": [
+          "face_with_crossed_out_eyes"
+        ]
+      },
+      {
+        "uid": "1f635-200d-1f4ab",
+        "tags": [
+          "face_with_spiral_eyes"
+        ]
+      },
+      {
+        "uid": "1f92f",
+        "tags": [
+          "exploding_head"
+        ]
+      },
+      {
+        "uid": "1f920",
+        "tags": [
+          "cowboy_hat_face"
+        ]
+      },
+      {
+        "uid": "1f973",
+        "tags": [
+          "partying_face"
+        ]
+      },
+      {
+        "uid": "1f978",
+        "tags": [
+          "disguised_face"
+        ]
+      },
+      {
+        "uid": "1f60e",
+        "tags": [
+          "smiling_face_with_sunglasses"
+        ]
+      },
+      {
+        "uid": "1f913",
+        "tags": [
+          "nerd_face"
+        ]
+      },
+      {
+        "uid": "1f9d0",
+        "tags": [
+          "face_with_monocle"
+        ]
+      },
+      {
+        "uid": "1f615",
+        "tags": [
+          "confused_face"
+        ]
+      },
+      {
+        "uid": "1fae4",
+        "tags": [
+          "face_with_diagonal_mouth"
+        ]
+      },
+      {
+        "uid": "1f61f",
+        "tags": [
+          "worried_face"
+        ]
+      },
+      {
+        "uid": "1f641",
+        "tags": [
+          "slightly_frowning_face"
+        ]
+      },
+      {
+        "uid": "2639",
+        "tags": [
+          "frowning_face"
+        ]
+      },
+      {
+        "uid": "1f62e",
+        "tags": [
+          "face_with_open_mouth"
+        ]
+      },
+      {
+        "uid": "1f62f",
+        "tags": [
+          "hushed_face"
+        ]
+      },
+      {
+        "uid": "1f632",
+        "tags": [
+          "astonished_face"
+        ]
+      },
+      {
+        "uid": "1f633",
+        "tags": [
+          "flushed_face"
+        ]
+      },
+      {
+        "uid": "1f97a",
+        "tags": [
+          "pleading_face"
+        ]
+      },
+      {
+        "uid": "1f979",
+        "tags": [
+          "face_holding_back_tears"
+        ]
+      },
+      {
+        "uid": "1f626",
+        "tags": [
+          "frowning_face_with_open_mouth"
+        ]
+      },
+      {
+        "uid": "1f627",
+        "tags": [
+          "anguished_face"
+        ]
+      },
+      {
+        "uid": "1f628",
+        "tags": [
+          "fearful_face"
+        ]
+      },
+      {
+        "uid": "1f630",
+        "tags": [
+          "anxious_face_with_sweat"
+        ]
+      },
+      {
+        "uid": "1f625",
+        "tags": [
+          "sad_but_relieved_face"
+        ]
+      },
+      {
+        "uid": "1f622",
+        "tags": [
+          "crying_face"
+        ]
+      },
+      {
+        "uid": "1f62d",
+        "tags": [
+          "loudly_crying_face"
+        ]
+      },
+      {
+        "uid": "1f631",
+        "tags": [
+          "face_screaming_in_fear"
+        ]
+      },
+      {
+        "uid": "1f616",
+        "tags": [
+          "confounded_face"
+        ]
+      },
+      {
+        "uid": "1f623",
+        "tags": [
+          "persevering_face"
+        ]
+      },
+      {
+        "uid": "1f61e",
+        "tags": [
+          "disappointed_face"
+        ]
+      },
+      {
+        "uid": "1f613",
+        "tags": [
+          "downcast_face_with_sweat"
+        ]
+      },
+      {
+        "uid": "1f629",
+        "tags": [
+          "weary_face"
+        ]
+      },
+      {
+        "uid": "1f62b",
+        "tags": [
+          "tired_face"
+        ]
+      },
+      {
+        "uid": "1f971",
+        "tags": [
+          "yawning_face"
+        ]
+      },
+      {
+        "uid": "1f624",
+        "tags": [
+          "face_with_steam_from_nose"
+        ]
+      },
+      {
+        "uid": "1f621",
+        "tags": [
+          "enraged_face"
+        ]
+      },
+      {
+        "uid": "1f620",
+        "tags": [
+          "angry_face"
+        ]
+      },
+      {
+        "uid": "1f92c",
+        "tags": [
+          "face_with_symbols_on_mouth"
+        ]
+      },
+      {
+        "uid": "1f608",
+        "tags": [
+          "smiling_face_with_horns"
+        ]
+      },
+      {
+        "uid": "1f47f",
+        "tags": [
+          "angry_face_with_horns"
+        ]
+      },
+      {
+        "uid": "1f480",
+        "tags": [
+          "skull"
+        ]
+      },
+      {
+        "uid": "2620",
+        "tags": [
+          "skull_and_crossbones"
+        ]
+      },
+      {
+        "uid": "1f4a9",
+        "tags": [
+          "pile_of_poo"
+        ]
+      },
+      {
+        "uid": "1f921",
+        "tags": [
+          "clown_face"
+        ]
+      },
+      {
+        "uid": "1f479",
+        "tags": [
+          "ogre"
+        ]
+      },
+      {
+        "uid": "1f47a",
+        "tags": [
+          "goblin"
+        ]
+      },
+      {
+        "uid": "1f47b",
+        "tags": [
+          "ghost"
+        ]
+      },
+      {
+        "uid": "1f47d",
+        "tags": [
+          "alien"
+        ]
+      },
+      {
+        "uid": "1f47e",
+        "tags": [
+          "alien_monster"
+        ]
+      },
+      {
+        "uid": "1f916",
+        "tags": [
+          "robot"
+        ]
+      },
+      {
+        "uid": "1f63a",
+        "tags": [
+          "grinning_cat"
+        ]
+      },
+      {
+        "uid": "1f638",
+        "tags": [
+          "grinning_cat_with_smiling_eyes"
+        ]
+      },
+      {
+        "uid": "1f639",
+        "tags": [
+          "cat_with_tears_of_joy"
+        ]
+      },
+      {
+        "uid": "1f63b",
+        "tags": [
+          "smiling_cat_with_heart_eyes"
+        ]
+      },
+      {
+        "uid": "1f63c",
+        "tags": [
+          "cat_with_wry_smile"
+        ]
+      },
+      {
+        "uid": "1f63d",
+        "tags": [
+          "kissing_cat"
+        ]
+      },
+      {
+        "uid": "1f640",
+        "tags": [
+          "weary_cat"
+        ]
+      },
+      {
+        "uid": "1f63f",
+        "tags": [
+          "crying_cat"
+        ]
+      },
+      {
+        "uid": "1f63e",
+        "tags": [
+          "pouting_cat"
+        ]
+      },
+      {
+        "uid": "1f648",
+        "tags": [
+          "see_no_evil_monkey"
+        ]
+      },
+      {
+        "uid": "1f649",
+        "tags": [
+          "hear_no_evil_monkey"
+        ]
+      },
+      {
+        "uid": "1f64a",
+        "tags": [
+          "speak_no_evil_monkey"
+        ]
+      },
+      {
+        "uid": "1f48c",
+        "tags": [
+          "love_letter"
+        ]
+      },
+      {
+        "uid": "1f498",
+        "tags": [
+          "heart_with_arrow"
+        ]
+      },
+      {
+        "uid": "1f49d",
+        "tags": [
+          "heart_with_ribbon"
+        ]
+      },
+      {
+        "uid": "1f496",
+        "tags": [
+          "sparkling_heart"
+        ]
+      },
+      {
+        "uid": "1f497",
+        "tags": [
+          "growing_heart"
+        ]
+      },
+      {
+        "uid": "1f493",
+        "tags": [
+          "beating_heart"
+        ]
+      },
+      {
+        "uid": "1f49e",
+        "tags": [
+          "revolving_hearts"
+        ]
+      },
+      {
+        "uid": "1f495",
+        "tags": [
+          "two_hearts"
+        ]
+      },
+      {
+        "uid": "1f49f",
+        "tags": [
+          "heart_decoration"
+        ]
+      },
+      {
+        "uid": "2763",
+        "tags": [
+          "heart_exclamation"
+        ]
+      },
+      {
+        "uid": "1f494",
+        "tags": [
+          "broken_heart"
+        ]
+      },
+      {
+        "uid": "2764-fe0f-200d-1f525",
+        "tags": [
+          "heart_on_fire"
+        ]
+      },
+      {
+        "uid": "2764-fe0f-200d-1fa79",
+        "tags": [
+          "mending_heart"
+        ]
+      },
+      {
+        "uid": "2764",
+        "tags": [
+          "red_heart"
+        ]
+      },
+      {
+        "uid": "1fa77",
+        "tags": [
+          "pink_heart"
+        ]
+      },
+      {
+        "uid": "1f9e1",
+        "tags": [
+          "orange_heart"
+        ]
+      },
+      {
+        "uid": "1f49b",
+        "tags": [
+          "yellow_heart"
+        ]
+      },
+      {
+        "uid": "1f49a",
+        "tags": [
+          "green_heart"
+        ]
+      },
+      {
+        "uid": "1f499",
+        "tags": [
+          "blue_heart"
+        ]
+      },
+      {
+        "uid": "1fa75",
+        "tags": [
+          "light_blue_heart"
+        ]
+      },
+      {
+        "uid": "1f49c",
+        "tags": [
+          "purple_heart"
+        ]
+      },
+      {
+        "uid": "1f90e",
+        "tags": [
+          "brown_heart"
+        ]
+      },
+      {
+        "uid": "1f5a4",
+        "tags": [
+          "black_heart"
+        ]
+      },
+      {
+        "uid": "1fa76",
+        "tags": [
+          "grey_heart"
+        ]
+      },
+      {
+        "uid": "1f90d",
+        "tags": [
+          "white_heart"
+        ]
+      },
+      {
+        "uid": "1f48b",
+        "tags": [
+          "kiss_mark"
+        ]
+      },
+      {
+        "uid": "1f4af",
+        "tags": [
+          "hundred_points"
+        ]
+      },
+      {
+        "uid": "1f4a2",
+        "tags": [
+          "anger_symbol"
+        ]
+      },
+      {
+        "uid": "1f4a5",
+        "tags": [
+          "collision"
+        ]
+      },
+      {
+        "uid": "1f4ab",
+        "tags": [
+          "dizzy"
+        ]
+      },
+      {
+        "uid": "1f4a6",
+        "tags": [
+          "sweat_droplets"
+        ]
+      },
+      {
+        "uid": "1f4a8",
+        "tags": [
+          "dashing_away"
+        ]
+      },
+      {
+        "uid": "1f573",
+        "tags": [
+          "hole"
+        ]
+      },
+      {
+        "uid": "1f4ac",
+        "tags": [
+          "speech_balloon"
+        ]
+      },
+      {
+        "uid": "1f5e8",
+        "tags": [
+          "left_speech_bubble"
+        ]
+      },
+      {
+        "uid": "1f5ef",
+        "tags": [
+          "right_anger_bubble"
+        ]
+      },
+      {
+        "uid": "1f4ad",
+        "tags": [
+          "thought_balloon"
+        ]
+      },
+      {
+        "uid": "1f4a4",
+        "tags": [
+          "zzz"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "People & Body",
+    "slug": "people_body",
+    "emojis": [
+      {
+        "uid": "1f44b",
+        "tags": [
+          "waving_hand"
+        ]
+      },
+      {
+        "uid": "1f91a",
+        "tags": [
+          "raised_back_of_hand"
+        ]
+      },
+      {
+        "uid": "1f590",
+        "tags": [
+          "hand_with_fingers_splayed"
+        ]
+      },
+      {
+        "uid": "270b",
+        "tags": [
+          "raised_hand"
+        ]
+      },
+      {
+        "uid": "1f596",
+        "tags": [
+          "vulcan_salute"
+        ]
+      },
+      {
+        "uid": "1faf1",
+        "tags": [
+          "rightwards_hand"
+        ]
+      },
+      {
+        "uid": "1faf2",
+        "tags": [
+          "leftwards_hand"
+        ]
+      },
+      {
+        "uid": "1faf3",
+        "tags": [
+          "palm_down_hand"
+        ]
+      },
+      {
+        "uid": "1faf4",
+        "tags": [
+          "palm_up_hand"
+        ]
+      },
+      {
+        "uid": "1faf7",
+        "tags": [
+          "leftwards_pushing_hand"
+        ]
+      },
+      {
+        "uid": "1faf8",
+        "tags": [
+          "rightwards_pushing_hand"
+        ]
+      },
+      {
+        "uid": "1f44c",
+        "tags": [
+          "ok_hand"
+        ]
+      },
+      {
+        "uid": "1f90c",
+        "tags": [
+          "pinched_fingers"
+        ]
+      },
+      {
+        "uid": "1f90f",
+        "tags": [
+          "pinching_hand"
+        ]
+      },
+      {
+        "uid": "270c",
+        "tags": [
+          "victory_hand"
+        ]
+      },
+      {
+        "uid": "1f91e",
+        "tags": [
+          "crossed_fingers"
+        ]
+      },
+      {
+        "uid": "1faf0",
+        "tags": [
+          "hand_with_index_finger_and_thumb_crossed"
+        ]
+      },
+      {
+        "uid": "1f91f",
+        "tags": [
+          "love_you_gesture"
+        ]
+      },
+      {
+        "uid": "1f918",
+        "tags": [
+          "sign_of_the_horns"
+        ]
+      },
+      {
+        "uid": "1f919",
+        "tags": [
+          "call_me_hand"
+        ]
+      },
+      {
+        "uid": "1f448",
+        "tags": [
+          "backhand_index_pointing_left"
+        ]
+      },
+      {
+        "uid": "1f449",
+        "tags": [
+          "backhand_index_pointing_right"
+        ]
+      },
+      {
+        "uid": "1f446",
+        "tags": [
+          "backhand_index_pointing_up"
+        ]
+      },
+      {
+        "uid": "1f595",
+        "tags": [
+          "middle_finger"
+        ]
+      },
+      {
+        "uid": "1f447",
+        "tags": [
+          "backhand_index_pointing_down"
+        ]
+      },
+      {
+        "uid": "261d",
+        "tags": [
+          "index_pointing_up"
+        ]
+      },
+      {
+        "uid": "1faf5",
+        "tags": [
+          "index_pointing_at_the_viewer"
+        ]
+      },
+      {
+        "uid": "1f44d",
+        "tags": [
+          "thumbs_up"
+        ]
+      },
+      {
+        "uid": "1f44e",
+        "tags": [
+          "thumbs_down"
+        ]
+      },
+      {
+        "uid": "270a",
+        "tags": [
+          "raised_fist"
+        ]
+      },
+      {
+        "uid": "1f44a",
+        "tags": [
+          "oncoming_fist"
+        ]
+      },
+      {
+        "uid": "1f91b",
+        "tags": [
+          "left_facing_fist"
+        ]
+      },
+      {
+        "uid": "1f91c",
+        "tags": [
+          "right_facing_fist"
+        ]
+      },
+      {
+        "uid": "1f44f",
+        "tags": [
+          "clapping_hands"
+        ]
+      },
+      {
+        "uid": "1f64c",
+        "tags": [
+          "raising_hands"
+        ]
+      },
+      {
+        "uid": "1faf6",
+        "tags": [
+          "heart_hands"
+        ]
+      },
+      {
+        "uid": "1f450",
+        "tags": [
+          "open_hands"
+        ]
+      },
+      {
+        "uid": "1f932",
+        "tags": [
+          "palms_up_together"
+        ]
+      },
+      {
+        "uid": "1f91d",
+        "tags": [
+          "handshake"
+        ]
+      },
+      {
+        "uid": "1f64f",
+        "tags": [
+          "folded_hands"
+        ]
+      },
+      {
+        "uid": "270d",
+        "tags": [
+          "writing_hand"
+        ]
+      },
+      {
+        "uid": "1f485",
+        "tags": [
+          "nail_polish"
+        ]
+      },
+      {
+        "uid": "1f933",
+        "tags": [
+          "selfie"
+        ]
+      },
+      {
+        "uid": "1f4aa",
+        "tags": [
+          "flexed_biceps"
+        ]
+      },
+      {
+        "uid": "1f9be",
+        "tags": [
+          "mechanical_arm"
+        ]
+      },
+      {
+        "uid": "1f9bf",
+        "tags": [
+          "mechanical_leg"
+        ]
+      },
+      {
+        "uid": "1f9b5",
+        "tags": [
+          "leg"
+        ]
+      },
+      {
+        "uid": "1f9b6",
+        "tags": [
+          "foot"
+        ]
+      },
+      {
+        "uid": "1f442",
+        "tags": [
+          "ear"
+        ]
+      },
+      {
+        "uid": "1f9bb",
+        "tags": [
+          "ear_with_hearing_aid"
+        ]
+      },
+      {
+        "uid": "1f443",
+        "tags": [
+          "nose"
+        ]
+      },
+      {
+        "uid": "1f9e0",
+        "tags": [
+          "brain"
+        ]
+      },
+      {
+        "uid": "1fac0",
+        "tags": [
+          "anatomical_heart"
+        ]
+      },
+      {
+        "uid": "1fac1",
+        "tags": [
+          "lungs"
+        ]
+      },
+      {
+        "uid": "1f9b7",
+        "tags": [
+          "tooth"
+        ]
+      },
+      {
+        "uid": "1f9b4",
+        "tags": [
+          "bone"
+        ]
+      },
+      {
+        "uid": "1f440",
+        "tags": [
+          "eyes"
+        ]
+      },
+      {
+        "uid": "1f441",
+        "tags": [
+          "eye"
+        ]
+      },
+      {
+        "uid": "1f445",
+        "tags": [
+          "tongue"
+        ]
+      },
+      {
+        "uid": "1f444",
+        "tags": [
+          "mouth"
+        ]
+      },
+      {
+        "uid": "1fae6",
+        "tags": [
+          "biting_lip"
+        ]
+      },
+      {
+        "uid": "1f476",
+        "tags": [
+          "baby"
+        ]
+      },
+      {
+        "uid": "1f9d2",
+        "tags": [
+          "child"
+        ]
+      },
+      {
+        "uid": "1f466",
+        "tags": [
+          "boy"
+        ]
+      },
+      {
+        "uid": "1f467",
+        "tags": [
+          "girl"
+        ]
+      },
+      {
+        "uid": "1f9d1",
+        "tags": [
+          "person"
+        ]
+      },
+      {
+        "uid": "1f471",
+        "tags": [
+          "person_blond_hair"
+        ]
+      },
+      {
+        "uid": "1f468",
+        "tags": [
+          "man"
+        ]
+      },
+      {
+        "uid": "1f9d4",
+        "tags": [
+          "person_beard"
+        ]
+      },
+      {
+        "uid": "1f9d4-200d-2642-fe0f",
+        "tags": [
+          "man_beard"
+        ]
+      },
+      {
+        "uid": "1f9d4-200d-2640-fe0f",
+        "tags": [
+          "woman_beard"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f9b0",
+        "tags": [
+          "man_red_hair"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f9b1",
+        "tags": [
+          "man_curly_hair"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f9b3",
+        "tags": [
+          "man_white_hair"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f9b2",
+        "tags": [
+          "man_bald"
+        ]
+      },
+      {
+        "uid": "1f469",
+        "tags": [
+          "woman"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f9b0",
+        "tags": [
+          "woman_red_hair"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f9b0",
+        "tags": [
+          "person_red_hair"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f9b1",
+        "tags": [
+          "woman_curly_hair"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f9b1",
+        "tags": [
+          "person_curly_hair"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f9b3",
+        "tags": [
+          "woman_white_hair"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f9b3",
+        "tags": [
+          "person_white_hair"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f9b2",
+        "tags": [
+          "woman_bald"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f9b2",
+        "tags": [
+          "person_bald"
+        ]
+      },
+      {
+        "uid": "1f471-200d-2640-fe0f",
+        "tags": [
+          "woman_blond_hair"
+        ]
+      },
+      {
+        "uid": "1f471-200d-2642-fe0f",
+        "tags": [
+          "man_blond_hair"
+        ]
+      },
+      {
+        "uid": "1f9d3",
+        "tags": [
+          "older_person"
+        ]
+      },
+      {
+        "uid": "1f474",
+        "tags": [
+          "old_man"
+        ]
+      },
+      {
+        "uid": "1f475",
+        "tags": [
+          "old_woman"
+        ]
+      },
+      {
+        "uid": "1f64d",
+        "tags": [
+          "person_frowning"
+        ]
+      },
+      {
+        "uid": "1f64d-200d-2642-fe0f",
+        "tags": [
+          "man_frowning"
+        ]
+      },
+      {
+        "uid": "1f64d-200d-2640-fe0f",
+        "tags": [
+          "woman_frowning"
+        ]
+      },
+      {
+        "uid": "1f64e",
+        "tags": [
+          "person_pouting"
+        ]
+      },
+      {
+        "uid": "1f64e-200d-2642-fe0f",
+        "tags": [
+          "man_pouting"
+        ]
+      },
+      {
+        "uid": "1f64e-200d-2640-fe0f",
+        "tags": [
+          "woman_pouting"
+        ]
+      },
+      {
+        "uid": "1f645",
+        "tags": [
+          "person_gesturing_no"
+        ]
+      },
+      {
+        "uid": "1f645-200d-2642-fe0f",
+        "tags": [
+          "man_gesturing_no"
+        ]
+      },
+      {
+        "uid": "1f645-200d-2640-fe0f",
+        "tags": [
+          "woman_gesturing_no"
+        ]
+      },
+      {
+        "uid": "1f646",
+        "tags": [
+          "person_gesturing_ok"
+        ]
+      },
+      {
+        "uid": "1f646-200d-2642-fe0f",
+        "tags": [
+          "man_gesturing_ok"
+        ]
+      },
+      {
+        "uid": "1f646-200d-2640-fe0f",
+        "tags": [
+          "woman_gesturing_ok"
+        ]
+      },
+      {
+        "uid": "1f481",
+        "tags": [
+          "person_tipping_hand"
+        ]
+      },
+      {
+        "uid": "1f481-200d-2642-fe0f",
+        "tags": [
+          "man_tipping_hand"
+        ]
+      },
+      {
+        "uid": "1f481-200d-2640-fe0f",
+        "tags": [
+          "woman_tipping_hand"
+        ]
+      },
+      {
+        "uid": "1f64b",
+        "tags": [
+          "person_raising_hand"
+        ]
+      },
+      {
+        "uid": "1f64b-200d-2642-fe0f",
+        "tags": [
+          "man_raising_hand"
+        ]
+      },
+      {
+        "uid": "1f64b-200d-2640-fe0f",
+        "tags": [
+          "woman_raising_hand"
+        ]
+      },
+      {
+        "uid": "1f9cf",
+        "tags": [
+          "deaf_person"
+        ]
+      },
+      {
+        "uid": "1f9cf-200d-2642-fe0f",
+        "tags": [
+          "deaf_man"
+        ]
+      },
+      {
+        "uid": "1f9cf-200d-2640-fe0f",
+        "tags": [
+          "deaf_woman"
+        ]
+      },
+      {
+        "uid": "1f647",
+        "tags": [
+          "person_bowing"
+        ]
+      },
+      {
+        "uid": "1f647-200d-2642-fe0f",
+        "tags": [
+          "man_bowing"
+        ]
+      },
+      {
+        "uid": "1f647-200d-2640-fe0f",
+        "tags": [
+          "woman_bowing"
+        ]
+      },
+      {
+        "uid": "1f926",
+        "tags": [
+          "person_facepalming"
+        ]
+      },
+      {
+        "uid": "1f926-200d-2642-fe0f",
+        "tags": [
+          "man_facepalming"
+        ]
+      },
+      {
+        "uid": "1f926-200d-2640-fe0f",
+        "tags": [
+          "woman_facepalming"
+        ]
+      },
+      {
+        "uid": "1f937",
+        "tags": [
+          "person_shrugging"
+        ]
+      },
+      {
+        "uid": "1f937-200d-2642-fe0f",
+        "tags": [
+          "man_shrugging"
+        ]
+      },
+      {
+        "uid": "1f937-200d-2640-fe0f",
+        "tags": [
+          "woman_shrugging"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-2695-fe0f",
+        "tags": [
+          "health_worker"
+        ]
+      },
+      {
+        "uid": "1f468-200d-2695-fe0f",
+        "tags": [
+          "man_health_worker"
+        ]
+      },
+      {
+        "uid": "1f469-200d-2695-fe0f",
+        "tags": [
+          "woman_health_worker"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f393",
+        "tags": [
+          "student"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f393",
+        "tags": [
+          "man_student"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f393",
+        "tags": [
+          "woman_student"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f3eb",
+        "tags": [
+          "teacher"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f3eb",
+        "tags": [
+          "man_teacher"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f3eb",
+        "tags": [
+          "woman_teacher"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-2696-fe0f",
+        "tags": [
+          "judge"
+        ]
+      },
+      {
+        "uid": "1f468-200d-2696-fe0f",
+        "tags": [
+          "man_judge"
+        ]
+      },
+      {
+        "uid": "1f469-200d-2696-fe0f",
+        "tags": [
+          "woman_judge"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f33e",
+        "tags": [
+          "farmer"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f33e",
+        "tags": [
+          "man_farmer"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f33e",
+        "tags": [
+          "woman_farmer"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f373",
+        "tags": [
+          "cook"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f373",
+        "tags": [
+          "man_cook"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f373",
+        "tags": [
+          "woman_cook"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f527",
+        "tags": [
+          "mechanic"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f527",
+        "tags": [
+          "man_mechanic"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f527",
+        "tags": [
+          "woman_mechanic"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f3ed",
+        "tags": [
+          "factory_worker"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f3ed",
+        "tags": [
+          "man_factory_worker"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f3ed",
+        "tags": [
+          "woman_factory_worker"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f4bc",
+        "tags": [
+          "office_worker"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f4bc",
+        "tags": [
+          "man_office_worker"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f4bc",
+        "tags": [
+          "woman_office_worker"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f52c",
+        "tags": [
+          "scientist"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f52c",
+        "tags": [
+          "man_scientist"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f52c",
+        "tags": [
+          "woman_scientist"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f4bb",
+        "tags": [
+          "technologist"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f4bb",
+        "tags": [
+          "man_technologist"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f4bb",
+        "tags": [
+          "woman_technologist"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f3a4",
+        "tags": [
+          "singer"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f3a4",
+        "tags": [
+          "man_singer"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f3a4",
+        "tags": [
+          "woman_singer"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f3a8",
+        "tags": [
+          "artist"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f3a8",
+        "tags": [
+          "man_artist"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f3a8",
+        "tags": [
+          "woman_artist"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-2708-fe0f",
+        "tags": [
+          "pilot"
+        ]
+      },
+      {
+        "uid": "1f468-200d-2708-fe0f",
+        "tags": [
+          "man_pilot"
+        ]
+      },
+      {
+        "uid": "1f469-200d-2708-fe0f",
+        "tags": [
+          "woman_pilot"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f680",
+        "tags": [
+          "astronaut"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f680",
+        "tags": [
+          "man_astronaut"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f680",
+        "tags": [
+          "woman_astronaut"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f692",
+        "tags": [
+          "firefighter"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f692",
+        "tags": [
+          "man_firefighter"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f692",
+        "tags": [
+          "woman_firefighter"
+        ]
+      },
+      {
+        "uid": "1f46e",
+        "tags": [
+          "police_officer"
+        ]
+      },
+      {
+        "uid": "1f46e-200d-2642-fe0f",
+        "tags": [
+          "man_police_officer"
+        ]
+      },
+      {
+        "uid": "1f46e-200d-2640-fe0f",
+        "tags": [
+          "woman_police_officer"
+        ]
+      },
+      {
+        "uid": "1f575",
+        "tags": [
+          "detective"
+        ]
+      },
+      {
+        "uid": "1f575-fe0f-200d-2642-fe0f",
+        "tags": [
+          "man_detective"
+        ]
+      },
+      {
+        "uid": "1f575-fe0f-200d-2640-fe0f",
+        "tags": [
+          "woman_detective"
+        ]
+      },
+      {
+        "uid": "1f482",
+        "tags": [
+          "guard"
+        ]
+      },
+      {
+        "uid": "1f482-200d-2642-fe0f",
+        "tags": [
+          "man_guard"
+        ]
+      },
+      {
+        "uid": "1f482-200d-2640-fe0f",
+        "tags": [
+          "woman_guard"
+        ]
+      },
+      {
+        "uid": "1f977",
+        "tags": [
+          "ninja"
+        ]
+      },
+      {
+        "uid": "1f477",
+        "tags": [
+          "construction_worker"
+        ]
+      },
+      {
+        "uid": "1f477-200d-2642-fe0f",
+        "tags": [
+          "man_construction_worker"
+        ]
+      },
+      {
+        "uid": "1f477-200d-2640-fe0f",
+        "tags": [
+          "woman_construction_worker"
+        ]
+      },
+      {
+        "uid": "1fac5",
+        "tags": [
+          "person_with_crown"
+        ]
+      },
+      {
+        "uid": "1f934",
+        "tags": [
+          "prince"
+        ]
+      },
+      {
+        "uid": "1f478",
+        "tags": [
+          "princess"
+        ]
+      },
+      {
+        "uid": "1f473",
+        "tags": [
+          "person_wearing_turban"
+        ]
+      },
+      {
+        "uid": "1f473-200d-2642-fe0f",
+        "tags": [
+          "man_wearing_turban"
+        ]
+      },
+      {
+        "uid": "1f473-200d-2640-fe0f",
+        "tags": [
+          "woman_wearing_turban"
+        ]
+      },
+      {
+        "uid": "1f472",
+        "tags": [
+          "person_with_skullcap"
+        ]
+      },
+      {
+        "uid": "1f9d5",
+        "tags": [
+          "woman_with_headscarf"
+        ]
+      },
+      {
+        "uid": "1f935",
+        "tags": [
+          "person_in_tuxedo"
+        ]
+      },
+      {
+        "uid": "1f935-200d-2642-fe0f",
+        "tags": [
+          "man_in_tuxedo"
+        ]
+      },
+      {
+        "uid": "1f935-200d-2640-fe0f",
+        "tags": [
+          "woman_in_tuxedo"
+        ]
+      },
+      {
+        "uid": "1f470",
+        "tags": [
+          "person_with_veil"
+        ]
+      },
+      {
+        "uid": "1f470-200d-2642-fe0f",
+        "tags": [
+          "man_with_veil"
+        ]
+      },
+      {
+        "uid": "1f470-200d-2640-fe0f",
+        "tags": [
+          "woman_with_veil"
+        ]
+      },
+      {
+        "uid": "1f930",
+        "tags": [
+          "pregnant_woman"
+        ]
+      },
+      {
+        "uid": "1fac3",
+        "tags": [
+          "pregnant_man"
+        ]
+      },
+      {
+        "uid": "1fac4",
+        "tags": [
+          "pregnant_person"
+        ]
+      },
+      {
+        "uid": "1f931",
+        "tags": [
+          "breast_feeding"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f37c",
+        "tags": [
+          "woman_feeding_baby"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f37c",
+        "tags": [
+          "man_feeding_baby"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f37c",
+        "tags": [
+          "person_feeding_baby"
+        ]
+      },
+      {
+        "uid": "1f47c",
+        "tags": [
+          "baby_angel"
+        ]
+      },
+      {
+        "uid": "1f385",
+        "tags": [
+          "santa_claus"
+        ]
+      },
+      {
+        "uid": "1f936",
+        "tags": [
+          "mrs_claus"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f384",
+        "tags": [
+          "mx_claus"
+        ]
+      },
+      {
+        "uid": "1f9b8",
+        "tags": [
+          "superhero"
+        ]
+      },
+      {
+        "uid": "1f9b8-200d-2642-fe0f",
+        "tags": [
+          "man_superhero"
+        ]
+      },
+      {
+        "uid": "1f9b8-200d-2640-fe0f",
+        "tags": [
+          "woman_superhero"
+        ]
+      },
+      {
+        "uid": "1f9b9",
+        "tags": [
+          "supervillain"
+        ]
+      },
+      {
+        "uid": "1f9b9-200d-2642-fe0f",
+        "tags": [
+          "man_supervillain"
+        ]
+      },
+      {
+        "uid": "1f9b9-200d-2640-fe0f",
+        "tags": [
+          "woman_supervillain"
+        ]
+      },
+      {
+        "uid": "1f9d9",
+        "tags": [
+          "mage"
+        ]
+      },
+      {
+        "uid": "1f9d9-200d-2642-fe0f",
+        "tags": [
+          "man_mage"
+        ]
+      },
+      {
+        "uid": "1f9d9-200d-2640-fe0f",
+        "tags": [
+          "woman_mage"
+        ]
+      },
+      {
+        "uid": "1f9da",
+        "tags": [
+          "fairy"
+        ]
+      },
+      {
+        "uid": "1f9da-200d-2642-fe0f",
+        "tags": [
+          "man_fairy"
+        ]
+      },
+      {
+        "uid": "1f9da-200d-2640-fe0f",
+        "tags": [
+          "woman_fairy"
+        ]
+      },
+      {
+        "uid": "1f9db",
+        "tags": [
+          "vampire"
+        ]
+      },
+      {
+        "uid": "1f9db-200d-2642-fe0f",
+        "tags": [
+          "man_vampire"
+        ]
+      },
+      {
+        "uid": "1f9db-200d-2640-fe0f",
+        "tags": [
+          "woman_vampire"
+        ]
+      },
+      {
+        "uid": "1f9dc",
+        "tags": [
+          "merperson"
+        ]
+      },
+      {
+        "uid": "1f9dc-200d-2642-fe0f",
+        "tags": [
+          "merman"
+        ]
+      },
+      {
+        "uid": "1f9dc-200d-2640-fe0f",
+        "tags": [
+          "mermaid"
+        ]
+      },
+      {
+        "uid": "1f9dd",
+        "tags": [
+          "elf"
+        ]
+      },
+      {
+        "uid": "1f9dd-200d-2642-fe0f",
+        "tags": [
+          "man_elf"
+        ]
+      },
+      {
+        "uid": "1f9dd-200d-2640-fe0f",
+        "tags": [
+          "woman_elf"
+        ]
+      },
+      {
+        "uid": "1f9de",
+        "tags": [
+          "genie"
+        ]
+      },
+      {
+        "uid": "1f9de-200d-2642-fe0f",
+        "tags": [
+          "man_genie"
+        ]
+      },
+      {
+        "uid": "1f9de-200d-2640-fe0f",
+        "tags": [
+          "woman_genie"
+        ]
+      },
+      {
+        "uid": "1f9df",
+        "tags": [
+          "zombie"
+        ]
+      },
+      {
+        "uid": "1f9df-200d-2642-fe0f",
+        "tags": [
+          "man_zombie"
+        ]
+      },
+      {
+        "uid": "1f9df-200d-2640-fe0f",
+        "tags": [
+          "woman_zombie"
+        ]
+      },
+      {
+        "uid": "1f9cc",
+        "tags": [
+          "troll"
+        ]
+      },
+      {
+        "uid": "1f486",
+        "tags": [
+          "person_getting_massage"
+        ]
+      },
+      {
+        "uid": "1f486-200d-2642-fe0f",
+        "tags": [
+          "man_getting_massage"
+        ]
+      },
+      {
+        "uid": "1f486-200d-2640-fe0f",
+        "tags": [
+          "woman_getting_massage"
+        ]
+      },
+      {
+        "uid": "1f487",
+        "tags": [
+          "person_getting_haircut"
+        ]
+      },
+      {
+        "uid": "1f487-200d-2642-fe0f",
+        "tags": [
+          "man_getting_haircut"
+        ]
+      },
+      {
+        "uid": "1f487-200d-2640-fe0f",
+        "tags": [
+          "woman_getting_haircut"
+        ]
+      },
+      {
+        "uid": "1f6b6",
+        "tags": [
+          "person_walking"
+        ]
+      },
+      {
+        "uid": "1f6b6-200d-2642-fe0f",
+        "tags": [
+          "man_walking"
+        ]
+      },
+      {
+        "uid": "1f6b6-200d-2640-fe0f",
+        "tags": [
+          "woman_walking"
+        ]
+      },
+      {
+        "uid": "1f6b6-200d-27a1-fe0f",
+        "tags": [
+          "person_walking_facing_right"
+        ]
+      },
+      {
+        "uid": "1f6b6-200d-2640-fe0f-200d-27a1-fe0f",
+        "tags": [
+          "woman_walking_facing_right"
+        ]
+      },
+      {
+        "uid": "1f6b6-200d-2642-fe0f-200d-27a1-fe0f",
+        "tags": [
+          "man_walking_facing_right"
+        ]
+      },
+      {
+        "uid": "1f9cd",
+        "tags": [
+          "person_standing"
+        ]
+      },
+      {
+        "uid": "1f9cd-200d-2642-fe0f",
+        "tags": [
+          "man_standing"
+        ]
+      },
+      {
+        "uid": "1f9cd-200d-2640-fe0f",
+        "tags": [
+          "woman_standing"
+        ]
+      },
+      {
+        "uid": "1f9ce",
+        "tags": [
+          "person_kneeling"
+        ]
+      },
+      {
+        "uid": "1f9ce-200d-2642-fe0f",
+        "tags": [
+          "man_kneeling"
+        ]
+      },
+      {
+        "uid": "1f9ce-200d-2640-fe0f",
+        "tags": [
+          "woman_kneeling"
+        ]
+      },
+      {
+        "uid": "1f9ce-200d-27a1-fe0f",
+        "tags": [
+          "person_kneeling_facing_right"
+        ]
+      },
+      {
+        "uid": "1f9ce-200d-2640-fe0f-200d-27a1-fe0f",
+        "tags": [
+          "woman_kneeling_facing_right"
+        ]
+      },
+      {
+        "uid": "1f9ce-200d-2642-fe0f-200d-27a1-fe0f",
+        "tags": [
+          "man_kneeling_facing_right"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f9af",
+        "tags": [
+          "person_with_white_cane"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f9af-200d-27a1-fe0f",
+        "tags": [
+          "person_with_white_cane_facing_right"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f9af",
+        "tags": [
+          "man_with_white_cane"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f9af-200d-27a1-fe0f",
+        "tags": [
+          "man_with_white_cane_facing_right"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f9af",
+        "tags": [
+          "woman_with_white_cane"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f9af-200d-27a1-fe0f",
+        "tags": [
+          "woman_with_white_cane_facing_right"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f9bc",
+        "tags": [
+          "person_in_motorized_wheelchair"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f9bc-200d-27a1-fe0f",
+        "tags": [
+          "person_in_motorized_wheelchair_facing_right"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f9bc",
+        "tags": [
+          "man_in_motorized_wheelchair"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f9bc-200d-27a1-fe0f",
+        "tags": [
+          "man_in_motorized_wheelchair_facing_right"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f9bc",
+        "tags": [
+          "woman_in_motorized_wheelchair"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f9bc-200d-27a1-fe0f",
+        "tags": [
+          "woman_in_motorized_wheelchair_facing_right"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f9bd",
+        "tags": [
+          "person_in_manual_wheelchair"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f9bd-200d-27a1-fe0f",
+        "tags": [
+          "person_in_manual_wheelchair_facing_right"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f9bd",
+        "tags": [
+          "man_in_manual_wheelchair"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f9bd-200d-27a1-fe0f",
+        "tags": [
+          "man_in_manual_wheelchair_facing_right"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f9bd",
+        "tags": [
+          "woman_in_manual_wheelchair"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f9bd-200d-27a1-fe0f",
+        "tags": [
+          "woman_in_manual_wheelchair_facing_right"
+        ]
+      },
+      {
+        "uid": "1f3c3",
+        "tags": [
+          "person_running"
+        ]
+      },
+      {
+        "uid": "1f3c3-200d-2642-fe0f",
+        "tags": [
+          "man_running"
+        ]
+      },
+      {
+        "uid": "1f3c3-200d-2640-fe0f",
+        "tags": [
+          "woman_running"
+        ]
+      },
+      {
+        "uid": "1f3c3-200d-27a1-fe0f",
+        "tags": [
+          "person_running_facing_right"
+        ]
+      },
+      {
+        "uid": "1f3c3-200d-2640-fe0f-200d-27a1-fe0f",
+        "tags": [
+          "woman_running_facing_right"
+        ]
+      },
+      {
+        "uid": "1f3c3-200d-2642-fe0f-200d-27a1-fe0f",
+        "tags": [
+          "man_running_facing_right"
+        ]
+      },
+      {
+        "uid": "1f483",
+        "tags": [
+          "woman_dancing"
+        ]
+      },
+      {
+        "uid": "1f57a",
+        "tags": [
+          "man_dancing"
+        ]
+      },
+      {
+        "uid": "1f574",
+        "tags": [
+          "person_in_suit_levitating"
+        ]
+      },
+      {
+        "uid": "1f46f",
+        "tags": [
+          "people_with_bunny_ears"
+        ]
+      },
+      {
+        "uid": "1f46f-200d-2642-fe0f",
+        "tags": [
+          "men_with_bunny_ears"
+        ]
+      },
+      {
+        "uid": "1f46f-200d-2640-fe0f",
+        "tags": [
+          "women_with_bunny_ears"
+        ]
+      },
+      {
+        "uid": "1f9d6",
+        "tags": [
+          "person_in_steamy_room"
+        ]
+      },
+      {
+        "uid": "1f9d6-200d-2642-fe0f",
+        "tags": [
+          "man_in_steamy_room"
+        ]
+      },
+      {
+        "uid": "1f9d6-200d-2640-fe0f",
+        "tags": [
+          "woman_in_steamy_room"
+        ]
+      },
+      {
+        "uid": "1f9d7",
+        "tags": [
+          "person_climbing"
+        ]
+      },
+      {
+        "uid": "1f9d7-200d-2642-fe0f",
+        "tags": [
+          "man_climbing"
+        ]
+      },
+      {
+        "uid": "1f9d7-200d-2640-fe0f",
+        "tags": [
+          "woman_climbing"
+        ]
+      },
+      {
+        "uid": "1f93a",
+        "tags": [
+          "person_fencing"
+        ]
+      },
+      {
+        "uid": "1f3c7",
+        "tags": [
+          "horse_racing"
+        ]
+      },
+      {
+        "uid": "26f7",
+        "tags": [
+          "skier"
+        ]
+      },
+      {
+        "uid": "1f3c2",
+        "tags": [
+          "snowboarder"
+        ]
+      },
+      {
+        "uid": "1f3cc",
+        "tags": [
+          "person_golfing"
+        ]
+      },
+      {
+        "uid": "1f3cc-fe0f-200d-2642-fe0f",
+        "tags": [
+          "man_golfing"
+        ]
+      },
+      {
+        "uid": "1f3cc-fe0f-200d-2640-fe0f",
+        "tags": [
+          "woman_golfing"
+        ]
+      },
+      {
+        "uid": "1f3c4",
+        "tags": [
+          "person_surfing"
+        ]
+      },
+      {
+        "uid": "1f3c4-200d-2642-fe0f",
+        "tags": [
+          "man_surfing"
+        ]
+      },
+      {
+        "uid": "1f3c4-200d-2640-fe0f",
+        "tags": [
+          "woman_surfing"
+        ]
+      },
+      {
+        "uid": "1f6a3",
+        "tags": [
+          "person_rowing_boat"
+        ]
+      },
+      {
+        "uid": "1f6a3-200d-2642-fe0f",
+        "tags": [
+          "man_rowing_boat"
+        ]
+      },
+      {
+        "uid": "1f6a3-200d-2640-fe0f",
+        "tags": [
+          "woman_rowing_boat"
+        ]
+      },
+      {
+        "uid": "1f3ca",
+        "tags": [
+          "person_swimming"
+        ]
+      },
+      {
+        "uid": "1f3ca-200d-2642-fe0f",
+        "tags": [
+          "man_swimming"
+        ]
+      },
+      {
+        "uid": "1f3ca-200d-2640-fe0f",
+        "tags": [
+          "woman_swimming"
+        ]
+      },
+      {
+        "uid": "26f9",
+        "tags": [
+          "person_bouncing_ball"
+        ]
+      },
+      {
+        "uid": "26f9-fe0f-200d-2642-fe0f",
+        "tags": [
+          "man_bouncing_ball"
+        ]
+      },
+      {
+        "uid": "26f9-fe0f-200d-2640-fe0f",
+        "tags": [
+          "woman_bouncing_ball"
+        ]
+      },
+      {
+        "uid": "1f3cb",
+        "tags": [
+          "person_lifting_weights"
+        ]
+      },
+      {
+        "uid": "1f3cb-fe0f-200d-2642-fe0f",
+        "tags": [
+          "man_lifting_weights"
+        ]
+      },
+      {
+        "uid": "1f3cb-fe0f-200d-2640-fe0f",
+        "tags": [
+          "woman_lifting_weights"
+        ]
+      },
+      {
+        "uid": "1f6b4",
+        "tags": [
+          "person_biking"
+        ]
+      },
+      {
+        "uid": "1f6b4-200d-2642-fe0f",
+        "tags": [
+          "man_biking"
+        ]
+      },
+      {
+        "uid": "1f6b4-200d-2640-fe0f",
+        "tags": [
+          "woman_biking"
+        ]
+      },
+      {
+        "uid": "1f6b5",
+        "tags": [
+          "person_mountain_biking"
+        ]
+      },
+      {
+        "uid": "1f6b5-200d-2642-fe0f",
+        "tags": [
+          "man_mountain_biking"
+        ]
+      },
+      {
+        "uid": "1f6b5-200d-2640-fe0f",
+        "tags": [
+          "woman_mountain_biking"
+        ]
+      },
+      {
+        "uid": "1f938",
+        "tags": [
+          "person_cartwheeling"
+        ]
+      },
+      {
+        "uid": "1f938-200d-2642-fe0f",
+        "tags": [
+          "man_cartwheeling"
+        ]
+      },
+      {
+        "uid": "1f938-200d-2640-fe0f",
+        "tags": [
+          "woman_cartwheeling"
+        ]
+      },
+      {
+        "uid": "1f93c",
+        "tags": [
+          "people_wrestling"
+        ]
+      },
+      {
+        "uid": "1f93c-200d-2642-fe0f",
+        "tags": [
+          "men_wrestling"
+        ]
+      },
+      {
+        "uid": "1f93c-200d-2640-fe0f",
+        "tags": [
+          "women_wrestling"
+        ]
+      },
+      {
+        "uid": "1f93d",
+        "tags": [
+          "person_playing_water_polo"
+        ]
+      },
+      {
+        "uid": "1f93d-200d-2642-fe0f",
+        "tags": [
+          "man_playing_water_polo"
+        ]
+      },
+      {
+        "uid": "1f93d-200d-2640-fe0f",
+        "tags": [
+          "woman_playing_water_polo"
+        ]
+      },
+      {
+        "uid": "1f93e",
+        "tags": [
+          "person_playing_handball"
+        ]
+      },
+      {
+        "uid": "1f93e-200d-2642-fe0f",
+        "tags": [
+          "man_playing_handball"
+        ]
+      },
+      {
+        "uid": "1f93e-200d-2640-fe0f",
+        "tags": [
+          "woman_playing_handball"
+        ]
+      },
+      {
+        "uid": "1f939",
+        "tags": [
+          "person_juggling"
+        ]
+      },
+      {
+        "uid": "1f939-200d-2642-fe0f",
+        "tags": [
+          "man_juggling"
+        ]
+      },
+      {
+        "uid": "1f939-200d-2640-fe0f",
+        "tags": [
+          "woman_juggling"
+        ]
+      },
+      {
+        "uid": "1f9d8",
+        "tags": [
+          "person_in_lotus_position"
+        ]
+      },
+      {
+        "uid": "1f9d8-200d-2642-fe0f",
+        "tags": [
+          "man_in_lotus_position"
+        ]
+      },
+      {
+        "uid": "1f9d8-200d-2640-fe0f",
+        "tags": [
+          "woman_in_lotus_position"
+        ]
+      },
+      {
+        "uid": "1f6c0",
+        "tags": [
+          "person_taking_bath"
+        ]
+      },
+      {
+        "uid": "1f6cc",
+        "tags": [
+          "person_in_bed"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f91d-200d-1f9d1",
+        "tags": [
+          "people_holding_hands"
+        ]
+      },
+      {
+        "uid": "1f46d",
+        "tags": [
+          "women_holding_hands"
+        ]
+      },
+      {
+        "uid": "1f46b",
+        "tags": [
+          "woman_and_man_holding_hands"
+        ]
+      },
+      {
+        "uid": "1f46c",
+        "tags": [
+          "men_holding_hands"
+        ]
+      },
+      {
+        "uid": "1f48f",
+        "tags": [
+          "kiss"
+        ]
+      },
+      {
+        "uid": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468",
+        "tags": [
+          "kiss_woman_man"
+        ]
+      },
+      {
+        "uid": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468",
+        "tags": [
+          "kiss_man_man"
+        ]
+      },
+      {
+        "uid": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469",
+        "tags": [
+          "kiss_woman_woman"
+        ]
+      },
+      {
+        "uid": "1f491",
+        "tags": [
+          "couple_with_heart"
+        ]
+      },
+      {
+        "uid": "1f469-200d-2764-fe0f-200d-1f468",
+        "tags": [
+          "couple_with_heart_woman_man"
+        ]
+      },
+      {
+        "uid": "1f468-200d-2764-fe0f-200d-1f468",
+        "tags": [
+          "couple_with_heart_man_man"
+        ]
+      },
+      {
+        "uid": "1f469-200d-2764-fe0f-200d-1f469",
+        "tags": [
+          "couple_with_heart_woman_woman"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f469-200d-1f466",
+        "tags": [
+          "family_man_woman_boy"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f469-200d-1f467",
+        "tags": [
+          "family_man_woman_girl"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f469-200d-1f467-200d-1f466",
+        "tags": [
+          "family_man_woman_girl_boy"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f469-200d-1f466-200d-1f466",
+        "tags": [
+          "family_man_woman_boy_boy"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f469-200d-1f467-200d-1f467",
+        "tags": [
+          "family_man_woman_girl_girl"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f468-200d-1f466",
+        "tags": [
+          "family_man_man_boy"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f468-200d-1f467",
+        "tags": [
+          "family_man_man_girl"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f468-200d-1f467-200d-1f466",
+        "tags": [
+          "family_man_man_girl_boy"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f468-200d-1f466-200d-1f466",
+        "tags": [
+          "family_man_man_boy_boy"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f468-200d-1f467-200d-1f467",
+        "tags": [
+          "family_man_man_girl_girl"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f469-200d-1f466",
+        "tags": [
+          "family_woman_woman_boy"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f469-200d-1f467",
+        "tags": [
+          "family_woman_woman_girl"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f469-200d-1f467-200d-1f466",
+        "tags": [
+          "family_woman_woman_girl_boy"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f469-200d-1f466-200d-1f466",
+        "tags": [
+          "family_woman_woman_boy_boy"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f469-200d-1f467-200d-1f467",
+        "tags": [
+          "family_woman_woman_girl_girl"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f466",
+        "tags": [
+          "family_man_boy"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f466-200d-1f466",
+        "tags": [
+          "family_man_boy_boy"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f467",
+        "tags": [
+          "family_man_girl"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f467-200d-1f466",
+        "tags": [
+          "family_man_girl_boy"
+        ]
+      },
+      {
+        "uid": "1f468-200d-1f467-200d-1f467",
+        "tags": [
+          "family_man_girl_girl"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f466",
+        "tags": [
+          "family_woman_boy"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f466-200d-1f466",
+        "tags": [
+          "family_woman_boy_boy"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f467",
+        "tags": [
+          "family_woman_girl"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f467-200d-1f466",
+        "tags": [
+          "family_woman_girl_boy"
+        ]
+      },
+      {
+        "uid": "1f469-200d-1f467-200d-1f467",
+        "tags": [
+          "family_woman_girl_girl"
+        ]
+      },
+      {
+        "uid": "1f5e3",
+        "tags": [
+          "speaking_head"
+        ]
+      },
+      {
+        "uid": "1f464",
+        "tags": [
+          "bust_in_silhouette"
+        ]
+      },
+      {
+        "uid": "1f465",
+        "tags": [
+          "busts_in_silhouette"
+        ]
+      },
+      {
+        "uid": "1fac2",
+        "tags": [
+          "people_hugging"
+        ]
+      },
+      {
+        "uid": "1f46a",
+        "tags": [
+          "family"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f9d1-200d-1f9d2",
+        "tags": [
+          "family_adult_adult_child"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f9d1-200d-1f9d2-200d-1f9d2",
+        "tags": [
+          "family_adult_adult_child_child"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f9d2",
+        "tags": [
+          "family_adult_child"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1f9d2-200d-1f9d2",
+        "tags": [
+          "family_adult_child_child"
+        ]
+      },
+      {
+        "uid": "1f463",
+        "tags": [
+          "footprints"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Animals & Nature",
+    "slug": "animals_nature",
+    "emojis": [
+      {
+        "uid": "1f435",
+        "tags": [
+          "monkey_face"
+        ]
+      },
+      {
+        "uid": "1f412",
+        "tags": [
+          "monkey"
+        ]
+      },
+      {
+        "uid": "1f98d",
+        "tags": [
+          "gorilla"
+        ]
+      },
+      {
+        "uid": "1f9a7",
+        "tags": [
+          "orangutan"
+        ]
+      },
+      {
+        "uid": "1f436",
+        "tags": [
+          "dog_face"
+        ]
+      },
+      {
+        "uid": "1f415",
+        "tags": [
+          "dog"
+        ]
+      },
+      {
+        "uid": "1f9ae",
+        "tags": [
+          "guide_dog"
+        ]
+      },
+      {
+        "uid": "1f415-200d-1f9ba",
+        "tags": [
+          "service_dog"
+        ]
+      },
+      {
+        "uid": "1f429",
+        "tags": [
+          "poodle"
+        ]
+      },
+      {
+        "uid": "1f43a",
+        "tags": [
+          "wolf"
+        ]
+      },
+      {
+        "uid": "1f98a",
+        "tags": [
+          "fox"
+        ]
+      },
+      {
+        "uid": "1f99d",
+        "tags": [
+          "raccoon"
+        ]
+      },
+      {
+        "uid": "1f431",
+        "tags": [
+          "cat_face"
+        ]
+      },
+      {
+        "uid": "1f408",
+        "tags": [
+          "cat"
+        ]
+      },
+      {
+        "uid": "1f408-200d-2b1b",
+        "tags": [
+          "black_cat"
+        ]
+      },
+      {
+        "uid": "1f981",
+        "tags": [
+          "lion"
+        ]
+      },
+      {
+        "uid": "1f42f",
+        "tags": [
+          "tiger_face"
+        ]
+      },
+      {
+        "uid": "1f405",
+        "tags": [
+          "tiger"
+        ]
+      },
+      {
+        "uid": "1f406",
+        "tags": [
+          "leopard"
+        ]
+      },
+      {
+        "uid": "1f434",
+        "tags": [
+          "horse_face"
+        ]
+      },
+      {
+        "uid": "1face",
+        "tags": [
+          "moose"
+        ]
+      },
+      {
+        "uid": "1facf",
+        "tags": [
+          "donkey"
+        ]
+      },
+      {
+        "uid": "1f40e",
+        "tags": [
+          "horse"
+        ]
+      },
+      {
+        "uid": "1f984",
+        "tags": [
+          "unicorn"
+        ]
+      },
+      {
+        "uid": "1f993",
+        "tags": [
+          "zebra"
+        ]
+      },
+      {
+        "uid": "1f98c",
+        "tags": [
+          "deer"
+        ]
+      },
+      {
+        "uid": "1f9ac",
+        "tags": [
+          "bison"
+        ]
+      },
+      {
+        "uid": "1f42e",
+        "tags": [
+          "cow_face"
+        ]
+      },
+      {
+        "uid": "1f402",
+        "tags": [
+          "ox"
+        ]
+      },
+      {
+        "uid": "1f403",
+        "tags": [
+          "water_buffalo"
+        ]
+      },
+      {
+        "uid": "1f404",
+        "tags": [
+          "cow"
+        ]
+      },
+      {
+        "uid": "1f437",
+        "tags": [
+          "pig_face"
+        ]
+      },
+      {
+        "uid": "1f416",
+        "tags": [
+          "pig"
+        ]
+      },
+      {
+        "uid": "1f417",
+        "tags": [
+          "boar"
+        ]
+      },
+      {
+        "uid": "1f43d",
+        "tags": [
+          "pig_nose"
+        ]
+      },
+      {
+        "uid": "1f40f",
+        "tags": [
+          "ram"
+        ]
+      },
+      {
+        "uid": "1f411",
+        "tags": [
+          "ewe"
+        ]
+      },
+      {
+        "uid": "1f410",
+        "tags": [
+          "goat"
+        ]
+      },
+      {
+        "uid": "1f42a",
+        "tags": [
+          "camel"
+        ]
+      },
+      {
+        "uid": "1f42b",
+        "tags": [
+          "two_hump_camel"
+        ]
+      },
+      {
+        "uid": "1f999",
+        "tags": [
+          "llama"
+        ]
+      },
+      {
+        "uid": "1f992",
+        "tags": [
+          "giraffe"
+        ]
+      },
+      {
+        "uid": "1f418",
+        "tags": [
+          "elephant"
+        ]
+      },
+      {
+        "uid": "1f9a3",
+        "tags": [
+          "mammoth"
+        ]
+      },
+      {
+        "uid": "1f98f",
+        "tags": [
+          "rhinoceros"
+        ]
+      },
+      {
+        "uid": "1f99b",
+        "tags": [
+          "hippopotamus"
+        ]
+      },
+      {
+        "uid": "1f42d",
+        "tags": [
+          "mouse_face"
+        ]
+      },
+      {
+        "uid": "1f401",
+        "tags": [
+          "mouse"
+        ]
+      },
+      {
+        "uid": "1f400",
+        "tags": [
+          "rat"
+        ]
+      },
+      {
+        "uid": "1f439",
+        "tags": [
+          "hamster"
+        ]
+      },
+      {
+        "uid": "1f430",
+        "tags": [
+          "rabbit_face"
+        ]
+      },
+      {
+        "uid": "1f407",
+        "tags": [
+          "rabbit"
+        ]
+      },
+      {
+        "uid": "1f43f",
+        "tags": [
+          "chipmunk"
+        ]
+      },
+      {
+        "uid": "1f9ab",
+        "tags": [
+          "beaver"
+        ]
+      },
+      {
+        "uid": "1f994",
+        "tags": [
+          "hedgehog"
+        ]
+      },
+      {
+        "uid": "1f987",
+        "tags": [
+          "bat"
+        ]
+      },
+      {
+        "uid": "1f43b",
+        "tags": [
+          "bear"
+        ]
+      },
+      {
+        "uid": "1f43b-200d-2744-fe0f",
+        "tags": [
+          "polar_bear"
+        ]
+      },
+      {
+        "uid": "1f428",
+        "tags": [
+          "koala"
+        ]
+      },
+      {
+        "uid": "1f43c",
+        "tags": [
+          "panda"
+        ]
+      },
+      {
+        "uid": "1f9a5",
+        "tags": [
+          "sloth"
+        ]
+      },
+      {
+        "uid": "1f9a6",
+        "tags": [
+          "otter"
+        ]
+      },
+      {
+        "uid": "1f9a8",
+        "tags": [
+          "skunk"
+        ]
+      },
+      {
+        "uid": "1f998",
+        "tags": [
+          "kangaroo"
+        ]
+      },
+      {
+        "uid": "1f9a1",
+        "tags": [
+          "badger"
+        ]
+      },
+      {
+        "uid": "1f43e",
+        "tags": [
+          "paw_prints"
+        ]
+      },
+      {
+        "uid": "1f983",
+        "tags": [
+          "turkey"
+        ]
+      },
+      {
+        "uid": "1f414",
+        "tags": [
+          "chicken"
+        ]
+      },
+      {
+        "uid": "1f413",
+        "tags": [
+          "rooster"
+        ]
+      },
+      {
+        "uid": "1f423",
+        "tags": [
+          "hatching_chick"
+        ]
+      },
+      {
+        "uid": "1f424",
+        "tags": [
+          "baby_chick"
+        ]
+      },
+      {
+        "uid": "1f425",
+        "tags": [
+          "front_facing_baby_chick"
+        ]
+      },
+      {
+        "uid": "1f426",
+        "tags": [
+          "bird"
+        ]
+      },
+      {
+        "uid": "1f427",
+        "tags": [
+          "penguin"
+        ]
+      },
+      {
+        "uid": "1f54a",
+        "tags": [
+          "dove"
+        ]
+      },
+      {
+        "uid": "1f985",
+        "tags": [
+          "eagle"
+        ]
+      },
+      {
+        "uid": "1f986",
+        "tags": [
+          "duck"
+        ]
+      },
+      {
+        "uid": "1f9a2",
+        "tags": [
+          "swan"
+        ]
+      },
+      {
+        "uid": "1f989",
+        "tags": [
+          "owl"
+        ]
+      },
+      {
+        "uid": "1f9a4",
+        "tags": [
+          "dodo"
+        ]
+      },
+      {
+        "uid": "1fab6",
+        "tags": [
+          "feather"
+        ]
+      },
+      {
+        "uid": "1f9a9",
+        "tags": [
+          "flamingo"
+        ]
+      },
+      {
+        "uid": "1f99a",
+        "tags": [
+          "peacock"
+        ]
+      },
+      {
+        "uid": "1f99c",
+        "tags": [
+          "parrot"
+        ]
+      },
+      {
+        "uid": "1fabd",
+        "tags": [
+          "wing"
+        ]
+      },
+      {
+        "uid": "1f426-200d-2b1b",
+        "tags": [
+          "black_bird"
+        ]
+      },
+      {
+        "uid": "1fabf",
+        "tags": [
+          "goose"
+        ]
+      },
+      {
+        "uid": "1f426-200d-1f525",
+        "tags": [
+          "phoenix"
+        ]
+      },
+      {
+        "uid": "1f438",
+        "tags": [
+          "frog"
+        ]
+      },
+      {
+        "uid": "1f40a",
+        "tags": [
+          "crocodile"
+        ]
+      },
+      {
+        "uid": "1f422",
+        "tags": [
+          "turtle"
+        ]
+      },
+      {
+        "uid": "1f98e",
+        "tags": [
+          "lizard"
+        ]
+      },
+      {
+        "uid": "1f40d",
+        "tags": [
+          "snake"
+        ]
+      },
+      {
+        "uid": "1f432",
+        "tags": [
+          "dragon_face"
+        ]
+      },
+      {
+        "uid": "1f409",
+        "tags": [
+          "dragon"
+        ]
+      },
+      {
+        "uid": "1f995",
+        "tags": [
+          "sauropod"
+        ]
+      },
+      {
+        "uid": "1f996",
+        "tags": [
+          "t_rex"
+        ]
+      },
+      {
+        "uid": "1f433",
+        "tags": [
+          "spouting_whale"
+        ]
+      },
+      {
+        "uid": "1f40b",
+        "tags": [
+          "whale"
+        ]
+      },
+      {
+        "uid": "1f42c",
+        "tags": [
+          "dolphin"
+        ]
+      },
+      {
+        "uid": "1f9ad",
+        "tags": [
+          "seal"
+        ]
+      },
+      {
+        "uid": "1f41f",
+        "tags": [
+          "fish"
+        ]
+      },
+      {
+        "uid": "1f420",
+        "tags": [
+          "tropical_fish"
+        ]
+      },
+      {
+        "uid": "1f421",
+        "tags": [
+          "blowfish"
+        ]
+      },
+      {
+        "uid": "1f988",
+        "tags": [
+          "shark"
+        ]
+      },
+      {
+        "uid": "1f419",
+        "tags": [
+          "octopus"
+        ]
+      },
+      {
+        "uid": "1f41a",
+        "tags": [
+          "spiral_shell"
+        ]
+      },
+      {
+        "uid": "1fab8",
+        "tags": [
+          "coral"
+        ]
+      },
+      {
+        "uid": "1fabc",
+        "tags": [
+          "jellyfish"
+        ]
+      },
+      {
+        "uid": "1f40c",
+        "tags": [
+          "snail"
+        ]
+      },
+      {
+        "uid": "1f98b",
+        "tags": [
+          "butterfly"
+        ]
+      },
+      {
+        "uid": "1f41b",
+        "tags": [
+          "bug"
+        ]
+      },
+      {
+        "uid": "1f41c",
+        "tags": [
+          "ant"
+        ]
+      },
+      {
+        "uid": "1f41d",
+        "tags": [
+          "honeybee"
+        ]
+      },
+      {
+        "uid": "1fab2",
+        "tags": [
+          "beetle"
+        ]
+      },
+      {
+        "uid": "1f41e",
+        "tags": [
+          "lady_beetle"
+        ]
+      },
+      {
+        "uid": "1f997",
+        "tags": [
+          "cricket"
+        ]
+      },
+      {
+        "uid": "1fab3",
+        "tags": [
+          "cockroach"
+        ]
+      },
+      {
+        "uid": "1f577",
+        "tags": [
+          "spider"
+        ]
+      },
+      {
+        "uid": "1f578",
+        "tags": [
+          "spider_web"
+        ]
+      },
+      {
+        "uid": "1f982",
+        "tags": [
+          "scorpion"
+        ]
+      },
+      {
+        "uid": "1f99f",
+        "tags": [
+          "mosquito"
+        ]
+      },
+      {
+        "uid": "1fab0",
+        "tags": [
+          "fly"
+        ]
+      },
+      {
+        "uid": "1fab1",
+        "tags": [
+          "worm"
+        ]
+      },
+      {
+        "uid": "1f9a0",
+        "tags": [
+          "microbe"
+        ]
+      },
+      {
+        "uid": "1f490",
+        "tags": [
+          "bouquet"
+        ]
+      },
+      {
+        "uid": "1f338",
+        "tags": [
+          "cherry_blossom"
+        ]
+      },
+      {
+        "uid": "1f4ae",
+        "tags": [
+          "white_flower"
+        ]
+      },
+      {
+        "uid": "1fab7",
+        "tags": [
+          "lotus"
+        ]
+      },
+      {
+        "uid": "1f3f5",
+        "tags": [
+          "rosette"
+        ]
+      },
+      {
+        "uid": "1f339",
+        "tags": [
+          "rose"
+        ]
+      },
+      {
+        "uid": "1f940",
+        "tags": [
+          "wilted_flower"
+        ]
+      },
+      {
+        "uid": "1f33a",
+        "tags": [
+          "hibiscus"
+        ]
+      },
+      {
+        "uid": "1f33b",
+        "tags": [
+          "sunflower"
+        ]
+      },
+      {
+        "uid": "1f33c",
+        "tags": [
+          "blossom"
+        ]
+      },
+      {
+        "uid": "1f337",
+        "tags": [
+          "tulip"
+        ]
+      },
+      {
+        "uid": "1fabb",
+        "tags": [
+          "hyacinth"
+        ]
+      },
+      {
+        "uid": "1f331",
+        "tags": [
+          "seedling"
+        ]
+      },
+      {
+        "uid": "1fab4",
+        "tags": [
+          "potted_plant"
+        ]
+      },
+      {
+        "uid": "1f332",
+        "tags": [
+          "evergreen_tree"
+        ]
+      },
+      {
+        "uid": "1f333",
+        "tags": [
+          "deciduous_tree"
+        ]
+      },
+      {
+        "uid": "1f334",
+        "tags": [
+          "palm_tree"
+        ]
+      },
+      {
+        "uid": "1f335",
+        "tags": [
+          "cactus"
+        ]
+      },
+      {
+        "uid": "1f33e",
+        "tags": [
+          "sheaf_of_rice"
+        ]
+      },
+      {
+        "uid": "1f33f",
+        "tags": [
+          "herb"
+        ]
+      },
+      {
+        "uid": "2618",
+        "tags": [
+          "shamrock"
+        ]
+      },
+      {
+        "uid": "1f340",
+        "tags": [
+          "four_leaf_clover"
+        ]
+      },
+      {
+        "uid": "1f341",
+        "tags": [
+          "maple_leaf"
+        ]
+      },
+      {
+        "uid": "1f342",
+        "tags": [
+          "fallen_leaf"
+        ]
+      },
+      {
+        "uid": "1f343",
+        "tags": [
+          "leaf_fluttering_in_wind"
+        ]
+      },
+      {
+        "uid": "1fab9",
+        "tags": [
+          "empty_nest"
+        ]
+      },
+      {
+        "uid": "1faba",
+        "tags": [
+          "nest_with_eggs"
+        ]
+      },
+      {
+        "uid": "1f344",
+        "tags": [
+          "mushroom"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Food & Drink",
+    "slug": "food_drink",
+    "emojis": [
+      {
+        "uid": "1f347",
+        "tags": [
+          "grapes"
+        ]
+      },
+      {
+        "uid": "1f348",
+        "tags": [
+          "melon"
+        ]
+      },
+      {
+        "uid": "1f349",
+        "tags": [
+          "watermelon"
+        ]
+      },
+      {
+        "uid": "1f34a",
+        "tags": [
+          "tangerine"
+        ]
+      },
+      {
+        "uid": "1f34b",
+        "tags": [
+          "lemon"
+        ]
+      },
+      {
+        "uid": "1f34b-200d-1f7e9",
+        "tags": [
+          "lime"
+        ]
+      },
+      {
+        "uid": "1f34c",
+        "tags": [
+          "banana"
+        ]
+      },
+      {
+        "uid": "1f34d",
+        "tags": [
+          "pineapple"
+        ]
+      },
+      {
+        "uid": "1f96d",
+        "tags": [
+          "mango"
+        ]
+      },
+      {
+        "uid": "1f34e",
+        "tags": [
+          "red_apple"
+        ]
+      },
+      {
+        "uid": "1f34f",
+        "tags": [
+          "green_apple"
+        ]
+      },
+      {
+        "uid": "1f350",
+        "tags": [
+          "pear"
+        ]
+      },
+      {
+        "uid": "1f351",
+        "tags": [
+          "peach"
+        ]
+      },
+      {
+        "uid": "1f352",
+        "tags": [
+          "cherries"
+        ]
+      },
+      {
+        "uid": "1f353",
+        "tags": [
+          "strawberry"
+        ]
+      },
+      {
+        "uid": "1fad0",
+        "tags": [
+          "blueberries"
+        ]
+      },
+      {
+        "uid": "1f95d",
+        "tags": [
+          "kiwi_fruit"
+        ]
+      },
+      {
+        "uid": "1f345",
+        "tags": [
+          "tomato"
+        ]
+      },
+      {
+        "uid": "1fad2",
+        "tags": [
+          "olive"
+        ]
+      },
+      {
+        "uid": "1f965",
+        "tags": [
+          "coconut"
+        ]
+      },
+      {
+        "uid": "1f951",
+        "tags": [
+          "avocado"
+        ]
+      },
+      {
+        "uid": "1f346",
+        "tags": [
+          "eggplant"
+        ]
+      },
+      {
+        "uid": "1f954",
+        "tags": [
+          "potato"
+        ]
+      },
+      {
+        "uid": "1f955",
+        "tags": [
+          "carrot"
+        ]
+      },
+      {
+        "uid": "1f33d",
+        "tags": [
+          "ear_of_corn"
+        ]
+      },
+      {
+        "uid": "1f336",
+        "tags": [
+          "hot_pepper"
+        ]
+      },
+      {
+        "uid": "1fad1",
+        "tags": [
+          "bell_pepper"
+        ]
+      },
+      {
+        "uid": "1f952",
+        "tags": [
+          "cucumber"
+        ]
+      },
+      {
+        "uid": "1f96c",
+        "tags": [
+          "leafy_green"
+        ]
+      },
+      {
+        "uid": "1f966",
+        "tags": [
+          "broccoli"
+        ]
+      },
+      {
+        "uid": "1f9c4",
+        "tags": [
+          "garlic"
+        ]
+      },
+      {
+        "uid": "1f9c5",
+        "tags": [
+          "onion"
+        ]
+      },
+      {
+        "uid": "1f95c",
+        "tags": [
+          "peanuts"
+        ]
+      },
+      {
+        "uid": "1fad8",
+        "tags": [
+          "beans"
+        ]
+      },
+      {
+        "uid": "1f330",
+        "tags": [
+          "chestnut"
+        ]
+      },
+      {
+        "uid": "1fada",
+        "tags": [
+          "ginger_root"
+        ]
+      },
+      {
+        "uid": "1fadb",
+        "tags": [
+          "pea_pod"
+        ]
+      },
+      {
+        "uid": "1f344-200d-1f7eb",
+        "tags": [
+          "brown_mushroom"
+        ]
+      },
+      {
+        "uid": "1f35e",
+        "tags": [
+          "bread"
+        ]
+      },
+      {
+        "uid": "1f950",
+        "tags": [
+          "croissant"
+        ]
+      },
+      {
+        "uid": "1f956",
+        "tags": [
+          "baguette_bread"
+        ]
+      },
+      {
+        "uid": "1fad3",
+        "tags": [
+          "flatbread"
+        ]
+      },
+      {
+        "uid": "1f968",
+        "tags": [
+          "pretzel"
+        ]
+      },
+      {
+        "uid": "1f96f",
+        "tags": [
+          "bagel"
+        ]
+      },
+      {
+        "uid": "1f95e",
+        "tags": [
+          "pancakes"
+        ]
+      },
+      {
+        "uid": "1f9c7",
+        "tags": [
+          "waffle"
+        ]
+      },
+      {
+        "uid": "1f9c0",
+        "tags": [
+          "cheese_wedge"
+        ]
+      },
+      {
+        "uid": "1f356",
+        "tags": [
+          "meat_on_bone"
+        ]
+      },
+      {
+        "uid": "1f357",
+        "tags": [
+          "poultry_leg"
+        ]
+      },
+      {
+        "uid": "1f969",
+        "tags": [
+          "cut_of_meat"
+        ]
+      },
+      {
+        "uid": "1f953",
+        "tags": [
+          "bacon"
+        ]
+      },
+      {
+        "uid": "1f354",
+        "tags": [
+          "hamburger"
+        ]
+      },
+      {
+        "uid": "1f35f",
+        "tags": [
+          "french_fries"
+        ]
+      },
+      {
+        "uid": "1f355",
+        "tags": [
+          "pizza"
+        ]
+      },
+      {
+        "uid": "1f32d",
+        "tags": [
+          "hot_dog"
+        ]
+      },
+      {
+        "uid": "1f96a",
+        "tags": [
+          "sandwich"
+        ]
+      },
+      {
+        "uid": "1f32e",
+        "tags": [
+          "taco"
+        ]
+      },
+      {
+        "uid": "1f32f",
+        "tags": [
+          "burrito"
+        ]
+      },
+      {
+        "uid": "1fad4",
+        "tags": [
+          "tamale"
+        ]
+      },
+      {
+        "uid": "1f959",
+        "tags": [
+          "stuffed_flatbread"
+        ]
+      },
+      {
+        "uid": "1f9c6",
+        "tags": [
+          "falafel"
+        ]
+      },
+      {
+        "uid": "1f95a",
+        "tags": [
+          "egg"
+        ]
+      },
+      {
+        "uid": "1f373",
+        "tags": [
+          "cooking"
+        ]
+      },
+      {
+        "uid": "1f958",
+        "tags": [
+          "shallow_pan_of_food"
+        ]
+      },
+      {
+        "uid": "1f372",
+        "tags": [
+          "pot_of_food"
+        ]
+      },
+      {
+        "uid": "1fad5",
+        "tags": [
+          "fondue"
+        ]
+      },
+      {
+        "uid": "1f963",
+        "tags": [
+          "bowl_with_spoon"
+        ]
+      },
+      {
+        "uid": "1f957",
+        "tags": [
+          "green_salad"
+        ]
+      },
+      {
+        "uid": "1f37f",
+        "tags": [
+          "popcorn"
+        ]
+      },
+      {
+        "uid": "1f9c8",
+        "tags": [
+          "butter"
+        ]
+      },
+      {
+        "uid": "1f9c2",
+        "tags": [
+          "salt"
+        ]
+      },
+      {
+        "uid": "1f96b",
+        "tags": [
+          "canned_food"
+        ]
+      },
+      {
+        "uid": "1f371",
+        "tags": [
+          "bento_box"
+        ]
+      },
+      {
+        "uid": "1f358",
+        "tags": [
+          "rice_cracker"
+        ]
+      },
+      {
+        "uid": "1f359",
+        "tags": [
+          "rice_ball"
+        ]
+      },
+      {
+        "uid": "1f35a",
+        "tags": [
+          "cooked_rice"
+        ]
+      },
+      {
+        "uid": "1f35b",
+        "tags": [
+          "curry_rice"
+        ]
+      },
+      {
+        "uid": "1f35c",
+        "tags": [
+          "steaming_bowl"
+        ]
+      },
+      {
+        "uid": "1f35d",
+        "tags": [
+          "spaghetti"
+        ]
+      },
+      {
+        "uid": "1f360",
+        "tags": [
+          "roasted_sweet_potato"
+        ]
+      },
+      {
+        "uid": "1f362",
+        "tags": [
+          "oden"
+        ]
+      },
+      {
+        "uid": "1f363",
+        "tags": [
+          "sushi"
+        ]
+      },
+      {
+        "uid": "1f364",
+        "tags": [
+          "fried_shrimp"
+        ]
+      },
+      {
+        "uid": "1f365",
+        "tags": [
+          "fish_cake_with_swirl"
+        ]
+      },
+      {
+        "uid": "1f96e",
+        "tags": [
+          "moon_cake"
+        ]
+      },
+      {
+        "uid": "1f361",
+        "tags": [
+          "dango"
+        ]
+      },
+      {
+        "uid": "1f95f",
+        "tags": [
+          "dumpling"
+        ]
+      },
+      {
+        "uid": "1f960",
+        "tags": [
+          "fortune_cookie"
+        ]
+      },
+      {
+        "uid": "1f961",
+        "tags": [
+          "takeout_box"
+        ]
+      },
+      {
+        "uid": "1f980",
+        "tags": [
+          "crab"
+        ]
+      },
+      {
+        "uid": "1f99e",
+        "tags": [
+          "lobster"
+        ]
+      },
+      {
+        "uid": "1f990",
+        "tags": [
+          "shrimp"
+        ]
+      },
+      {
+        "uid": "1f991",
+        "tags": [
+          "squid"
+        ]
+      },
+      {
+        "uid": "1f9aa",
+        "tags": [
+          "oyster"
+        ]
+      },
+      {
+        "uid": "1f366",
+        "tags": [
+          "soft_ice_cream"
+        ]
+      },
+      {
+        "uid": "1f367",
+        "tags": [
+          "shaved_ice"
+        ]
+      },
+      {
+        "uid": "1f368",
+        "tags": [
+          "ice_cream"
+        ]
+      },
+      {
+        "uid": "1f369",
+        "tags": [
+          "doughnut"
+        ]
+      },
+      {
+        "uid": "1f36a",
+        "tags": [
+          "cookie"
+        ]
+      },
+      {
+        "uid": "1f382",
+        "tags": [
+          "birthday_cake"
+        ]
+      },
+      {
+        "uid": "1f370",
+        "tags": [
+          "shortcake"
+        ]
+      },
+      {
+        "uid": "1f9c1",
+        "tags": [
+          "cupcake"
+        ]
+      },
+      {
+        "uid": "1f967",
+        "tags": [
+          "pie"
+        ]
+      },
+      {
+        "uid": "1f36b",
+        "tags": [
+          "chocolate_bar"
+        ]
+      },
+      {
+        "uid": "1f36c",
+        "tags": [
+          "candy"
+        ]
+      },
+      {
+        "uid": "1f36d",
+        "tags": [
+          "lollipop"
+        ]
+      },
+      {
+        "uid": "1f36e",
+        "tags": [
+          "custard"
+        ]
+      },
+      {
+        "uid": "1f36f",
+        "tags": [
+          "honey_pot"
+        ]
+      },
+      {
+        "uid": "1f37c",
+        "tags": [
+          "baby_bottle"
+        ]
+      },
+      {
+        "uid": "1f95b",
+        "tags": [
+          "glass_of_milk"
+        ]
+      },
+      {
+        "uid": "2615",
+        "tags": [
+          "hot_beverage"
+        ]
+      },
+      {
+        "uid": "1fad6",
+        "tags": [
+          "teapot"
+        ]
+      },
+      {
+        "uid": "1f375",
+        "tags": [
+          "teacup_without_handle"
+        ]
+      },
+      {
+        "uid": "1f376",
+        "tags": [
+          "sake"
+        ]
+      },
+      {
+        "uid": "1f37e",
+        "tags": [
+          "bottle_with_popping_cork"
+        ]
+      },
+      {
+        "uid": "1f377",
+        "tags": [
+          "wine_glass"
+        ]
+      },
+      {
+        "uid": "1f378",
+        "tags": [
+          "cocktail_glass"
+        ]
+      },
+      {
+        "uid": "1f379",
+        "tags": [
+          "tropical_drink"
+        ]
+      },
+      {
+        "uid": "1f37a",
+        "tags": [
+          "beer_mug"
+        ]
+      },
+      {
+        "uid": "1f37b",
+        "tags": [
+          "clinking_beer_mugs"
+        ]
+      },
+      {
+        "uid": "1f942",
+        "tags": [
+          "clinking_glasses"
+        ]
+      },
+      {
+        "uid": "1f943",
+        "tags": [
+          "tumbler_glass"
+        ]
+      },
+      {
+        "uid": "1fad7",
+        "tags": [
+          "pouring_liquid"
+        ]
+      },
+      {
+        "uid": "1f964",
+        "tags": [
+          "cup_with_straw"
+        ]
+      },
+      {
+        "uid": "1f9cb",
+        "tags": [
+          "bubble_tea"
+        ]
+      },
+      {
+        "uid": "1f9c3",
+        "tags": [
+          "beverage_box"
+        ]
+      },
+      {
+        "uid": "1f9c9",
+        "tags": [
+          "mate"
+        ]
+      },
+      {
+        "uid": "1f9ca",
+        "tags": [
+          "ice"
+        ]
+      },
+      {
+        "uid": "1f962",
+        "tags": [
+          "chopsticks"
+        ]
+      },
+      {
+        "uid": "1f37d",
+        "tags": [
+          "fork_and_knife_with_plate"
+        ]
+      },
+      {
+        "uid": "1f374",
+        "tags": [
+          "fork_and_knife"
+        ]
+      },
+      {
+        "uid": "1f944",
+        "tags": [
+          "spoon"
+        ]
+      },
+      {
+        "uid": "1f52a",
+        "tags": [
+          "kitchen_knife"
+        ]
+      },
+      {
+        "uid": "1fad9",
+        "tags": [
+          "jar"
+        ]
+      },
+      {
+        "uid": "1f3fa",
+        "tags": [
+          "amphora"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Travel & Places",
+    "slug": "travel_places",
+    "emojis": [
+      {
+        "uid": "1f30d",
+        "tags": [
+          "globe_showing_europe_africa"
+        ]
+      },
+      {
+        "uid": "1f30e",
+        "tags": [
+          "globe_showing_americas"
+        ]
+      },
+      {
+        "uid": "1f30f",
+        "tags": [
+          "globe_showing_asia_australia"
+        ]
+      },
+      {
+        "uid": "1f310",
+        "tags": [
+          "globe_with_meridians"
+        ]
+      },
+      {
+        "uid": "1f5fa",
+        "tags": [
+          "world_map"
+        ]
+      },
+      {
+        "uid": "1f5fe",
+        "tags": [
+          "map_of_japan"
+        ]
+      },
+      {
+        "uid": "1f9ed",
+        "tags": [
+          "compass"
+        ]
+      },
+      {
+        "uid": "1f3d4",
+        "tags": [
+          "snow_capped_mountain"
+        ]
+      },
+      {
+        "uid": "26f0",
+        "tags": [
+          "mountain"
+        ]
+      },
+      {
+        "uid": "1f30b",
+        "tags": [
+          "volcano"
+        ]
+      },
+      {
+        "uid": "1f5fb",
+        "tags": [
+          "mount_fuji"
+        ]
+      },
+      {
+        "uid": "1f3d5",
+        "tags": [
+          "camping"
+        ]
+      },
+      {
+        "uid": "1f3d6",
+        "tags": [
+          "beach_with_umbrella"
+        ]
+      },
+      {
+        "uid": "1f3dc",
+        "tags": [
+          "desert"
+        ]
+      },
+      {
+        "uid": "1f3dd",
+        "tags": [
+          "desert_island"
+        ]
+      },
+      {
+        "uid": "1f3de",
+        "tags": [
+          "national_park"
+        ]
+      },
+      {
+        "uid": "1f3df",
+        "tags": [
+          "stadium"
+        ]
+      },
+      {
+        "uid": "1f3db",
+        "tags": [
+          "classical_building"
+        ]
+      },
+      {
+        "uid": "1f3d7",
+        "tags": [
+          "building_construction"
+        ]
+      },
+      {
+        "uid": "1f9f1",
+        "tags": [
+          "brick"
+        ]
+      },
+      {
+        "uid": "1faa8",
+        "tags": [
+          "rock"
+        ]
+      },
+      {
+        "uid": "1fab5",
+        "tags": [
+          "wood"
+        ]
+      },
+      {
+        "uid": "1f6d6",
+        "tags": [
+          "hut"
+        ]
+      },
+      {
+        "uid": "1f3d8",
+        "tags": [
+          "houses"
+        ]
+      },
+      {
+        "uid": "1f3da",
+        "tags": [
+          "derelict_house"
+        ]
+      },
+      {
+        "uid": "1f3e0",
+        "tags": [
+          "house"
+        ]
+      },
+      {
+        "uid": "1f3e1",
+        "tags": [
+          "house_with_garden"
+        ]
+      },
+      {
+        "uid": "1f3e2",
+        "tags": [
+          "office_building"
+        ]
+      },
+      {
+        "uid": "1f3e3",
+        "tags": [
+          "japanese_post_office"
+        ]
+      },
+      {
+        "uid": "1f3e4",
+        "tags": [
+          "post_office"
+        ]
+      },
+      {
+        "uid": "1f3e5",
+        "tags": [
+          "hospital"
+        ]
+      },
+      {
+        "uid": "1f3e6",
+        "tags": [
+          "bank"
+        ]
+      },
+      {
+        "uid": "1f3e8",
+        "tags": [
+          "hotel"
+        ]
+      },
+      {
+        "uid": "1f3e9",
+        "tags": [
+          "love_hotel"
+        ]
+      },
+      {
+        "uid": "1f3ea",
+        "tags": [
+          "convenience_store"
+        ]
+      },
+      {
+        "uid": "1f3eb",
+        "tags": [
+          "school"
+        ]
+      },
+      {
+        "uid": "1f3ec",
+        "tags": [
+          "department_store"
+        ]
+      },
+      {
+        "uid": "1f3ed",
+        "tags": [
+          "factory"
+        ]
+      },
+      {
+        "uid": "1f3ef",
+        "tags": [
+          "japanese_castle"
+        ]
+      },
+      {
+        "uid": "1f3f0",
+        "tags": [
+          "castle"
+        ]
+      },
+      {
+        "uid": "1f492",
+        "tags": [
+          "wedding"
+        ]
+      },
+      {
+        "uid": "1f5fc",
+        "tags": [
+          "tokyo_tower"
+        ]
+      },
+      {
+        "uid": "1f5fd",
+        "tags": [
+          "statue_of_liberty"
+        ]
+      },
+      {
+        "uid": "26ea",
+        "tags": [
+          "church"
+        ]
+      },
+      {
+        "uid": "1f54c",
+        "tags": [
+          "mosque"
+        ]
+      },
+      {
+        "uid": "1f6d5",
+        "tags": [
+          "hindu_temple"
+        ]
+      },
+      {
+        "uid": "1f54d",
+        "tags": [
+          "synagogue"
+        ]
+      },
+      {
+        "uid": "26e9",
+        "tags": [
+          "shinto_shrine"
+        ]
+      },
+      {
+        "uid": "1f54b",
+        "tags": [
+          "kaaba"
+        ]
+      },
+      {
+        "uid": "26f2",
+        "tags": [
+          "fountain"
+        ]
+      },
+      {
+        "uid": "26fa",
+        "tags": [
+          "tent"
+        ]
+      },
+      {
+        "uid": "1f301",
+        "tags": [
+          "foggy"
+        ]
+      },
+      {
+        "uid": "1f303",
+        "tags": [
+          "night_with_stars"
+        ]
+      },
+      {
+        "uid": "1f3d9",
+        "tags": [
+          "cityscape"
+        ]
+      },
+      {
+        "uid": "1f304",
+        "tags": [
+          "sunrise_over_mountains"
+        ]
+      },
+      {
+        "uid": "1f305",
+        "tags": [
+          "sunrise"
+        ]
+      },
+      {
+        "uid": "1f306",
+        "tags": [
+          "cityscape_at_dusk"
+        ]
+      },
+      {
+        "uid": "1f307",
+        "tags": [
+          "sunset"
+        ]
+      },
+      {
+        "uid": "1f309",
+        "tags": [
+          "bridge_at_night"
+        ]
+      },
+      {
+        "uid": "2668",
+        "tags": [
+          "hot_springs"
+        ]
+      },
+      {
+        "uid": "1f3a0",
+        "tags": [
+          "carousel_horse"
+        ]
+      },
+      {
+        "uid": "1f6dd",
+        "tags": [
+          "playground_slide"
+        ]
+      },
+      {
+        "uid": "1f3a1",
+        "tags": [
+          "ferris_wheel"
+        ]
+      },
+      {
+        "uid": "1f3a2",
+        "tags": [
+          "roller_coaster"
+        ]
+      },
+      {
+        "uid": "1f488",
+        "tags": [
+          "barber_pole"
+        ]
+      },
+      {
+        "uid": "1f3aa",
+        "tags": [
+          "circus_tent"
+        ]
+      },
+      {
+        "uid": "1f682",
+        "tags": [
+          "locomotive"
+        ]
+      },
+      {
+        "uid": "1f683",
+        "tags": [
+          "railway_car"
+        ]
+      },
+      {
+        "uid": "1f684",
+        "tags": [
+          "high_speed_train"
+        ]
+      },
+      {
+        "uid": "1f685",
+        "tags": [
+          "bullet_train"
+        ]
+      },
+      {
+        "uid": "1f686",
+        "tags": [
+          "train"
+        ]
+      },
+      {
+        "uid": "1f687",
+        "tags": [
+          "metro"
+        ]
+      },
+      {
+        "uid": "1f688",
+        "tags": [
+          "light_rail"
+        ]
+      },
+      {
+        "uid": "1f689",
+        "tags": [
+          "station"
+        ]
+      },
+      {
+        "uid": "1f68a",
+        "tags": [
+          "tram"
+        ]
+      },
+      {
+        "uid": "1f69d",
+        "tags": [
+          "monorail"
+        ]
+      },
+      {
+        "uid": "1f69e",
+        "tags": [
+          "mountain_railway"
+        ]
+      },
+      {
+        "uid": "1f68b",
+        "tags": [
+          "tram_car"
+        ]
+      },
+      {
+        "uid": "1f68c",
+        "tags": [
+          "bus"
+        ]
+      },
+      {
+        "uid": "1f68d",
+        "tags": [
+          "oncoming_bus"
+        ]
+      },
+      {
+        "uid": "1f68e",
+        "tags": [
+          "trolleybus"
+        ]
+      },
+      {
+        "uid": "1f690",
+        "tags": [
+          "minibus"
+        ]
+      },
+      {
+        "uid": "1f691",
+        "tags": [
+          "ambulance"
+        ]
+      },
+      {
+        "uid": "1f692",
+        "tags": [
+          "fire_engine"
+        ]
+      },
+      {
+        "uid": "1f693",
+        "tags": [
+          "police_car"
+        ]
+      },
+      {
+        "uid": "1f694",
+        "tags": [
+          "oncoming_police_car"
+        ]
+      },
+      {
+        "uid": "1f695",
+        "tags": [
+          "taxi"
+        ]
+      },
+      {
+        "uid": "1f696",
+        "tags": [
+          "oncoming_taxi"
+        ]
+      },
+      {
+        "uid": "1f697",
+        "tags": [
+          "automobile"
+        ]
+      },
+      {
+        "uid": "1f698",
+        "tags": [
+          "oncoming_automobile"
+        ]
+      },
+      {
+        "uid": "1f699",
+        "tags": [
+          "sport_utility_vehicle"
+        ]
+      },
+      {
+        "uid": "1f6fb",
+        "tags": [
+          "pickup_truck"
+        ]
+      },
+      {
+        "uid": "1f69a",
+        "tags": [
+          "delivery_truck"
+        ]
+      },
+      {
+        "uid": "1f69b",
+        "tags": [
+          "articulated_lorry"
+        ]
+      },
+      {
+        "uid": "1f69c",
+        "tags": [
+          "tractor"
+        ]
+      },
+      {
+        "uid": "1f3ce",
+        "tags": [
+          "racing_car"
+        ]
+      },
+      {
+        "uid": "1f3cd",
+        "tags": [
+          "motorcycle"
+        ]
+      },
+      {
+        "uid": "1f6f5",
+        "tags": [
+          "motor_scooter"
+        ]
+      },
+      {
+        "uid": "1f9bd",
+        "tags": [
+          "manual_wheelchair"
+        ]
+      },
+      {
+        "uid": "1f9bc",
+        "tags": [
+          "motorized_wheelchair"
+        ]
+      },
+      {
+        "uid": "1f6fa",
+        "tags": [
+          "auto_rickshaw"
+        ]
+      },
+      {
+        "uid": "1f6b2",
+        "tags": [
+          "bicycle"
+        ]
+      },
+      {
+        "uid": "1f6f4",
+        "tags": [
+          "kick_scooter"
+        ]
+      },
+      {
+        "uid": "1f6f9",
+        "tags": [
+          "skateboard"
+        ]
+      },
+      {
+        "uid": "1f6fc",
+        "tags": [
+          "roller_skate"
+        ]
+      },
+      {
+        "uid": "1f68f",
+        "tags": [
+          "bus_stop"
+        ]
+      },
+      {
+        "uid": "1f6e3",
+        "tags": [
+          "motorway"
+        ]
+      },
+      {
+        "uid": "1f6e4",
+        "tags": [
+          "railway_track"
+        ]
+      },
+      {
+        "uid": "1f6e2",
+        "tags": [
+          "oil_drum"
+        ]
+      },
+      {
+        "uid": "26fd",
+        "tags": [
+          "fuel_pump"
+        ]
+      },
+      {
+        "uid": "1f6de",
+        "tags": [
+          "wheel"
+        ]
+      },
+      {
+        "uid": "1f6a8",
+        "tags": [
+          "police_car_light"
+        ]
+      },
+      {
+        "uid": "1f6a5",
+        "tags": [
+          "horizontal_traffic_light"
+        ]
+      },
+      {
+        "uid": "1f6a6",
+        "tags": [
+          "vertical_traffic_light"
+        ]
+      },
+      {
+        "uid": "1f6d1",
+        "tags": [
+          "stop_sign"
+        ]
+      },
+      {
+        "uid": "1f6a7",
+        "tags": [
+          "construction"
+        ]
+      },
+      {
+        "uid": "2693",
+        "tags": [
+          "anchor"
+        ]
+      },
+      {
+        "uid": "1f6df",
+        "tags": [
+          "ring_buoy"
+        ]
+      },
+      {
+        "uid": "26f5",
+        "tags": [
+          "sailboat"
+        ]
+      },
+      {
+        "uid": "1f6f6",
+        "tags": [
+          "canoe"
+        ]
+      },
+      {
+        "uid": "1f6a4",
+        "tags": [
+          "speedboat"
+        ]
+      },
+      {
+        "uid": "1f6f3",
+        "tags": [
+          "passenger_ship"
+        ]
+      },
+      {
+        "uid": "26f4",
+        "tags": [
+          "ferry"
+        ]
+      },
+      {
+        "uid": "1f6e5",
+        "tags": [
+          "motor_boat"
+        ]
+      },
+      {
+        "uid": "1f6a2",
+        "tags": [
+          "ship"
+        ]
+      },
+      {
+        "uid": "2708",
+        "tags": [
+          "airplane"
+        ]
+      },
+      {
+        "uid": "1f6e9",
+        "tags": [
+          "small_airplane"
+        ]
+      },
+      {
+        "uid": "1f6eb",
+        "tags": [
+          "airplane_departure"
+        ]
+      },
+      {
+        "uid": "1f6ec",
+        "tags": [
+          "airplane_arrival"
+        ]
+      },
+      {
+        "uid": "1fa82",
+        "tags": [
+          "parachute"
+        ]
+      },
+      {
+        "uid": "1f4ba",
+        "tags": [
+          "seat"
+        ]
+      },
+      {
+        "uid": "1f681",
+        "tags": [
+          "helicopter"
+        ]
+      },
+      {
+        "uid": "1f69f",
+        "tags": [
+          "suspension_railway"
+        ]
+      },
+      {
+        "uid": "1f6a0",
+        "tags": [
+          "mountain_cableway"
+        ]
+      },
+      {
+        "uid": "1f6a1",
+        "tags": [
+          "aerial_tramway"
+        ]
+      },
+      {
+        "uid": "1f6f0",
+        "tags": [
+          "satellite"
+        ]
+      },
+      {
+        "uid": "1f680",
+        "tags": [
+          "rocket"
+        ]
+      },
+      {
+        "uid": "1f6f8",
+        "tags": [
+          "flying_saucer"
+        ]
+      },
+      {
+        "uid": "1f6ce",
+        "tags": [
+          "bellhop_bell"
+        ]
+      },
+      {
+        "uid": "1f9f3",
+        "tags": [
+          "luggage"
+        ]
+      },
+      {
+        "uid": "231b",
+        "tags": [
+          "hourglass_done"
+        ]
+      },
+      {
+        "uid": "23f3",
+        "tags": [
+          "hourglass_not_done"
+        ]
+      },
+      {
+        "uid": "231a",
+        "tags": [
+          "watch"
+        ]
+      },
+      {
+        "uid": "23f0",
+        "tags": [
+          "alarm_clock"
+        ]
+      },
+      {
+        "uid": "23f1",
+        "tags": [
+          "stopwatch"
+        ]
+      },
+      {
+        "uid": "23f2",
+        "tags": [
+          "timer_clock"
+        ]
+      },
+      {
+        "uid": "1f570",
+        "tags": [
+          "mantelpiece_clock"
+        ]
+      },
+      {
+        "uid": "1f55b",
+        "tags": [
+          "twelve_o_clock"
+        ]
+      },
+      {
+        "uid": "1f567",
+        "tags": [
+          "twelve_thirty"
+        ]
+      },
+      {
+        "uid": "1f550",
+        "tags": [
+          "one_o_clock"
+        ]
+      },
+      {
+        "uid": "1f55c",
+        "tags": [
+          "one_thirty"
+        ]
+      },
+      {
+        "uid": "1f551",
+        "tags": [
+          "two_o_clock"
+        ]
+      },
+      {
+        "uid": "1f55d",
+        "tags": [
+          "two_thirty"
+        ]
+      },
+      {
+        "uid": "1f552",
+        "tags": [
+          "three_o_clock"
+        ]
+      },
+      {
+        "uid": "1f55e",
+        "tags": [
+          "three_thirty"
+        ]
+      },
+      {
+        "uid": "1f553",
+        "tags": [
+          "four_o_clock"
+        ]
+      },
+      {
+        "uid": "1f55f",
+        "tags": [
+          "four_thirty"
+        ]
+      },
+      {
+        "uid": "1f554",
+        "tags": [
+          "five_o_clock"
+        ]
+      },
+      {
+        "uid": "1f560",
+        "tags": [
+          "five_thirty"
+        ]
+      },
+      {
+        "uid": "1f555",
+        "tags": [
+          "six_o_clock"
+        ]
+      },
+      {
+        "uid": "1f561",
+        "tags": [
+          "six_thirty"
+        ]
+      },
+      {
+        "uid": "1f556",
+        "tags": [
+          "seven_o_clock"
+        ]
+      },
+      {
+        "uid": "1f562",
+        "tags": [
+          "seven_thirty"
+        ]
+      },
+      {
+        "uid": "1f557",
+        "tags": [
+          "eight_o_clock"
+        ]
+      },
+      {
+        "uid": "1f563",
+        "tags": [
+          "eight_thirty"
+        ]
+      },
+      {
+        "uid": "1f558",
+        "tags": [
+          "nine_o_clock"
+        ]
+      },
+      {
+        "uid": "1f564",
+        "tags": [
+          "nine_thirty"
+        ]
+      },
+      {
+        "uid": "1f559",
+        "tags": [
+          "ten_o_clock"
+        ]
+      },
+      {
+        "uid": "1f565",
+        "tags": [
+          "ten_thirty"
+        ]
+      },
+      {
+        "uid": "1f55a",
+        "tags": [
+          "eleven_o_clock"
+        ]
+      },
+      {
+        "uid": "1f566",
+        "tags": [
+          "eleven_thirty"
+        ]
+      },
+      {
+        "uid": "1f311",
+        "tags": [
+          "new_moon"
+        ]
+      },
+      {
+        "uid": "1f312",
+        "tags": [
+          "waxing_crescent_moon"
+        ]
+      },
+      {
+        "uid": "1f313",
+        "tags": [
+          "first_quarter_moon"
+        ]
+      },
+      {
+        "uid": "1f314",
+        "tags": [
+          "waxing_gibbous_moon"
+        ]
+      },
+      {
+        "uid": "1f315",
+        "tags": [
+          "full_moon"
+        ]
+      },
+      {
+        "uid": "1f316",
+        "tags": [
+          "waning_gibbous_moon"
+        ]
+      },
+      {
+        "uid": "1f317",
+        "tags": [
+          "last_quarter_moon"
+        ]
+      },
+      {
+        "uid": "1f318",
+        "tags": [
+          "waning_crescent_moon"
+        ]
+      },
+      {
+        "uid": "1f319",
+        "tags": [
+          "crescent_moon"
+        ]
+      },
+      {
+        "uid": "1f31a",
+        "tags": [
+          "new_moon_face"
+        ]
+      },
+      {
+        "uid": "1f31b",
+        "tags": [
+          "first_quarter_moon_face"
+        ]
+      },
+      {
+        "uid": "1f31c",
+        "tags": [
+          "last_quarter_moon_face"
+        ]
+      },
+      {
+        "uid": "1f321",
+        "tags": [
+          "thermometer"
+        ]
+      },
+      {
+        "uid": "2600",
+        "tags": [
+          "sun"
+        ]
+      },
+      {
+        "uid": "1f31d",
+        "tags": [
+          "full_moon_face"
+        ]
+      },
+      {
+        "uid": "1f31e",
+        "tags": [
+          "sun_with_face"
+        ]
+      },
+      {
+        "uid": "1fa90",
+        "tags": [
+          "ringed_planet"
+        ]
+      },
+      {
+        "uid": "2b50",
+        "tags": [
+          "star"
+        ]
+      },
+      {
+        "uid": "1f31f",
+        "tags": [
+          "glowing_star"
+        ]
+      },
+      {
+        "uid": "1f320",
+        "tags": [
+          "shooting_star"
+        ]
+      },
+      {
+        "uid": "1f30c",
+        "tags": [
+          "milky_way"
+        ]
+      },
+      {
+        "uid": "2601",
+        "tags": [
+          "cloud"
+        ]
+      },
+      {
+        "uid": "26c5",
+        "tags": [
+          "sun_behind_cloud"
+        ]
+      },
+      {
+        "uid": "26c8",
+        "tags": [
+          "cloud_with_lightning_and_rain"
+        ]
+      },
+      {
+        "uid": "1f324",
+        "tags": [
+          "sun_behind_small_cloud"
+        ]
+      },
+      {
+        "uid": "1f325",
+        "tags": [
+          "sun_behind_large_cloud"
+        ]
+      },
+      {
+        "uid": "1f326",
+        "tags": [
+          "sun_behind_rain_cloud"
+        ]
+      },
+      {
+        "uid": "1f327",
+        "tags": [
+          "cloud_with_rain"
+        ]
+      },
+      {
+        "uid": "1f328",
+        "tags": [
+          "cloud_with_snow"
+        ]
+      },
+      {
+        "uid": "1f329",
+        "tags": [
+          "cloud_with_lightning"
+        ]
+      },
+      {
+        "uid": "1f32a",
+        "tags": [
+          "tornado"
+        ]
+      },
+      {
+        "uid": "1f32b",
+        "tags": [
+          "fog"
+        ]
+      },
+      {
+        "uid": "1f32c",
+        "tags": [
+          "wind_face"
+        ]
+      },
+      {
+        "uid": "1f300",
+        "tags": [
+          "cyclone"
+        ]
+      },
+      {
+        "uid": "1f308",
+        "tags": [
+          "rainbow"
+        ]
+      },
+      {
+        "uid": "1f302",
+        "tags": [
+          "closed_umbrella"
+        ]
+      },
+      {
+        "uid": "2602",
+        "tags": [
+          "umbrella"
+        ]
+      },
+      {
+        "uid": "2614",
+        "tags": [
+          "umbrella_with_rain_drops"
+        ]
+      },
+      {
+        "uid": "26f1",
+        "tags": [
+          "umbrella_on_ground"
+        ]
+      },
+      {
+        "uid": "26a1",
+        "tags": [
+          "high_voltage"
+        ]
+      },
+      {
+        "uid": "2744",
+        "tags": [
+          "snowflake"
+        ]
+      },
+      {
+        "uid": "2603",
+        "tags": [
+          "snowman"
+        ]
+      },
+      {
+        "uid": "26c4",
+        "tags": [
+          "snowman_without_snow"
+        ]
+      },
+      {
+        "uid": "2604",
+        "tags": [
+          "comet"
+        ]
+      },
+      {
+        "uid": "1f525",
+        "tags": [
+          "fire"
+        ]
+      },
+      {
+        "uid": "1f4a7",
+        "tags": [
+          "droplet"
+        ]
+      },
+      {
+        "uid": "1f30a",
+        "tags": [
+          "water_wave"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Activities",
+    "slug": "activities",
+    "emojis": [
+      {
+        "uid": "1f383",
+        "tags": [
+          "jack_o_lantern"
+        ]
+      },
+      {
+        "uid": "1f384",
+        "tags": [
+          "christmas_tree"
+        ]
+      },
+      {
+        "uid": "1f386",
+        "tags": [
+          "fireworks"
+        ]
+      },
+      {
+        "uid": "1f387",
+        "tags": [
+          "sparkler"
+        ]
+      },
+      {
+        "uid": "1f9e8",
+        "tags": [
+          "firecracker"
+        ]
+      },
+      {
+        "uid": "2728",
+        "tags": [
+          "sparkles"
+        ]
+      },
+      {
+        "uid": "1f388",
+        "tags": [
+          "balloon"
+        ]
+      },
+      {
+        "uid": "1f389",
+        "tags": [
+          "party_popper"
+        ]
+      },
+      {
+        "uid": "1f38a",
+        "tags": [
+          "confetti_ball"
+        ]
+      },
+      {
+        "uid": "1f38b",
+        "tags": [
+          "tanabata_tree"
+        ]
+      },
+      {
+        "uid": "1f38d",
+        "tags": [
+          "pine_decoration"
+        ]
+      },
+      {
+        "uid": "1f38e",
+        "tags": [
+          "japanese_dolls"
+        ]
+      },
+      {
+        "uid": "1f38f",
+        "tags": [
+          "carp_streamer"
+        ]
+      },
+      {
+        "uid": "1f390",
+        "tags": [
+          "wind_chime"
+        ]
+      },
+      {
+        "uid": "1f391",
+        "tags": [
+          "moon_viewing_ceremony"
+        ]
+      },
+      {
+        "uid": "1f9e7",
+        "tags": [
+          "red_envelope"
+        ]
+      },
+      {
+        "uid": "1f380",
+        "tags": [
+          "ribbon"
+        ]
+      },
+      {
+        "uid": "1f381",
+        "tags": [
+          "wrapped_gift"
+        ]
+      },
+      {
+        "uid": "1f397",
+        "tags": [
+          "reminder_ribbon"
+        ]
+      },
+      {
+        "uid": "1f39f",
+        "tags": [
+          "admission_tickets"
+        ]
+      },
+      {
+        "uid": "1f3ab",
+        "tags": [
+          "ticket"
+        ]
+      },
+      {
+        "uid": "1f396",
+        "tags": [
+          "military_medal"
+        ]
+      },
+      {
+        "uid": "1f3c6",
+        "tags": [
+          "trophy"
+        ]
+      },
+      {
+        "uid": "1f3c5",
+        "tags": [
+          "sports_medal"
+        ]
+      },
+      {
+        "uid": "1f947",
+        "tags": [
+          "1st_place_medal"
+        ]
+      },
+      {
+        "uid": "1f948",
+        "tags": [
+          "2nd_place_medal"
+        ]
+      },
+      {
+        "uid": "1f949",
+        "tags": [
+          "3rd_place_medal"
+        ]
+      },
+      {
+        "uid": "26bd",
+        "tags": [
+          "soccer_ball"
+        ]
+      },
+      {
+        "uid": "26be",
+        "tags": [
+          "baseball"
+        ]
+      },
+      {
+        "uid": "1f94e",
+        "tags": [
+          "softball"
+        ]
+      },
+      {
+        "uid": "1f3c0",
+        "tags": [
+          "basketball"
+        ]
+      },
+      {
+        "uid": "1f3d0",
+        "tags": [
+          "volleyball"
+        ]
+      },
+      {
+        "uid": "1f3c8",
+        "tags": [
+          "american_football"
+        ]
+      },
+      {
+        "uid": "1f3c9",
+        "tags": [
+          "rugby_football"
+        ]
+      },
+      {
+        "uid": "1f3be",
+        "tags": [
+          "tennis"
+        ]
+      },
+      {
+        "uid": "1f94f",
+        "tags": [
+          "flying_disc"
+        ]
+      },
+      {
+        "uid": "1f3b3",
+        "tags": [
+          "bowling"
+        ]
+      },
+      {
+        "uid": "1f3cf",
+        "tags": [
+          "cricket_game"
+        ]
+      },
+      {
+        "uid": "1f3d1",
+        "tags": [
+          "field_hockey"
+        ]
+      },
+      {
+        "uid": "1f3d2",
+        "tags": [
+          "ice_hockey"
+        ]
+      },
+      {
+        "uid": "1f94d",
+        "tags": [
+          "lacrosse"
+        ]
+      },
+      {
+        "uid": "1f3d3",
+        "tags": [
+          "ping_pong"
+        ]
+      },
+      {
+        "uid": "1f3f8",
+        "tags": [
+          "badminton"
+        ]
+      },
+      {
+        "uid": "1f94a",
+        "tags": [
+          "boxing_glove"
+        ]
+      },
+      {
+        "uid": "1f94b",
+        "tags": [
+          "martial_arts_uniform"
+        ]
+      },
+      {
+        "uid": "1f945",
+        "tags": [
+          "goal_net"
+        ]
+      },
+      {
+        "uid": "26f3",
+        "tags": [
+          "flag_in_hole"
+        ]
+      },
+      {
+        "uid": "26f8",
+        "tags": [
+          "ice_skate"
+        ]
+      },
+      {
+        "uid": "1f3a3",
+        "tags": [
+          "fishing_pole"
+        ]
+      },
+      {
+        "uid": "1f93f",
+        "tags": [
+          "diving_mask"
+        ]
+      },
+      {
+        "uid": "1f3bd",
+        "tags": [
+          "running_shirt"
+        ]
+      },
+      {
+        "uid": "1f3bf",
+        "tags": [
+          "skis"
+        ]
+      },
+      {
+        "uid": "1f6f7",
+        "tags": [
+          "sled"
+        ]
+      },
+      {
+        "uid": "1f94c",
+        "tags": [
+          "curling_stone"
+        ]
+      },
+      {
+        "uid": "1f3af",
+        "tags": [
+          "bullseye"
+        ]
+      },
+      {
+        "uid": "1fa80",
+        "tags": [
+          "yo_yo"
+        ]
+      },
+      {
+        "uid": "1fa81",
+        "tags": [
+          "kite"
+        ]
+      },
+      {
+        "uid": "1f52b",
+        "tags": [
+          "water_pistol"
+        ]
+      },
+      {
+        "uid": "1f3b1",
+        "tags": [
+          "pool_8_ball"
+        ]
+      },
+      {
+        "uid": "1f52e",
+        "tags": [
+          "crystal_ball"
+        ]
+      },
+      {
+        "uid": "1fa84",
+        "tags": [
+          "magic_wand"
+        ]
+      },
+      {
+        "uid": "1f3ae",
+        "tags": [
+          "video_game"
+        ]
+      },
+      {
+        "uid": "1f579",
+        "tags": [
+          "joystick"
+        ]
+      },
+      {
+        "uid": "1f3b0",
+        "tags": [
+          "slot_machine"
+        ]
+      },
+      {
+        "uid": "1f3b2",
+        "tags": [
+          "game_die"
+        ]
+      },
+      {
+        "uid": "1f9e9",
+        "tags": [
+          "puzzle_piece"
+        ]
+      },
+      {
+        "uid": "1f9f8",
+        "tags": [
+          "teddy_bear"
+        ]
+      },
+      {
+        "uid": "1fa85",
+        "tags": [
+          "pinata"
+        ]
+      },
+      {
+        "uid": "1faa9",
+        "tags": [
+          "mirror_ball"
+        ]
+      },
+      {
+        "uid": "1fa86",
+        "tags": [
+          "nesting_dolls"
+        ]
+      },
+      {
+        "uid": "2660",
+        "tags": [
+          "spade_suit"
+        ]
+      },
+      {
+        "uid": "2665",
+        "tags": [
+          "heart_suit"
+        ]
+      },
+      {
+        "uid": "2666",
+        "tags": [
+          "diamond_suit"
+        ]
+      },
+      {
+        "uid": "2663",
+        "tags": [
+          "club_suit"
+        ]
+      },
+      {
+        "uid": "265f",
+        "tags": [
+          "chess_pawn"
+        ]
+      },
+      {
+        "uid": "1f0cf",
+        "tags": [
+          "joker"
+        ]
+      },
+      {
+        "uid": "1f004",
+        "tags": [
+          "mahjong_red_dragon"
+        ]
+      },
+      {
+        "uid": "1f3b4",
+        "tags": [
+          "flower_playing_cards"
+        ]
+      },
+      {
+        "uid": "1f3ad",
+        "tags": [
+          "performing_arts"
+        ]
+      },
+      {
+        "uid": "1f5bc",
+        "tags": [
+          "framed_picture"
+        ]
+      },
+      {
+        "uid": "1f3a8",
+        "tags": [
+          "artist_palette"
+        ]
+      },
+      {
+        "uid": "1f9f5",
+        "tags": [
+          "thread"
+        ]
+      },
+      {
+        "uid": "1faa1",
+        "tags": [
+          "sewing_needle"
+        ]
+      },
+      {
+        "uid": "1f9f6",
+        "tags": [
+          "yarn"
+        ]
+      },
+      {
+        "uid": "1faa2",
+        "tags": [
+          "knot"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Objects",
+    "slug": "objects",
+    "emojis": [
+      {
+        "uid": "1f453",
+        "tags": [
+          "glasses"
+        ]
+      },
+      {
+        "uid": "1f576",
+        "tags": [
+          "sunglasses"
+        ]
+      },
+      {
+        "uid": "1f97d",
+        "tags": [
+          "goggles"
+        ]
+      },
+      {
+        "uid": "1f97c",
+        "tags": [
+          "lab_coat"
+        ]
+      },
+      {
+        "uid": "1f9ba",
+        "tags": [
+          "safety_vest"
+        ]
+      },
+      {
+        "uid": "1f454",
+        "tags": [
+          "necktie"
+        ]
+      },
+      {
+        "uid": "1f455",
+        "tags": [
+          "t_shirt"
+        ]
+      },
+      {
+        "uid": "1f456",
+        "tags": [
+          "jeans"
+        ]
+      },
+      {
+        "uid": "1f9e3",
+        "tags": [
+          "scarf"
+        ]
+      },
+      {
+        "uid": "1f9e4",
+        "tags": [
+          "gloves"
+        ]
+      },
+      {
+        "uid": "1f9e5",
+        "tags": [
+          "coat"
+        ]
+      },
+      {
+        "uid": "1f9e6",
+        "tags": [
+          "socks"
+        ]
+      },
+      {
+        "uid": "1f457",
+        "tags": [
+          "dress"
+        ]
+      },
+      {
+        "uid": "1f458",
+        "tags": [
+          "kimono"
+        ]
+      },
+      {
+        "uid": "1f97b",
+        "tags": [
+          "sari"
+        ]
+      },
+      {
+        "uid": "1fa71",
+        "tags": [
+          "one_piece_swimsuit"
+        ]
+      },
+      {
+        "uid": "1fa72",
+        "tags": [
+          "briefs"
+        ]
+      },
+      {
+        "uid": "1fa73",
+        "tags": [
+          "shorts"
+        ]
+      },
+      {
+        "uid": "1f459",
+        "tags": [
+          "bikini"
+        ]
+      },
+      {
+        "uid": "1f45a",
+        "tags": [
+          "woman_s_clothes"
+        ]
+      },
+      {
+        "uid": "1faad",
+        "tags": [
+          "folding_hand_fan"
+        ]
+      },
+      {
+        "uid": "1f45b",
+        "tags": [
+          "purse"
+        ]
+      },
+      {
+        "uid": "1f45c",
+        "tags": [
+          "handbag"
+        ]
+      },
+      {
+        "uid": "1f45d",
+        "tags": [
+          "clutch_bag"
+        ]
+      },
+      {
+        "uid": "1f6cd",
+        "tags": [
+          "shopping_bags"
+        ]
+      },
+      {
+        "uid": "1f392",
+        "tags": [
+          "backpack"
+        ]
+      },
+      {
+        "uid": "1fa74",
+        "tags": [
+          "thong_sandal"
+        ]
+      },
+      {
+        "uid": "1f45e",
+        "tags": [
+          "man_s_shoe"
+        ]
+      },
+      {
+        "uid": "1f45f",
+        "tags": [
+          "running_shoe"
+        ]
+      },
+      {
+        "uid": "1f97e",
+        "tags": [
+          "hiking_boot"
+        ]
+      },
+      {
+        "uid": "1f97f",
+        "tags": [
+          "flat_shoe"
+        ]
+      },
+      {
+        "uid": "1f460",
+        "tags": [
+          "high_heeled_shoe"
+        ]
+      },
+      {
+        "uid": "1f461",
+        "tags": [
+          "woman_s_sandal"
+        ]
+      },
+      {
+        "uid": "1fa70",
+        "tags": [
+          "ballet_shoes"
+        ]
+      },
+      {
+        "uid": "1f462",
+        "tags": [
+          "woman_s_boot"
+        ]
+      },
+      {
+        "uid": "1faae",
+        "tags": [
+          "hair_pick"
+        ]
+      },
+      {
+        "uid": "1f451",
+        "tags": [
+          "crown"
+        ]
+      },
+      {
+        "uid": "1f452",
+        "tags": [
+          "woman_s_hat"
+        ]
+      },
+      {
+        "uid": "1f3a9",
+        "tags": [
+          "top_hat"
+        ]
+      },
+      {
+        "uid": "1f393",
+        "tags": [
+          "graduation_cap"
+        ]
+      },
+      {
+        "uid": "1f9e2",
+        "tags": [
+          "billed_cap"
+        ]
+      },
+      {
+        "uid": "1fa96",
+        "tags": [
+          "military_helmet"
+        ]
+      },
+      {
+        "uid": "26d1",
+        "tags": [
+          "rescue_worker_s_helmet"
+        ]
+      },
+      {
+        "uid": "1f4ff",
+        "tags": [
+          "prayer_beads"
+        ]
+      },
+      {
+        "uid": "1f484",
+        "tags": [
+          "lipstick"
+        ]
+      },
+      {
+        "uid": "1f48d",
+        "tags": [
+          "ring"
+        ]
+      },
+      {
+        "uid": "1f48e",
+        "tags": [
+          "gem_stone"
+        ]
+      },
+      {
+        "uid": "1f507",
+        "tags": [
+          "muted_speaker"
+        ]
+      },
+      {
+        "uid": "1f508",
+        "tags": [
+          "speaker_low_volume"
+        ]
+      },
+      {
+        "uid": "1f509",
+        "tags": [
+          "speaker_medium_volume"
+        ]
+      },
+      {
+        "uid": "1f50a",
+        "tags": [
+          "speaker_high_volume"
+        ]
+      },
+      {
+        "uid": "1f4e2",
+        "tags": [
+          "loudspeaker"
+        ]
+      },
+      {
+        "uid": "1f4e3",
+        "tags": [
+          "megaphone"
+        ]
+      },
+      {
+        "uid": "1f4ef",
+        "tags": [
+          "postal_horn"
+        ]
+      },
+      {
+        "uid": "1f514",
+        "tags": [
+          "bell"
+        ]
+      },
+      {
+        "uid": "1f515",
+        "tags": [
+          "bell_with_slash"
+        ]
+      },
+      {
+        "uid": "1f3bc",
+        "tags": [
+          "musical_score"
+        ]
+      },
+      {
+        "uid": "1f3b5",
+        "tags": [
+          "musical_note"
+        ]
+      },
+      {
+        "uid": "1f3b6",
+        "tags": [
+          "musical_notes"
+        ]
+      },
+      {
+        "uid": "1f399",
+        "tags": [
+          "studio_microphone"
+        ]
+      },
+      {
+        "uid": "1f39a",
+        "tags": [
+          "level_slider"
+        ]
+      },
+      {
+        "uid": "1f39b",
+        "tags": [
+          "control_knobs"
+        ]
+      },
+      {
+        "uid": "1f3a4",
+        "tags": [
+          "microphone"
+        ]
+      },
+      {
+        "uid": "1f3a7",
+        "tags": [
+          "headphone"
+        ]
+      },
+      {
+        "uid": "1f4fb",
+        "tags": [
+          "radio"
+        ]
+      },
+      {
+        "uid": "1f3b7",
+        "tags": [
+          "saxophone"
+        ]
+      },
+      {
+        "uid": "1fa97",
+        "tags": [
+          "accordion"
+        ]
+      },
+      {
+        "uid": "1f3b8",
+        "tags": [
+          "guitar"
+        ]
+      },
+      {
+        "uid": "1f3b9",
+        "tags": [
+          "musical_keyboard"
+        ]
+      },
+      {
+        "uid": "1f3ba",
+        "tags": [
+          "trumpet"
+        ]
+      },
+      {
+        "uid": "1f3bb",
+        "tags": [
+          "violin"
+        ]
+      },
+      {
+        "uid": "1fa95",
+        "tags": [
+          "banjo"
+        ]
+      },
+      {
+        "uid": "1f941",
+        "tags": [
+          "drum"
+        ]
+      },
+      {
+        "uid": "1fa98",
+        "tags": [
+          "long_drum"
+        ]
+      },
+      {
+        "uid": "1fa87",
+        "tags": [
+          "maracas"
+        ]
+      },
+      {
+        "uid": "1fa88",
+        "tags": [
+          "flute"
+        ]
+      },
+      {
+        "uid": "1f4f1",
+        "tags": [
+          "mobile_phone"
+        ]
+      },
+      {
+        "uid": "1f4f2",
+        "tags": [
+          "mobile_phone_with_arrow"
+        ]
+      },
+      {
+        "uid": "260e",
+        "tags": [
+          "telephone"
+        ]
+      },
+      {
+        "uid": "1f4de",
+        "tags": [
+          "telephone_receiver"
+        ]
+      },
+      {
+        "uid": "1f4df",
+        "tags": [
+          "pager"
+        ]
+      },
+      {
+        "uid": "1f4e0",
+        "tags": [
+          "fax_machine"
+        ]
+      },
+      {
+        "uid": "1f50b",
+        "tags": [
+          "battery"
+        ]
+      },
+      {
+        "uid": "1faab",
+        "tags": [
+          "low_battery"
+        ]
+      },
+      {
+        "uid": "1f50c",
+        "tags": [
+          "electric_plug"
+        ]
+      },
+      {
+        "uid": "1f4bb",
+        "tags": [
+          "laptop"
+        ]
+      },
+      {
+        "uid": "1f5a5",
+        "tags": [
+          "desktop_computer"
+        ]
+      },
+      {
+        "uid": "1f5a8",
+        "tags": [
+          "printer"
+        ]
+      },
+      {
+        "uid": "2328",
+        "tags": [
+          "keyboard"
+        ]
+      },
+      {
+        "uid": "1f5b1",
+        "tags": [
+          "computer_mouse"
+        ]
+      },
+      {
+        "uid": "1f5b2",
+        "tags": [
+          "trackball"
+        ]
+      },
+      {
+        "uid": "1f4bd",
+        "tags": [
+          "computer_disk"
+        ]
+      },
+      {
+        "uid": "1f4be",
+        "tags": [
+          "floppy_disk"
+        ]
+      },
+      {
+        "uid": "1f4bf",
+        "tags": [
+          "optical_disk"
+        ]
+      },
+      {
+        "uid": "1f4c0",
+        "tags": [
+          "dvd"
+        ]
+      },
+      {
+        "uid": "1f9ee",
+        "tags": [
+          "abacus"
+        ]
+      },
+      {
+        "uid": "1f3a5",
+        "tags": [
+          "movie_camera"
+        ]
+      },
+      {
+        "uid": "1f39e",
+        "tags": [
+          "film_frames"
+        ]
+      },
+      {
+        "uid": "1f4fd",
+        "tags": [
+          "film_projector"
+        ]
+      },
+      {
+        "uid": "1f3ac",
+        "tags": [
+          "clapper_board"
+        ]
+      },
+      {
+        "uid": "1f4fa",
+        "tags": [
+          "television"
+        ]
+      },
+      {
+        "uid": "1f4f7",
+        "tags": [
+          "camera"
+        ]
+      },
+      {
+        "uid": "1f4f8",
+        "tags": [
+          "camera_with_flash"
+        ]
+      },
+      {
+        "uid": "1f4f9",
+        "tags": [
+          "video_camera"
+        ]
+      },
+      {
+        "uid": "1f4fc",
+        "tags": [
+          "videocassette"
+        ]
+      },
+      {
+        "uid": "1f50d",
+        "tags": [
+          "magnifying_glass_tilted_left"
+        ]
+      },
+      {
+        "uid": "1f50e",
+        "tags": [
+          "magnifying_glass_tilted_right"
+        ]
+      },
+      {
+        "uid": "1f56f",
+        "tags": [
+          "candle"
+        ]
+      },
+      {
+        "uid": "1f4a1",
+        "tags": [
+          "light_bulb"
+        ]
+      },
+      {
+        "uid": "1f526",
+        "tags": [
+          "flashlight"
+        ]
+      },
+      {
+        "uid": "1f3ee",
+        "tags": [
+          "red_paper_lantern"
+        ]
+      },
+      {
+        "uid": "1fa94",
+        "tags": [
+          "diya_lamp"
+        ]
+      },
+      {
+        "uid": "1f4d4",
+        "tags": [
+          "notebook_with_decorative_cover"
+        ]
+      },
+      {
+        "uid": "1f4d5",
+        "tags": [
+          "closed_book"
+        ]
+      },
+      {
+        "uid": "1f4d6",
+        "tags": [
+          "open_book"
+        ]
+      },
+      {
+        "uid": "1f4d7",
+        "tags": [
+          "green_book"
+        ]
+      },
+      {
+        "uid": "1f4d8",
+        "tags": [
+          "blue_book"
+        ]
+      },
+      {
+        "uid": "1f4d9",
+        "tags": [
+          "orange_book"
+        ]
+      },
+      {
+        "uid": "1f4da",
+        "tags": [
+          "books"
+        ]
+      },
+      {
+        "uid": "1f4d3",
+        "tags": [
+          "notebook"
+        ]
+      },
+      {
+        "uid": "1f4d2",
+        "tags": [
+          "ledger"
+        ]
+      },
+      {
+        "uid": "1f4c3",
+        "tags": [
+          "page_with_curl"
+        ]
+      },
+      {
+        "uid": "1f4dc",
+        "tags": [
+          "scroll"
+        ]
+      },
+      {
+        "uid": "1f4c4",
+        "tags": [
+          "page_facing_up"
+        ]
+      },
+      {
+        "uid": "1f4f0",
+        "tags": [
+          "newspaper"
+        ]
+      },
+      {
+        "uid": "1f5de",
+        "tags": [
+          "rolled_up_newspaper"
+        ]
+      },
+      {
+        "uid": "1f4d1",
+        "tags": [
+          "bookmark_tabs"
+        ]
+      },
+      {
+        "uid": "1f516",
+        "tags": [
+          "bookmark"
+        ]
+      },
+      {
+        "uid": "1f3f7",
+        "tags": [
+          "label"
+        ]
+      },
+      {
+        "uid": "1f4b0",
+        "tags": [
+          "money_bag"
+        ]
+      },
+      {
+        "uid": "1fa99",
+        "tags": [
+          "coin"
+        ]
+      },
+      {
+        "uid": "1f4b4",
+        "tags": [
+          "yen_banknote"
+        ]
+      },
+      {
+        "uid": "1f4b5",
+        "tags": [
+          "dollar_banknote"
+        ]
+      },
+      {
+        "uid": "1f4b6",
+        "tags": [
+          "euro_banknote"
+        ]
+      },
+      {
+        "uid": "1f4b7",
+        "tags": [
+          "pound_banknote"
+        ]
+      },
+      {
+        "uid": "1f4b8",
+        "tags": [
+          "money_with_wings"
+        ]
+      },
+      {
+        "uid": "1f4b3",
+        "tags": [
+          "credit_card"
+        ]
+      },
+      {
+        "uid": "1f9fe",
+        "tags": [
+          "receipt"
+        ]
+      },
+      {
+        "uid": "1f4b9",
+        "tags": [
+          "chart_increasing_with_yen"
+        ]
+      },
+      {
+        "uid": "2709",
+        "tags": [
+          "envelope"
+        ]
+      },
+      {
+        "uid": "1f4e7",
+        "tags": [
+          "e_mail"
+        ]
+      },
+      {
+        "uid": "1f4e8",
+        "tags": [
+          "incoming_envelope"
+        ]
+      },
+      {
+        "uid": "1f4e9",
+        "tags": [
+          "envelope_with_arrow"
+        ]
+      },
+      {
+        "uid": "1f4e4",
+        "tags": [
+          "outbox_tray"
+        ]
+      },
+      {
+        "uid": "1f4e5",
+        "tags": [
+          "inbox_tray"
+        ]
+      },
+      {
+        "uid": "1f4e6",
+        "tags": [
+          "package"
+        ]
+      },
+      {
+        "uid": "1f4eb",
+        "tags": [
+          "closed_mailbox_with_raised_flag"
+        ]
+      },
+      {
+        "uid": "1f4ea",
+        "tags": [
+          "closed_mailbox_with_lowered_flag"
+        ]
+      },
+      {
+        "uid": "1f4ec",
+        "tags": [
+          "open_mailbox_with_raised_flag"
+        ]
+      },
+      {
+        "uid": "1f4ed",
+        "tags": [
+          "open_mailbox_with_lowered_flag"
+        ]
+      },
+      {
+        "uid": "1f4ee",
+        "tags": [
+          "postbox"
+        ]
+      },
+      {
+        "uid": "1f5f3",
+        "tags": [
+          "ballot_box_with_ballot"
+        ]
+      },
+      {
+        "uid": "270f",
+        "tags": [
+          "pencil"
+        ]
+      },
+      {
+        "uid": "2712",
+        "tags": [
+          "black_nib"
+        ]
+      },
+      {
+        "uid": "1f58b",
+        "tags": [
+          "fountain_pen"
+        ]
+      },
+      {
+        "uid": "1f58a",
+        "tags": [
+          "pen"
+        ]
+      },
+      {
+        "uid": "1f58c",
+        "tags": [
+          "paintbrush"
+        ]
+      },
+      {
+        "uid": "1f58d",
+        "tags": [
+          "crayon"
+        ]
+      },
+      {
+        "uid": "1f4dd",
+        "tags": [
+          "memo"
+        ]
+      },
+      {
+        "uid": "1f4bc",
+        "tags": [
+          "briefcase"
+        ]
+      },
+      {
+        "uid": "1f4c1",
+        "tags": [
+          "file_folder"
+        ]
+      },
+      {
+        "uid": "1f4c2",
+        "tags": [
+          "open_file_folder"
+        ]
+      },
+      {
+        "uid": "1f5c2",
+        "tags": [
+          "card_index_dividers"
+        ]
+      },
+      {
+        "uid": "1f4c5",
+        "tags": [
+          "calendar"
+        ]
+      },
+      {
+        "uid": "1f4c6",
+        "tags": [
+          "tear_off_calendar"
+        ]
+      },
+      {
+        "uid": "1f5d2",
+        "tags": [
+          "spiral_notepad"
+        ]
+      },
+      {
+        "uid": "1f5d3",
+        "tags": [
+          "spiral_calendar"
+        ]
+      },
+      {
+        "uid": "1f4c7",
+        "tags": [
+          "card_index"
+        ]
+      },
+      {
+        "uid": "1f4c8",
+        "tags": [
+          "chart_increasing"
+        ]
+      },
+      {
+        "uid": "1f4c9",
+        "tags": [
+          "chart_decreasing"
+        ]
+      },
+      {
+        "uid": "1f4ca",
+        "tags": [
+          "bar_chart"
+        ]
+      },
+      {
+        "uid": "1f4cb",
+        "tags": [
+          "clipboard"
+        ]
+      },
+      {
+        "uid": "1f4cc",
+        "tags": [
+          "pushpin"
+        ]
+      },
+      {
+        "uid": "1f4cd",
+        "tags": [
+          "round_pushpin"
+        ]
+      },
+      {
+        "uid": "1f4ce",
+        "tags": [
+          "paperclip"
+        ]
+      },
+      {
+        "uid": "1f587",
+        "tags": [
+          "linked_paperclips"
+        ]
+      },
+      {
+        "uid": "1f4cf",
+        "tags": [
+          "straight_ruler"
+        ]
+      },
+      {
+        "uid": "1f4d0",
+        "tags": [
+          "triangular_ruler"
+        ]
+      },
+      {
+        "uid": "2702",
+        "tags": [
+          "scissors"
+        ]
+      },
+      {
+        "uid": "1f5c3",
+        "tags": [
+          "card_file_box"
+        ]
+      },
+      {
+        "uid": "1f5c4",
+        "tags": [
+          "file_cabinet"
+        ]
+      },
+      {
+        "uid": "1f5d1",
+        "tags": [
+          "wastebasket"
+        ]
+      },
+      {
+        "uid": "1f512",
+        "tags": [
+          "locked"
+        ]
+      },
+      {
+        "uid": "1f513",
+        "tags": [
+          "unlocked"
+        ]
+      },
+      {
+        "uid": "1f50f",
+        "tags": [
+          "locked_with_pen"
+        ]
+      },
+      {
+        "uid": "1f510",
+        "tags": [
+          "locked_with_key"
+        ]
+      },
+      {
+        "uid": "1f511",
+        "tags": [
+          "key"
+        ]
+      },
+      {
+        "uid": "1f5dd",
+        "tags": [
+          "old_key"
+        ]
+      },
+      {
+        "uid": "1f528",
+        "tags": [
+          "hammer"
+        ]
+      },
+      {
+        "uid": "1fa93",
+        "tags": [
+          "axe"
+        ]
+      },
+      {
+        "uid": "26cf",
+        "tags": [
+          "pick"
+        ]
+      },
+      {
+        "uid": "2692",
+        "tags": [
+          "hammer_and_pick"
+        ]
+      },
+      {
+        "uid": "1f6e0",
+        "tags": [
+          "hammer_and_wrench"
+        ]
+      },
+      {
+        "uid": "1f5e1",
+        "tags": [
+          "dagger"
+        ]
+      },
+      {
+        "uid": "2694",
+        "tags": [
+          "crossed_swords"
+        ]
+      },
+      {
+        "uid": "1f4a3",
+        "tags": [
+          "bomb"
+        ]
+      },
+      {
+        "uid": "1fa83",
+        "tags": [
+          "boomerang"
+        ]
+      },
+      {
+        "uid": "1f3f9",
+        "tags": [
+          "bow_and_arrow"
+        ]
+      },
+      {
+        "uid": "1f6e1",
+        "tags": [
+          "shield"
+        ]
+      },
+      {
+        "uid": "1fa9a",
+        "tags": [
+          "carpentry_saw"
+        ]
+      },
+      {
+        "uid": "1f527",
+        "tags": [
+          "wrench"
+        ]
+      },
+      {
+        "uid": "1fa9b",
+        "tags": [
+          "screwdriver"
+        ]
+      },
+      {
+        "uid": "1f529",
+        "tags": [
+          "nut_and_bolt"
+        ]
+      },
+      {
+        "uid": "2699",
+        "tags": [
+          "gear"
+        ]
+      },
+      {
+        "uid": "1f5dc",
+        "tags": [
+          "clamp"
+        ]
+      },
+      {
+        "uid": "2696",
+        "tags": [
+          "balance_scale"
+        ]
+      },
+      {
+        "uid": "1f9af",
+        "tags": [
+          "white_cane"
+        ]
+      },
+      {
+        "uid": "1f517",
+        "tags": [
+          "link"
+        ]
+      },
+      {
+        "uid": "26d3-fe0f-200d-1f4a5",
+        "tags": [
+          "broken_chain"
+        ]
+      },
+      {
+        "uid": "26d3",
+        "tags": [
+          "chains"
+        ]
+      },
+      {
+        "uid": "1fa9d",
+        "tags": [
+          "hook"
+        ]
+      },
+      {
+        "uid": "1f9f0",
+        "tags": [
+          "toolbox"
+        ]
+      },
+      {
+        "uid": "1f9f2",
+        "tags": [
+          "magnet"
+        ]
+      },
+      {
+        "uid": "1fa9c",
+        "tags": [
+          "ladder"
+        ]
+      },
+      {
+        "uid": "2697",
+        "tags": [
+          "alembic"
+        ]
+      },
+      {
+        "uid": "1f9ea",
+        "tags": [
+          "test_tube"
+        ]
+      },
+      {
+        "uid": "1f9eb",
+        "tags": [
+          "petri_dish"
+        ]
+      },
+      {
+        "uid": "1f9ec",
+        "tags": [
+          "dna"
+        ]
+      },
+      {
+        "uid": "1f52c",
+        "tags": [
+          "microscope"
+        ]
+      },
+      {
+        "uid": "1f52d",
+        "tags": [
+          "telescope"
+        ]
+      },
+      {
+        "uid": "1f4e1",
+        "tags": [
+          "satellite_antenna"
+        ]
+      },
+      {
+        "uid": "1f489",
+        "tags": [
+          "syringe"
+        ]
+      },
+      {
+        "uid": "1fa78",
+        "tags": [
+          "drop_of_blood"
+        ]
+      },
+      {
+        "uid": "1f48a",
+        "tags": [
+          "pill"
+        ]
+      },
+      {
+        "uid": "1fa79",
+        "tags": [
+          "adhesive_bandage"
+        ]
+      },
+      {
+        "uid": "1fa7c",
+        "tags": [
+          "crutch"
+        ]
+      },
+      {
+        "uid": "1fa7a",
+        "tags": [
+          "stethoscope"
+        ]
+      },
+      {
+        "uid": "1fa7b",
+        "tags": [
+          "x_ray"
+        ]
+      },
+      {
+        "uid": "1f6aa",
+        "tags": [
+          "door"
+        ]
+      },
+      {
+        "uid": "1f6d7",
+        "tags": [
+          "elevator"
+        ]
+      },
+      {
+        "uid": "1fa9e",
+        "tags": [
+          "mirror"
+        ]
+      },
+      {
+        "uid": "1fa9f",
+        "tags": [
+          "window"
+        ]
+      },
+      {
+        "uid": "1f6cf",
+        "tags": [
+          "bed"
+        ]
+      },
+      {
+        "uid": "1f6cb",
+        "tags": [
+          "couch_and_lamp"
+        ]
+      },
+      {
+        "uid": "1fa91",
+        "tags": [
+          "chair"
+        ]
+      },
+      {
+        "uid": "1f6bd",
+        "tags": [
+          "toilet"
+        ]
+      },
+      {
+        "uid": "1faa0",
+        "tags": [
+          "plunger"
+        ]
+      },
+      {
+        "uid": "1f6bf",
+        "tags": [
+          "shower"
+        ]
+      },
+      {
+        "uid": "1f6c1",
+        "tags": [
+          "bathtub"
+        ]
+      },
+      {
+        "uid": "1faa4",
+        "tags": [
+          "mouse_trap"
+        ]
+      },
+      {
+        "uid": "1fa92",
+        "tags": [
+          "razor"
+        ]
+      },
+      {
+        "uid": "1f9f4",
+        "tags": [
+          "lotion_bottle"
+        ]
+      },
+      {
+        "uid": "1f9f7",
+        "tags": [
+          "safety_pin"
+        ]
+      },
+      {
+        "uid": "1f9f9",
+        "tags": [
+          "broom"
+        ]
+      },
+      {
+        "uid": "1f9fa",
+        "tags": [
+          "basket"
+        ]
+      },
+      {
+        "uid": "1f9fb",
+        "tags": [
+          "roll_of_paper"
+        ]
+      },
+      {
+        "uid": "1faa3",
+        "tags": [
+          "bucket"
+        ]
+      },
+      {
+        "uid": "1f9fc",
+        "tags": [
+          "soap"
+        ]
+      },
+      {
+        "uid": "1fae7",
+        "tags": [
+          "bubbles"
+        ]
+      },
+      {
+        "uid": "1faa5",
+        "tags": [
+          "toothbrush"
+        ]
+      },
+      {
+        "uid": "1f9fd",
+        "tags": [
+          "sponge"
+        ]
+      },
+      {
+        "uid": "1f9ef",
+        "tags": [
+          "fire_extinguisher"
+        ]
+      },
+      {
+        "uid": "1f6d2",
+        "tags": [
+          "shopping_cart"
+        ]
+      },
+      {
+        "uid": "1f6ac",
+        "tags": [
+          "cigarette"
+        ]
+      },
+      {
+        "uid": "26b0",
+        "tags": [
+          "coffin"
+        ]
+      },
+      {
+        "uid": "1faa6",
+        "tags": [
+          "headstone"
+        ]
+      },
+      {
+        "uid": "26b1",
+        "tags": [
+          "funeral_urn"
+        ]
+      },
+      {
+        "uid": "1f9ff",
+        "tags": [
+          "nazar_amulet"
+        ]
+      },
+      {
+        "uid": "1faac",
+        "tags": [
+          "hamsa"
+        ]
+      },
+      {
+        "uid": "1f5ff",
+        "tags": [
+          "moai"
+        ]
+      },
+      {
+        "uid": "1faa7",
+        "tags": [
+          "placard"
+        ]
+      },
+      {
+        "uid": "1faaa",
+        "tags": [
+          "identification_card"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Symbols",
+    "slug": "symbols",
+    "emojis": [
+      {
+        "uid": "1f3e7",
+        "tags": [
+          "atm_sign"
+        ]
+      },
+      {
+        "uid": "1f6ae",
+        "tags": [
+          "litter_in_bin_sign"
+        ]
+      },
+      {
+        "uid": "1f6b0",
+        "tags": [
+          "potable_water"
+        ]
+      },
+      {
+        "uid": "267f",
+        "tags": [
+          "wheelchair_symbol"
+        ]
+      },
+      {
+        "uid": "1f6b9",
+        "tags": [
+          "men_s_room"
+        ]
+      },
+      {
+        "uid": "1f6ba",
+        "tags": [
+          "women_s_room"
+        ]
+      },
+      {
+        "uid": "1f6bb",
+        "tags": [
+          "restroom"
+        ]
+      },
+      {
+        "uid": "1f6bc",
+        "tags": [
+          "baby_symbol"
+        ]
+      },
+      {
+        "uid": "1f6be",
+        "tags": [
+          "water_closet"
+        ]
+      },
+      {
+        "uid": "1f6c2",
+        "tags": [
+          "passport_control"
+        ]
+      },
+      {
+        "uid": "1f6c3",
+        "tags": [
+          "customs"
+        ]
+      },
+      {
+        "uid": "1f6c4",
+        "tags": [
+          "baggage_claim"
+        ]
+      },
+      {
+        "uid": "1f6c5",
+        "tags": [
+          "left_luggage"
+        ]
+      },
+      {
+        "uid": "26a0",
+        "tags": [
+          "warning"
+        ]
+      },
+      {
+        "uid": "1f6b8",
+        "tags": [
+          "children_crossing"
+        ]
+      },
+      {
+        "uid": "26d4",
+        "tags": [
+          "no_entry"
+        ]
+      },
+      {
+        "uid": "1f6ab",
+        "tags": [
+          "prohibited"
+        ]
+      },
+      {
+        "uid": "1f6b3",
+        "tags": [
+          "no_bicycles"
+        ]
+      },
+      {
+        "uid": "1f6ad",
+        "tags": [
+          "no_smoking"
+        ]
+      },
+      {
+        "uid": "1f6af",
+        "tags": [
+          "no_littering"
+        ]
+      },
+      {
+        "uid": "1f6b1",
+        "tags": [
+          "non_potable_water"
+        ]
+      },
+      {
+        "uid": "1f6b7",
+        "tags": [
+          "no_pedestrians"
+        ]
+      },
+      {
+        "uid": "1f4f5",
+        "tags": [
+          "no_mobile_phones"
+        ]
+      },
+      {
+        "uid": "1f51e",
+        "tags": [
+          "no_one_under_eighteen"
+        ]
+      },
+      {
+        "uid": "2622",
+        "tags": [
+          "radioactive"
+        ]
+      },
+      {
+        "uid": "2623",
+        "tags": [
+          "biohazard"
+        ]
+      },
+      {
+        "uid": "2b06",
+        "tags": [
+          "up_arrow"
+        ]
+      },
+      {
+        "uid": "2197",
+        "tags": [
+          "up_right_arrow"
+        ]
+      },
+      {
+        "uid": "27a1",
+        "tags": [
+          "right_arrow"
+        ]
+      },
+      {
+        "uid": "2198",
+        "tags": [
+          "down_right_arrow"
+        ]
+      },
+      {
+        "uid": "2b07",
+        "tags": [
+          "down_arrow"
+        ]
+      },
+      {
+        "uid": "2199",
+        "tags": [
+          "down_left_arrow"
+        ]
+      },
+      {
+        "uid": "2b05",
+        "tags": [
+          "left_arrow"
+        ]
+      },
+      {
+        "uid": "2196",
+        "tags": [
+          "up_left_arrow"
+        ]
+      },
+      {
+        "uid": "2195",
+        "tags": [
+          "up_down_arrow"
+        ]
+      },
+      {
+        "uid": "2194",
+        "tags": [
+          "left_right_arrow"
+        ]
+      },
+      {
+        "uid": "21a9",
+        "tags": [
+          "right_arrow_curving_left"
+        ]
+      },
+      {
+        "uid": "21aa",
+        "tags": [
+          "left_arrow_curving_right"
+        ]
+      },
+      {
+        "uid": "2934",
+        "tags": [
+          "right_arrow_curving_up"
+        ]
+      },
+      {
+        "uid": "2935",
+        "tags": [
+          "right_arrow_curving_down"
+        ]
+      },
+      {
+        "uid": "1f503",
+        "tags": [
+          "clockwise_vertical_arrows"
+        ]
+      },
+      {
+        "uid": "1f504",
+        "tags": [
+          "counterclockwise_arrows_button"
+        ]
+      },
+      {
+        "uid": "1f519",
+        "tags": [
+          "back_arrow"
+        ]
+      },
+      {
+        "uid": "1f51a",
+        "tags": [
+          "end_arrow"
+        ]
+      },
+      {
+        "uid": "1f51b",
+        "tags": [
+          "on_arrow"
+        ]
+      },
+      {
+        "uid": "1f51c",
+        "tags": [
+          "soon_arrow"
+        ]
+      },
+      {
+        "uid": "1f51d",
+        "tags": [
+          "top_arrow"
+        ]
+      },
+      {
+        "uid": "1f6d0",
+        "tags": [
+          "place_of_worship"
+        ]
+      },
+      {
+        "uid": "269b",
+        "tags": [
+          "atom_symbol"
+        ]
+      },
+      {
+        "uid": "1f549",
+        "tags": [
+          "om"
+        ]
+      },
+      {
+        "uid": "2721",
+        "tags": [
+          "star_of_david"
+        ]
+      },
+      {
+        "uid": "2638",
+        "tags": [
+          "wheel_of_dharma"
+        ]
+      },
+      {
+        "uid": "262f",
+        "tags": [
+          "yin_yang"
+        ]
+      },
+      {
+        "uid": "271d",
+        "tags": [
+          "latin_cross"
+        ]
+      },
+      {
+        "uid": "2626",
+        "tags": [
+          "orthodox_cross"
+        ]
+      },
+      {
+        "uid": "262a",
+        "tags": [
+          "star_and_crescent"
+        ]
+      },
+      {
+        "uid": "262e",
+        "tags": [
+          "peace_symbol"
+        ]
+      },
+      {
+        "uid": "1f54e",
+        "tags": [
+          "menorah"
+        ]
+      },
+      {
+        "uid": "1f52f",
+        "tags": [
+          "dotted_six_pointed_star"
+        ]
+      },
+      {
+        "uid": "1faaf",
+        "tags": [
+          "khanda"
+        ]
+      },
+      {
+        "uid": "2648",
+        "tags": [
+          "aries"
+        ]
+      },
+      {
+        "uid": "2649",
+        "tags": [
+          "taurus"
+        ]
+      },
+      {
+        "uid": "264a",
+        "tags": [
+          "gemini"
+        ]
+      },
+      {
+        "uid": "264b",
+        "tags": [
+          "cancer"
+        ]
+      },
+      {
+        "uid": "264c",
+        "tags": [
+          "leo"
+        ]
+      },
+      {
+        "uid": "264d",
+        "tags": [
+          "virgo"
+        ]
+      },
+      {
+        "uid": "264e",
+        "tags": [
+          "libra"
+        ]
+      },
+      {
+        "uid": "264f",
+        "tags": [
+          "scorpio"
+        ]
+      },
+      {
+        "uid": "2650",
+        "tags": [
+          "sagittarius"
+        ]
+      },
+      {
+        "uid": "2651",
+        "tags": [
+          "capricorn"
+        ]
+      },
+      {
+        "uid": "2652",
+        "tags": [
+          "aquarius"
+        ]
+      },
+      {
+        "uid": "2653",
+        "tags": [
+          "pisces"
+        ]
+      },
+      {
+        "uid": "26ce",
+        "tags": [
+          "ophiuchus"
+        ]
+      },
+      {
+        "uid": "1f500",
+        "tags": [
+          "shuffle_tracks_button"
+        ]
+      },
+      {
+        "uid": "1f501",
+        "tags": [
+          "repeat_button"
+        ]
+      },
+      {
+        "uid": "1f502",
+        "tags": [
+          "repeat_single_button"
+        ]
+      },
+      {
+        "uid": "25b6",
+        "tags": [
+          "play_button"
+        ]
+      },
+      {
+        "uid": "23e9",
+        "tags": [
+          "fast_forward_button"
+        ]
+      },
+      {
+        "uid": "23ed",
+        "tags": [
+          "next_track_button"
+        ]
+      },
+      {
+        "uid": "23ef",
+        "tags": [
+          "play_or_pause_button"
+        ]
+      },
+      {
+        "uid": "25c0",
+        "tags": [
+          "reverse_button"
+        ]
+      },
+      {
+        "uid": "23ea",
+        "tags": [
+          "fast_reverse_button"
+        ]
+      },
+      {
+        "uid": "23ee",
+        "tags": [
+          "last_track_button"
+        ]
+      },
+      {
+        "uid": "1f53c",
+        "tags": [
+          "upwards_button"
+        ]
+      },
+      {
+        "uid": "23eb",
+        "tags": [
+          "fast_up_button"
+        ]
+      },
+      {
+        "uid": "1f53d",
+        "tags": [
+          "downwards_button"
+        ]
+      },
+      {
+        "uid": "23ec",
+        "tags": [
+          "fast_down_button"
+        ]
+      },
+      {
+        "uid": "23f8",
+        "tags": [
+          "pause_button"
+        ]
+      },
+      {
+        "uid": "23f9",
+        "tags": [
+          "stop_button"
+        ]
+      },
+      {
+        "uid": "23fa",
+        "tags": [
+          "record_button"
+        ]
+      },
+      {
+        "uid": "23cf",
+        "tags": [
+          "eject_button"
+        ]
+      },
+      {
+        "uid": "1f3a6",
+        "tags": [
+          "cinema"
+        ]
+      },
+      {
+        "uid": "1f505",
+        "tags": [
+          "dim_button"
+        ]
+      },
+      {
+        "uid": "1f506",
+        "tags": [
+          "bright_button"
+        ]
+      },
+      {
+        "uid": "1f4f6",
+        "tags": [
+          "antenna_bars"
+        ]
+      },
+      {
+        "uid": "1f6dc",
+        "tags": [
+          "wireless"
+        ]
+      },
+      {
+        "uid": "1f4f3",
+        "tags": [
+          "vibration_mode"
+        ]
+      },
+      {
+        "uid": "1f4f4",
+        "tags": [
+          "mobile_phone_off"
+        ]
+      },
+      {
+        "uid": "2640",
+        "tags": [
+          "female_sign"
+        ]
+      },
+      {
+        "uid": "2642",
+        "tags": [
+          "male_sign"
+        ]
+      },
+      {
+        "uid": "26a7",
+        "tags": [
+          "transgender_symbol"
+        ]
+      },
+      {
+        "uid": "2716",
+        "tags": [
+          "multiply"
+        ]
+      },
+      {
+        "uid": "2795",
+        "tags": [
+          "plus"
+        ]
+      },
+      {
+        "uid": "2796",
+        "tags": [
+          "minus"
+        ]
+      },
+      {
+        "uid": "2797",
+        "tags": [
+          "divide"
+        ]
+      },
+      {
+        "uid": "1f7f0",
+        "tags": [
+          "heavy_equals_sign"
+        ]
+      },
+      {
+        "uid": "267e",
+        "tags": [
+          "infinity"
+        ]
+      },
+      {
+        "uid": "203c",
+        "tags": [
+          "double_exclamation_mark"
+        ]
+      },
+      {
+        "uid": "2049",
+        "tags": [
+          "exclamation_question_mark"
+        ]
+      },
+      {
+        "uid": "2753",
+        "tags": [
+          "red_question_mark"
+        ]
+      },
+      {
+        "uid": "2754",
+        "tags": [
+          "white_question_mark"
+        ]
+      },
+      {
+        "uid": "2755",
+        "tags": [
+          "white_exclamation_mark"
+        ]
+      },
+      {
+        "uid": "2757",
+        "tags": [
+          "red_exclamation_mark"
+        ]
+      },
+      {
+        "uid": "3030",
+        "tags": [
+          "wavy_dash"
+        ]
+      },
+      {
+        "uid": "1f4b1",
+        "tags": [
+          "currency_exchange"
+        ]
+      },
+      {
+        "uid": "1f4b2",
+        "tags": [
+          "heavy_dollar_sign"
+        ]
+      },
+      {
+        "uid": "2695",
+        "tags": [
+          "medical_symbol"
+        ]
+      },
+      {
+        "uid": "267b",
+        "tags": [
+          "recycling_symbol"
+        ]
+      },
+      {
+        "uid": "269c",
+        "tags": [
+          "fleur_de_lis"
+        ]
+      },
+      {
+        "uid": "1f531",
+        "tags": [
+          "trident_emblem"
+        ]
+      },
+      {
+        "uid": "1f4db",
+        "tags": [
+          "name_badge"
+        ]
+      },
+      {
+        "uid": "1f530",
+        "tags": [
+          "japanese_symbol_for_beginner"
+        ]
+      },
+      {
+        "uid": "2b55",
+        "tags": [
+          "hollow_red_circle"
+        ]
+      },
+      {
+        "uid": "2705",
+        "tags": [
+          "check_mark_button"
+        ]
+      },
+      {
+        "uid": "2611",
+        "tags": [
+          "check_box_with_check"
+        ]
+      },
+      {
+        "uid": "2714",
+        "tags": [
+          "check_mark"
+        ]
+      },
+      {
+        "uid": "274c",
+        "tags": [
+          "cross_mark"
+        ]
+      },
+      {
+        "uid": "274e",
+        "tags": [
+          "cross_mark_button"
+        ]
+      },
+      {
+        "uid": "27b0",
+        "tags": [
+          "curly_loop"
+        ]
+      },
+      {
+        "uid": "27bf",
+        "tags": [
+          "double_curly_loop"
+        ]
+      },
+      {
+        "uid": "303d",
+        "tags": [
+          "part_alternation_mark"
+        ]
+      },
+      {
+        "uid": "2733",
+        "tags": [
+          "eight_spoked_asterisk"
+        ]
+      },
+      {
+        "uid": "2734",
+        "tags": [
+          "eight_pointed_star"
+        ]
+      },
+      {
+        "uid": "2747",
+        "tags": [
+          "sparkle"
+        ]
+      },
+      {
+        "uid": "a9",
+        "tags": [
+          "copyright"
+        ]
+      },
+      {
+        "uid": "ae",
+        "tags": [
+          "registered"
+        ]
+      },
+      {
+        "uid": "2122",
+        "tags": [
+          "trade_mark"
+        ]
+      },
+      {
+        "uid": "1f51f",
+        "tags": [
+          "keycap_10"
+        ]
+      },
+      {
+        "uid": "1f520",
+        "tags": [
+          "input_latin_uppercase"
+        ]
+      },
+      {
+        "uid": "1f521",
+        "tags": [
+          "input_latin_lowercase"
+        ]
+      },
+      {
+        "uid": "1f522",
+        "tags": [
+          "input_numbers"
+        ]
+      },
+      {
+        "uid": "1f523",
+        "tags": [
+          "input_symbols"
+        ]
+      },
+      {
+        "uid": "1f524",
+        "tags": [
+          "input_latin_letters"
+        ]
+      },
+      {
+        "uid": "1f170",
+        "tags": [
+          "a_button_blood_type_"
+        ]
+      },
+      {
+        "uid": "1f18e",
+        "tags": [
+          "ab_button_blood_type_"
+        ]
+      },
+      {
+        "uid": "1f171",
+        "tags": [
+          "b_button_blood_type_"
+        ]
+      },
+      {
+        "uid": "1f191",
+        "tags": [
+          "cl_button"
+        ]
+      },
+      {
+        "uid": "1f192",
+        "tags": [
+          "cool_button"
+        ]
+      },
+      {
+        "uid": "1f193",
+        "tags": [
+          "free_button"
+        ]
+      },
+      {
+        "uid": "2139",
+        "tags": [
+          "information"
+        ]
+      },
+      {
+        "uid": "1f194",
+        "tags": [
+          "id_button"
+        ]
+      },
+      {
+        "uid": "24c2",
+        "tags": [
+          "circled_m"
+        ]
+      },
+      {
+        "uid": "1f195",
+        "tags": [
+          "new_button"
+        ]
+      },
+      {
+        "uid": "1f196",
+        "tags": [
+          "ng_button"
+        ]
+      },
+      {
+        "uid": "1f17e",
+        "tags": [
+          "o_button_blood_type_"
+        ]
+      },
+      {
+        "uid": "1f197",
+        "tags": [
+          "ok_button"
+        ]
+      },
+      {
+        "uid": "1f17f",
+        "tags": [
+          "p_button"
+        ]
+      },
+      {
+        "uid": "1f198",
+        "tags": [
+          "sos_button"
+        ]
+      },
+      {
+        "uid": "1f199",
+        "tags": [
+          "up_button"
+        ]
+      },
+      {
+        "uid": "1f19a",
+        "tags": [
+          "vs_button"
+        ]
+      },
+      {
+        "uid": "1f201",
+        "tags": [
+          "japanese_here_button"
+        ]
+      },
+      {
+        "uid": "1f202",
+        "tags": [
+          "japanese_service_charge_button"
+        ]
+      },
+      {
+        "uid": "1f237",
+        "tags": [
+          "japanese_monthly_amount_button"
+        ]
+      },
+      {
+        "uid": "1f236",
+        "tags": [
+          "japanese_not_free_of_charge_button"
+        ]
+      },
+      {
+        "uid": "1f22f",
+        "tags": [
+          "japanese_reserved_button"
+        ]
+      },
+      {
+        "uid": "1f250",
+        "tags": [
+          "japanese_bargain_button"
+        ]
+      },
+      {
+        "uid": "1f239",
+        "tags": [
+          "japanese_discount_button"
+        ]
+      },
+      {
+        "uid": "1f21a",
+        "tags": [
+          "japanese_free_of_charge_button"
+        ]
+      },
+      {
+        "uid": "1f232",
+        "tags": [
+          "japanese_prohibited_button"
+        ]
+      },
+      {
+        "uid": "1f251",
+        "tags": [
+          "japanese_acceptable_button"
+        ]
+      },
+      {
+        "uid": "1f238",
+        "tags": [
+          "japanese_application_button"
+        ]
+      },
+      {
+        "uid": "1f234",
+        "tags": [
+          "japanese_passing_grade_button"
+        ]
+      },
+      {
+        "uid": "1f233",
+        "tags": [
+          "japanese_vacancy_button"
+        ]
+      },
+      {
+        "uid": "3297",
+        "tags": [
+          "japanese_congratulations_button"
+        ]
+      },
+      {
+        "uid": "3299",
+        "tags": [
+          "japanese_secret_button"
+        ]
+      },
+      {
+        "uid": "1f23a",
+        "tags": [
+          "japanese_open_for_business_button"
+        ]
+      },
+      {
+        "uid": "1f235",
+        "tags": [
+          "japanese_no_vacancy_button"
+        ]
+      },
+      {
+        "uid": "1f534",
+        "tags": [
+          "red_circle"
+        ]
+      },
+      {
+        "uid": "1f7e0",
+        "tags": [
+          "orange_circle"
+        ]
+      },
+      {
+        "uid": "1f7e1",
+        "tags": [
+          "yellow_circle"
+        ]
+      },
+      {
+        "uid": "1f7e2",
+        "tags": [
+          "green_circle"
+        ]
+      },
+      {
+        "uid": "1f535",
+        "tags": [
+          "blue_circle"
+        ]
+      },
+      {
+        "uid": "1f7e3",
+        "tags": [
+          "purple_circle"
+        ]
+      },
+      {
+        "uid": "1f7e4",
+        "tags": [
+          "brown_circle"
+        ]
+      },
+      {
+        "uid": "26ab",
+        "tags": [
+          "black_circle"
+        ]
+      },
+      {
+        "uid": "26aa",
+        "tags": [
+          "white_circle"
+        ]
+      },
+      {
+        "uid": "1f7e5",
+        "tags": [
+          "red_square"
+        ]
+      },
+      {
+        "uid": "1f7e7",
+        "tags": [
+          "orange_square"
+        ]
+      },
+      {
+        "uid": "1f7e8",
+        "tags": [
+          "yellow_square"
+        ]
+      },
+      {
+        "uid": "1f7e9",
+        "tags": [
+          "green_square"
+        ]
+      },
+      {
+        "uid": "1f7e6",
+        "tags": [
+          "blue_square"
+        ]
+      },
+      {
+        "uid": "1f7ea",
+        "tags": [
+          "purple_square"
+        ]
+      },
+      {
+        "uid": "1f7eb",
+        "tags": [
+          "brown_square"
+        ]
+      },
+      {
+        "uid": "2b1b",
+        "tags": [
+          "black_large_square"
+        ]
+      },
+      {
+        "uid": "2b1c",
+        "tags": [
+          "white_large_square"
+        ]
+      },
+      {
+        "uid": "25fc",
+        "tags": [
+          "black_medium_square"
+        ]
+      },
+      {
+        "uid": "25fb",
+        "tags": [
+          "white_medium_square"
+        ]
+      },
+      {
+        "uid": "25fe",
+        "tags": [
+          "black_medium_small_square"
+        ]
+      },
+      {
+        "uid": "25fd",
+        "tags": [
+          "white_medium_small_square"
+        ]
+      },
+      {
+        "uid": "25aa",
+        "tags": [
+          "black_small_square"
+        ]
+      },
+      {
+        "uid": "25ab",
+        "tags": [
+          "white_small_square"
+        ]
+      },
+      {
+        "uid": "1f536",
+        "tags": [
+          "large_orange_diamond"
+        ]
+      },
+      {
+        "uid": "1f537",
+        "tags": [
+          "large_blue_diamond"
+        ]
+      },
+      {
+        "uid": "1f538",
+        "tags": [
+          "small_orange_diamond"
+        ]
+      },
+      {
+        "uid": "1f539",
+        "tags": [
+          "small_blue_diamond"
+        ]
+      },
+      {
+        "uid": "1f53a",
+        "tags": [
+          "red_triangle_pointed_up"
+        ]
+      },
+      {
+        "uid": "1f53b",
+        "tags": [
+          "red_triangle_pointed_down"
+        ]
+      },
+      {
+        "uid": "1f4a0",
+        "tags": [
+          "diamond_with_a_dot"
+        ]
+      },
+      {
+        "uid": "1f518",
+        "tags": [
+          "radio_button"
+        ]
+      },
+      {
+        "uid": "1f533",
+        "tags": [
+          "white_square_button"
+        ]
+      },
+      {
+        "uid": "1f532",
+        "tags": [
+          "black_square_button"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Flags",
+    "slug": "flags",
+    "emojis": [
+      {
+        "uid": "1f3c1",
+        "tags": [
+          "chequered_flag"
+        ]
+      },
+      {
+        "uid": "1f6a9",
+        "tags": [
+          "triangular_flag"
+        ]
+      },
+      {
+        "uid": "1f38c",
+        "tags": [
+          "crossed_flags"
+        ]
+      },
+      {
+        "uid": "1f3f4",
+        "tags": [
+          "black_flag"
+        ]
+      },
+      {
+        "uid": "1f3f3",
+        "tags": [
+          "white_flag"
+        ]
+      },
+      {
+        "uid": "1f3f3-fe0f-200d-1f308",
+        "tags": [
+          "rainbow_flag"
+        ]
+      },
+      {
+        "uid": "1f3f3-fe0f-200d-26a7-fe0f",
+        "tags": [
+          "transgender_flag"
+        ]
+      },
+      {
+        "uid": "1f3f4-200d-2620-fe0f",
+        "tags": [
+          "pirate_flag"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1e8",
+        "tags": [
+          "flag_ascension_island"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1e9",
+        "tags": [
+          "flag_andorra"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1ea",
+        "tags": [
+          "flag_united_arab_emirates"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1eb",
+        "tags": [
+          "flag_afghanistan"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1ec",
+        "tags": [
+          "flag_antigua_barbuda"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1ee",
+        "tags": [
+          "flag_anguilla"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1f1",
+        "tags": [
+          "flag_albania"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1f2",
+        "tags": [
+          "flag_armenia"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1f4",
+        "tags": [
+          "flag_angola"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1f6",
+        "tags": [
+          "flag_antarctica"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1f7",
+        "tags": [
+          "flag_argentina"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1f8",
+        "tags": [
+          "flag_american_samoa"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1f9",
+        "tags": [
+          "flag_austria"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1fa",
+        "tags": [
+          "flag_australia"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1fc",
+        "tags": [
+          "flag_aruba"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1fd",
+        "tags": [
+          "flag_aland_islands"
+        ]
+      },
+      {
+        "uid": "1f1e6-1f1ff",
+        "tags": [
+          "flag_azerbaijan"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1e6",
+        "tags": [
+          "flag_bosnia_herzegovina"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1e7",
+        "tags": [
+          "flag_barbados"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1e9",
+        "tags": [
+          "flag_bangladesh"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1ea",
+        "tags": [
+          "flag_belgium"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1eb",
+        "tags": [
+          "flag_burkina_faso"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1ec",
+        "tags": [
+          "flag_bulgaria"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1ed",
+        "tags": [
+          "flag_bahrain"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1ee",
+        "tags": [
+          "flag_burundi"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1ef",
+        "tags": [
+          "flag_benin"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1f1",
+        "tags": [
+          "flag_st_barthelemy"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1f2",
+        "tags": [
+          "flag_bermuda"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1f3",
+        "tags": [
+          "flag_brunei"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1f4",
+        "tags": [
+          "flag_bolivia"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1f6",
+        "tags": [
+          "flag_caribbean_netherlands"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1f7",
+        "tags": [
+          "flag_brazil"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1f8",
+        "tags": [
+          "flag_bahamas"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1f9",
+        "tags": [
+          "flag_bhutan"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1fb",
+        "tags": [
+          "flag_bouvet_island"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1fc",
+        "tags": [
+          "flag_botswana"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1fe",
+        "tags": [
+          "flag_belarus"
+        ]
+      },
+      {
+        "uid": "1f1e7-1f1ff",
+        "tags": [
+          "flag_belize"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1e6",
+        "tags": [
+          "flag_canada"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1e8",
+        "tags": [
+          "flag_cocos_keeling_islands"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1e9",
+        "tags": [
+          "flag_congo_kinshasa"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1eb",
+        "tags": [
+          "flag_central_african_republic"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1ec",
+        "tags": [
+          "flag_congo_brazzaville"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1ed",
+        "tags": [
+          "flag_switzerland"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1ee",
+        "tags": [
+          "flag_cote_d_ivoire"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1f0",
+        "tags": [
+          "flag_cook_islands"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1f1",
+        "tags": [
+          "flag_chile"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1f2",
+        "tags": [
+          "flag_cameroon"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1f3",
+        "tags": [
+          "flag_china"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1f4",
+        "tags": [
+          "flag_colombia"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1f5",
+        "tags": [
+          "flag_clipperton_island"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1f7",
+        "tags": [
+          "flag_costa_rica"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1fa",
+        "tags": [
+          "flag_cuba"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1fb",
+        "tags": [
+          "flag_cape_verde"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1fc",
+        "tags": [
+          "flag_curacao"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1fd",
+        "tags": [
+          "flag_christmas_island"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1fe",
+        "tags": [
+          "flag_cyprus"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1ff",
+        "tags": [
+          "flag_czechia"
+        ]
+      },
+      {
+        "uid": "1f1e9-1f1ea",
+        "tags": [
+          "flag_germany"
+        ]
+      },
+      {
+        "uid": "1f1e9-1f1ec",
+        "tags": [
+          "flag_diego_garcia"
+        ]
+      },
+      {
+        "uid": "1f1e9-1f1ef",
+        "tags": [
+          "flag_djibouti"
+        ]
+      },
+      {
+        "uid": "1f1e9-1f1f0",
+        "tags": [
+          "flag_denmark"
+        ]
+      },
+      {
+        "uid": "1f1e9-1f1f2",
+        "tags": [
+          "flag_dominica"
+        ]
+      },
+      {
+        "uid": "1f1e9-1f1f4",
+        "tags": [
+          "flag_dominican_republic"
+        ]
+      },
+      {
+        "uid": "1f1e9-1f1ff",
+        "tags": [
+          "flag_algeria"
+        ]
+      },
+      {
+        "uid": "1f1ea-1f1e6",
+        "tags": [
+          "flag_ceuta_melilla"
+        ]
+      },
+      {
+        "uid": "1f1ea-1f1e8",
+        "tags": [
+          "flag_ecuador"
+        ]
+      },
+      {
+        "uid": "1f1ea-1f1ea",
+        "tags": [
+          "flag_estonia"
+        ]
+      },
+      {
+        "uid": "1f1ea-1f1ec",
+        "tags": [
+          "flag_egypt"
+        ]
+      },
+      {
+        "uid": "1f1ea-1f1ed",
+        "tags": [
+          "flag_western_sahara"
+        ]
+      },
+      {
+        "uid": "1f1ea-1f1f7",
+        "tags": [
+          "flag_eritrea"
+        ]
+      },
+      {
+        "uid": "1f1ea-1f1f8",
+        "tags": [
+          "flag_spain"
+        ]
+      },
+      {
+        "uid": "1f1ea-1f1f9",
+        "tags": [
+          "flag_ethiopia"
+        ]
+      },
+      {
+        "uid": "1f1ea-1f1fa",
+        "tags": [
+          "flag_european_union"
+        ]
+      },
+      {
+        "uid": "1f1eb-1f1ee",
+        "tags": [
+          "flag_finland"
+        ]
+      },
+      {
+        "uid": "1f1eb-1f1ef",
+        "tags": [
+          "flag_fiji"
+        ]
+      },
+      {
+        "uid": "1f1eb-1f1f0",
+        "tags": [
+          "flag_falkland_islands"
+        ]
+      },
+      {
+        "uid": "1f1eb-1f1f2",
+        "tags": [
+          "flag_micronesia"
+        ]
+      },
+      {
+        "uid": "1f1eb-1f1f4",
+        "tags": [
+          "flag_faroe_islands"
+        ]
+      },
+      {
+        "uid": "1f1eb-1f1f7",
+        "tags": [
+          "flag_france"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1e6",
+        "tags": [
+          "flag_gabon"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1e7",
+        "tags": [
+          "flag_united_kingdom"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1e9",
+        "tags": [
+          "flag_grenada"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1ea",
+        "tags": [
+          "flag_georgia"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1eb",
+        "tags": [
+          "flag_french_guiana"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1ec",
+        "tags": [
+          "flag_guernsey"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1ed",
+        "tags": [
+          "flag_ghana"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1ee",
+        "tags": [
+          "flag_gibraltar"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1f1",
+        "tags": [
+          "flag_greenland"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1f2",
+        "tags": [
+          "flag_gambia"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1f3",
+        "tags": [
+          "flag_guinea"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1f5",
+        "tags": [
+          "flag_guadeloupe"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1f6",
+        "tags": [
+          "flag_equatorial_guinea"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1f7",
+        "tags": [
+          "flag_greece"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1f8",
+        "tags": [
+          "flag_south_georgia_south_sandwich_islands"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1f9",
+        "tags": [
+          "flag_guatemala"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1fa",
+        "tags": [
+          "flag_guam"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1fc",
+        "tags": [
+          "flag_guinea_bissau"
+        ]
+      },
+      {
+        "uid": "1f1ec-1f1fe",
+        "tags": [
+          "flag_guyana"
+        ]
+      },
+      {
+        "uid": "1f1ed-1f1f0",
+        "tags": [
+          "flag_hong_kong_sar_china"
+        ]
+      },
+      {
+        "uid": "1f1ed-1f1f2",
+        "tags": [
+          "flag_heard_mcdonald_islands"
+        ]
+      },
+      {
+        "uid": "1f1ed-1f1f3",
+        "tags": [
+          "flag_honduras"
+        ]
+      },
+      {
+        "uid": "1f1ed-1f1f7",
+        "tags": [
+          "flag_croatia"
+        ]
+      },
+      {
+        "uid": "1f1ed-1f1f9",
+        "tags": [
+          "flag_haiti"
+        ]
+      },
+      {
+        "uid": "1f1ed-1f1fa",
+        "tags": [
+          "flag_hungary"
+        ]
+      },
+      {
+        "uid": "1f1ee-1f1e8",
+        "tags": [
+          "flag_canary_islands"
+        ]
+      },
+      {
+        "uid": "1f1ee-1f1e9",
+        "tags": [
+          "flag_indonesia"
+        ]
+      },
+      {
+        "uid": "1f1ee-1f1ea",
+        "tags": [
+          "flag_ireland"
+        ]
+      },
+      {
+        "uid": "1f1ee-1f1f1",
+        "tags": [
+          "flag_israel"
+        ]
+      },
+      {
+        "uid": "1f1ee-1f1f2",
+        "tags": [
+          "flag_isle_of_man"
+        ]
+      },
+      {
+        "uid": "1f1ee-1f1f3",
+        "tags": [
+          "flag_india"
+        ]
+      },
+      {
+        "uid": "1f1ee-1f1f4",
+        "tags": [
+          "flag_british_indian_ocean_territory"
+        ]
+      },
+      {
+        "uid": "1f1ee-1f1f6",
+        "tags": [
+          "flag_iraq"
+        ]
+      },
+      {
+        "uid": "1f1ee-1f1f7",
+        "tags": [
+          "flag_iran"
+        ]
+      },
+      {
+        "uid": "1f1ee-1f1f8",
+        "tags": [
+          "flag_iceland"
+        ]
+      },
+      {
+        "uid": "1f1ee-1f1f9",
+        "tags": [
+          "flag_italy"
+        ]
+      },
+      {
+        "uid": "1f1ef-1f1ea",
+        "tags": [
+          "flag_jersey"
+        ]
+      },
+      {
+        "uid": "1f1ef-1f1f2",
+        "tags": [
+          "flag_jamaica"
+        ]
+      },
+      {
+        "uid": "1f1ef-1f1f4",
+        "tags": [
+          "flag_jordan"
+        ]
+      },
+      {
+        "uid": "1f1ef-1f1f5",
+        "tags": [
+          "flag_japan"
+        ]
+      },
+      {
+        "uid": "1f1f0-1f1ea",
+        "tags": [
+          "flag_kenya"
+        ]
+      },
+      {
+        "uid": "1f1f0-1f1ec",
+        "tags": [
+          "flag_kyrgyzstan"
+        ]
+      },
+      {
+        "uid": "1f1f0-1f1ed",
+        "tags": [
+          "flag_cambodia"
+        ]
+      },
+      {
+        "uid": "1f1f0-1f1ee",
+        "tags": [
+          "flag_kiribati"
+        ]
+      },
+      {
+        "uid": "1f1f0-1f1f2",
+        "tags": [
+          "flag_comoros"
+        ]
+      },
+      {
+        "uid": "1f1f0-1f1f3",
+        "tags": [
+          "flag_st_kitts_nevis"
+        ]
+      },
+      {
+        "uid": "1f1f0-1f1f5",
+        "tags": [
+          "flag_north_korea"
+        ]
+      },
+      {
+        "uid": "1f1f0-1f1f7",
+        "tags": [
+          "flag_south_korea"
+        ]
+      },
+      {
+        "uid": "1f1f0-1f1fc",
+        "tags": [
+          "flag_kuwait"
+        ]
+      },
+      {
+        "uid": "1f1f0-1f1fe",
+        "tags": [
+          "flag_cayman_islands"
+        ]
+      },
+      {
+        "uid": "1f1f0-1f1ff",
+        "tags": [
+          "flag_kazakhstan"
+        ]
+      },
+      {
+        "uid": "1f1f1-1f1e6",
+        "tags": [
+          "flag_laos"
+        ]
+      },
+      {
+        "uid": "1f1f1-1f1e7",
+        "tags": [
+          "flag_lebanon"
+        ]
+      },
+      {
+        "uid": "1f1f1-1f1e8",
+        "tags": [
+          "flag_st_lucia"
+        ]
+      },
+      {
+        "uid": "1f1f1-1f1ee",
+        "tags": [
+          "flag_liechtenstein"
+        ]
+      },
+      {
+        "uid": "1f1f1-1f1f0",
+        "tags": [
+          "flag_sri_lanka"
+        ]
+      },
+      {
+        "uid": "1f1f1-1f1f7",
+        "tags": [
+          "flag_liberia"
+        ]
+      },
+      {
+        "uid": "1f1f1-1f1f8",
+        "tags": [
+          "flag_lesotho"
+        ]
+      },
+      {
+        "uid": "1f1f1-1f1f9",
+        "tags": [
+          "flag_lithuania"
+        ]
+      },
+      {
+        "uid": "1f1f1-1f1fa",
+        "tags": [
+          "flag_luxembourg"
+        ]
+      },
+      {
+        "uid": "1f1f1-1f1fb",
+        "tags": [
+          "flag_latvia"
+        ]
+      },
+      {
+        "uid": "1f1f1-1f1fe",
+        "tags": [
+          "flag_libya"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1e6",
+        "tags": [
+          "flag_morocco"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1e8",
+        "tags": [
+          "flag_monaco"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1e9",
+        "tags": [
+          "flag_moldova"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1ea",
+        "tags": [
+          "flag_montenegro"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1eb",
+        "tags": [
+          "flag_st_martin"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1ec",
+        "tags": [
+          "flag_madagascar"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1ed",
+        "tags": [
+          "flag_marshall_islands"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1f0",
+        "tags": [
+          "flag_north_macedonia"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1f1",
+        "tags": [
+          "flag_mali"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1f2",
+        "tags": [
+          "flag_myanmar_burma_"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1f3",
+        "tags": [
+          "flag_mongolia"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1f4",
+        "tags": [
+          "flag_macao_sar_china"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1f5",
+        "tags": [
+          "flag_northern_mariana_islands"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1f6",
+        "tags": [
+          "flag_martinique"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1f7",
+        "tags": [
+          "flag_mauritania"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1f8",
+        "tags": [
+          "flag_montserrat"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1f9",
+        "tags": [
+          "flag_malta"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1fa",
+        "tags": [
+          "flag_mauritius"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1fb",
+        "tags": [
+          "flag_maldives"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1fc",
+        "tags": [
+          "flag_malawi"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1fd",
+        "tags": [
+          "flag_mexico"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1fe",
+        "tags": [
+          "flag_malaysia"
+        ]
+      },
+      {
+        "uid": "1f1f2-1f1ff",
+        "tags": [
+          "flag_mozambique"
+        ]
+      },
+      {
+        "uid": "1f1f3-1f1e6",
+        "tags": [
+          "flag_namibia"
+        ]
+      },
+      {
+        "uid": "1f1f3-1f1e8",
+        "tags": [
+          "flag_new_caledonia"
+        ]
+      },
+      {
+        "uid": "1f1f3-1f1ea",
+        "tags": [
+          "flag_niger"
+        ]
+      },
+      {
+        "uid": "1f1f3-1f1eb",
+        "tags": [
+          "flag_norfolk_island"
+        ]
+      },
+      {
+        "uid": "1f1f3-1f1ec",
+        "tags": [
+          "flag_nigeria"
+        ]
+      },
+      {
+        "uid": "1f1f3-1f1ee",
+        "tags": [
+          "flag_nicaragua"
+        ]
+      },
+      {
+        "uid": "1f1f3-1f1f1",
+        "tags": [
+          "flag_netherlands"
+        ]
+      },
+      {
+        "uid": "1f1f3-1f1f4",
+        "tags": [
+          "flag_norway"
+        ]
+      },
+      {
+        "uid": "1f1f3-1f1f5",
+        "tags": [
+          "flag_nepal"
+        ]
+      },
+      {
+        "uid": "1f1f3-1f1f7",
+        "tags": [
+          "flag_nauru"
+        ]
+      },
+      {
+        "uid": "1f1f3-1f1fa",
+        "tags": [
+          "flag_niue"
+        ]
+      },
+      {
+        "uid": "1f1f3-1f1ff",
+        "tags": [
+          "flag_new_zealand"
+        ]
+      },
+      {
+        "uid": "1f1f4-1f1f2",
+        "tags": [
+          "flag_oman"
+        ]
+      },
+      {
+        "uid": "1f1f5-1f1e6",
+        "tags": [
+          "flag_panama"
+        ]
+      },
+      {
+        "uid": "1f1f5-1f1ea",
+        "tags": [
+          "flag_peru"
+        ]
+      },
+      {
+        "uid": "1f1f5-1f1eb",
+        "tags": [
+          "flag_french_polynesia"
+        ]
+      },
+      {
+        "uid": "1f1f5-1f1ec",
+        "tags": [
+          "flag_papua_new_guinea"
+        ]
+      },
+      {
+        "uid": "1f1f5-1f1ed",
+        "tags": [
+          "flag_philippines"
+        ]
+      },
+      {
+        "uid": "1f1f5-1f1f0",
+        "tags": [
+          "flag_pakistan"
+        ]
+      },
+      {
+        "uid": "1f1f5-1f1f1",
+        "tags": [
+          "flag_poland"
+        ]
+      },
+      {
+        "uid": "1f1f5-1f1f2",
+        "tags": [
+          "flag_st_pierre_miquelon"
+        ]
+      },
+      {
+        "uid": "1f1f5-1f1f3",
+        "tags": [
+          "flag_pitcairn_islands"
+        ]
+      },
+      {
+        "uid": "1f1f5-1f1f7",
+        "tags": [
+          "flag_puerto_rico"
+        ]
+      },
+      {
+        "uid": "1f1f5-1f1f8",
+        "tags": [
+          "flag_palestinian_territories"
+        ]
+      },
+      {
+        "uid": "1f1f5-1f1f9",
+        "tags": [
+          "flag_portugal"
+        ]
+      },
+      {
+        "uid": "1f1f5-1f1fc",
+        "tags": [
+          "flag_palau"
+        ]
+      },
+      {
+        "uid": "1f1f5-1f1fe",
+        "tags": [
+          "flag_paraguay"
+        ]
+      },
+      {
+        "uid": "1f1f6-1f1e6",
+        "tags": [
+          "flag_qatar"
+        ]
+      },
+      {
+        "uid": "1f1f7-1f1ea",
+        "tags": [
+          "flag_reunion"
+        ]
+      },
+      {
+        "uid": "1f1f7-1f1f4",
+        "tags": [
+          "flag_romania"
+        ]
+      },
+      {
+        "uid": "1f1f7-1f1f8",
+        "tags": [
+          "flag_serbia"
+        ]
+      },
+      {
+        "uid": "1f1f7-1f1fa",
+        "tags": [
+          "flag_russia"
+        ]
+      },
+      {
+        "uid": "1f1f7-1f1fc",
+        "tags": [
+          "flag_rwanda"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1e6",
+        "tags": [
+          "flag_saudi_arabia"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1e7",
+        "tags": [
+          "flag_solomon_islands"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1e8",
+        "tags": [
+          "flag_seychelles"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1e9",
+        "tags": [
+          "flag_sudan"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1ea",
+        "tags": [
+          "flag_sweden"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1ec",
+        "tags": [
+          "flag_singapore"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1ed",
+        "tags": [
+          "flag_st_helena"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1ee",
+        "tags": [
+          "flag_slovenia"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1ef",
+        "tags": [
+          "flag_svalbard_jan_mayen"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1f0",
+        "tags": [
+          "flag_slovakia"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1f1",
+        "tags": [
+          "flag_sierra_leone"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1f2",
+        "tags": [
+          "flag_san_marino"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1f3",
+        "tags": [
+          "flag_senegal"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1f4",
+        "tags": [
+          "flag_somalia"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1f7",
+        "tags": [
+          "flag_suriname"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1f8",
+        "tags": [
+          "flag_south_sudan"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1f9",
+        "tags": [
+          "flag_sao_tome_principe"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1fb",
+        "tags": [
+          "flag_el_salvador"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1fd",
+        "tags": [
+          "flag_sint_maarten"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1fe",
+        "tags": [
+          "flag_syria"
+        ]
+      },
+      {
+        "uid": "1f1f8-1f1ff",
+        "tags": [
+          "flag_eswatini"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1e6",
+        "tags": [
+          "flag_tristan_da_cunha"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1e8",
+        "tags": [
+          "flag_turks_caicos_islands"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1e9",
+        "tags": [
+          "flag_chad"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1eb",
+        "tags": [
+          "flag_french_southern_territories"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1ec",
+        "tags": [
+          "flag_togo"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1ed",
+        "tags": [
+          "flag_thailand"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1ef",
+        "tags": [
+          "flag_tajikistan"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1f0",
+        "tags": [
+          "flag_tokelau"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1f1",
+        "tags": [
+          "flag_timor_leste"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1f2",
+        "tags": [
+          "flag_turkmenistan"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1f3",
+        "tags": [
+          "flag_tunisia"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1f4",
+        "tags": [
+          "flag_tonga"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1f7",
+        "tags": [
+          "flag_turkiye"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1f9",
+        "tags": [
+          "flag_trinidad_tobago"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1fb",
+        "tags": [
+          "flag_tuvalu"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1fc",
+        "tags": [
+          "flag_taiwan"
+        ]
+      },
+      {
+        "uid": "1f1f9-1f1ff",
+        "tags": [
+          "flag_tanzania"
+        ]
+      },
+      {
+        "uid": "1f1fa-1f1e6",
+        "tags": [
+          "flag_ukraine"
+        ]
+      },
+      {
+        "uid": "1f1fa-1f1ec",
+        "tags": [
+          "flag_uganda"
+        ]
+      },
+      {
+        "uid": "1f1fa-1f1f2",
+        "tags": [
+          "flag_u_s_outlying_islands"
+        ]
+      },
+      {
+        "uid": "1f1fa-1f1f3",
+        "tags": [
+          "flag_united_nations"
+        ]
+      },
+      {
+        "uid": "1f1fa-1f1f8",
+        "tags": [
+          "flag_united_states"
+        ]
+      },
+      {
+        "uid": "1f1fa-1f1fe",
+        "tags": [
+          "flag_uruguay"
+        ]
+      },
+      {
+        "uid": "1f1fa-1f1ff",
+        "tags": [
+          "flag_uzbekistan"
+        ]
+      },
+      {
+        "uid": "1f1fb-1f1e6",
+        "tags": [
+          "flag_vatican_city"
+        ]
+      },
+      {
+        "uid": "1f1fb-1f1e8",
+        "tags": [
+          "flag_st_vincent_grenadines"
+        ]
+      },
+      {
+        "uid": "1f1fb-1f1ea",
+        "tags": [
+          "flag_venezuela"
+        ]
+      },
+      {
+        "uid": "1f1fb-1f1ec",
+        "tags": [
+          "flag_british_virgin_islands"
+        ]
+      },
+      {
+        "uid": "1f1fb-1f1ee",
+        "tags": [
+          "flag_u_s_virgin_islands"
+        ]
+      },
+      {
+        "uid": "1f1fb-1f1f3",
+        "tags": [
+          "flag_vietnam"
+        ]
+      },
+      {
+        "uid": "1f1fb-1f1fa",
+        "tags": [
+          "flag_vanuatu"
+        ]
+      },
+      {
+        "uid": "1f1fc-1f1eb",
+        "tags": [
+          "flag_wallis_futuna"
+        ]
+      },
+      {
+        "uid": "1f1fc-1f1f8",
+        "tags": [
+          "flag_samoa"
+        ]
+      },
+      {
+        "uid": "1f1fd-1f1f0",
+        "tags": [
+          "flag_kosovo"
+        ]
+      },
+      {
+        "uid": "1f1fe-1f1ea",
+        "tags": [
+          "flag_yemen"
+        ]
+      },
+      {
+        "uid": "1f1fe-1f1f9",
+        "tags": [
+          "flag_mayotte"
+        ]
+      },
+      {
+        "uid": "1f1ff-1f1e6",
+        "tags": [
+          "flag_south_africa"
+        ]
+      },
+      {
+        "uid": "1f1ff-1f1f2",
+        "tags": [
+          "flag_zambia"
+        ]
+      },
+      {
+        "uid": "1f1ff-1f1fc",
+        "tags": [
+          "flag_zimbabwe"
+        ]
+      },
+      {
+        "uid": "1f3f4-e0067-e0062-e0065-e006e-e0067-e007f",
+        "tags": [
+          "flag_england"
+        ]
+      },
+      {
+        "uid": "1f3f4-e0067-e0062-e0073-e0063-e0074-e007f",
+        "tags": [
+          "flag_scotland"
+        ]
+      },
+      {
+        "uid": "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f",
+        "tags": [
+          "flag_wales"
+        ]
+      }
+    ]
+  }
+]
