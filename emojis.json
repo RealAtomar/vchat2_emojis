@@ -346,6 +346,12 @@
         ]
       },
       {
+        "uid": "1fae9",
+        "tags": [
+          "face_with_bags_under_eyes"
+        ]
+      },
+      {
         "uid": "1f637",
         "tags": [
           "face_with_medical_mask"
@@ -505,6 +511,12 @@
         "uid": "1f633",
         "tags": [
           "flushed_face"
+        ]
+      },
+      {
+        "uid": "1faea",
+        "tags": [
+          "distorted_face"
         ]
       },
       {
@@ -943,6 +955,12 @@
         "uid": "1f4a2",
         "tags": [
           "anger_symbol"
+        ]
+      },
+      {
+        "uid": "1faef",
+        "tags": [
+          "fight_cloud"
         ]
       },
       {
@@ -2410,6 +2428,12 @@
         ]
       },
       {
+        "uid": "1fac8",
+        "tags": [
+          "hairy_creature"
+        ]
+      },
+      {
         "uid": "1f486",
         "tags": [
           "person_getting_massage"
@@ -2677,6 +2701,12 @@
         "uid": "1f3c3-200d-2642-fe0f-200d-27a1-fe0f",
         "tags": [
           "man_running_facing_right"
+        ]
+      },
+      {
+        "uid": "1f9d1-200d-1fa70",
+        "tags": [
+          "ballet_dancer"
         ]
       },
       {
@@ -3320,6 +3350,12 @@
         "tags": [
           "footprints"
         ]
+      },
+      {
+        "uid": "1fac6",
+        "tags": [
+          "fingerprint"
+        ]
       }
     ]
   },
@@ -3928,6 +3964,12 @@
         ]
       },
       {
+        "uid": "1facd",
+        "tags": [
+          "orca"
+        ]
+      },
+      {
         "uid": "1f9ad",
         "tags": [
           "seal"
@@ -3979,6 +4021,36 @@
         "uid": "1fabc",
         "tags": [
           "jellyfish"
+        ]
+      },
+      {
+        "uid": "1f980",
+        "tags": [
+          "crab"
+        ]
+      },
+      {
+        "uid": "1f99e",
+        "tags": [
+          "lobster"
+        ]
+      },
+      {
+        "uid": "1f990",
+        "tags": [
+          "shrimp"
+        ]
+      },
+      {
+        "uid": "1f991",
+        "tags": [
+          "squid"
+        ]
+      },
+      {
+        "uid": "1f9aa",
+        "tags": [
+          "oyster"
         ]
       },
       {
@@ -4244,6 +4316,12 @@
         "tags": [
           "mushroom"
         ]
+      },
+      {
+        "uid": "1fabe",
+        "tags": [
+          "leafless_tree"
+        ]
       }
     ]
   },
@@ -4477,6 +4555,12 @@
         "uid": "1f344-200d-1f7eb",
         "tags": [
           "brown_mushroom"
+        ]
+      },
+      {
+        "uid": "1fadc",
+        "tags": [
+          "root_vegetable"
         ]
       },
       {
@@ -4786,36 +4870,6 @@
         ]
       },
       {
-        "uid": "1f980",
-        "tags": [
-          "crab"
-        ]
-      },
-      {
-        "uid": "1f99e",
-        "tags": [
-          "lobster"
-        ]
-      },
-      {
-        "uid": "1f990",
-        "tags": [
-          "shrimp"
-        ]
-      },
-      {
-        "uid": "1f991",
-        "tags": [
-          "squid"
-        ]
-      },
-      {
-        "uid": "1f9aa",
-        "tags": [
-          "oyster"
-        ]
-      },
-      {
         "uid": "1f366",
         "tags": [
           "soft_ice_cream"
@@ -5119,6 +5173,12 @@
         "uid": "26f0",
         "tags": [
           "mountain"
+        ]
+      },
+      {
+        "uid": "1f6d8",
+        "tags": [
+          "landslide"
         ]
       },
       {
@@ -7294,6 +7354,18 @@
         ]
       },
       {
+        "uid": "1f3ba",
+        "tags": [
+          "trumpet"
+        ]
+      },
+      {
+        "uid": "1fa8a",
+        "tags": [
+          "trombone"
+        ]
+      },
+      {
         "uid": "1fa97",
         "tags": [
           "accordion"
@@ -7309,12 +7381,6 @@
         "uid": "1f3b9",
         "tags": [
           "musical_keyboard"
-        ]
-      },
-      {
-        "uid": "1f3ba",
-        "tags": [
-          "trumpet"
         ]
       },
       {
@@ -7351,6 +7417,12 @@
         "uid": "1fa88",
         "tags": [
           "flute"
+        ]
+      },
+      {
+        "uid": "1fa89",
+        "tags": [
+          "harp"
         ]
       },
       {
@@ -7672,15 +7744,21 @@
         ]
       },
       {
+        "uid": "1fa99",
+        "tags": [
+          "coin"
+        ]
+      },
+      {
         "uid": "1f4b0",
         "tags": [
           "money_bag"
         ]
       },
       {
-        "uid": "1fa99",
+        "uid": "1fa8e",
         "tags": [
-          "coin"
+          "treasure_chest"
         ]
       },
       {
@@ -8179,6 +8257,12 @@
         "uid": "1fa9c",
         "tags": [
           "ladder"
+        ]
+      },
+      {
+        "uid": "1fa8f",
+        "tags": [
+          "shovel"
         ]
       },
       {
@@ -9298,6 +9382,12 @@
         ]
       },
       {
+        "uid": "1fadf",
+        "tags": [
+          "splatter"
+        ]
+      },
+      {
         "uid": "1f51f",
         "tags": [
           "keycap_10"
@@ -10099,6 +10189,12 @@
         "uid": "1f1e8-1f1f5",
         "tags": [
           "flag_clipperton_island"
+        ]
+      },
+      {
+        "uid": "1f1e8-1f1f6",
+        "tags": [
+          "flag_sark"
         ]
       },
       {
